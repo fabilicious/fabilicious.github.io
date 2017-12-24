@@ -1,3 +1,14 @@
-.row{
+@font-face {
+    font-family: delicious_curls;
+    src:  url("../fonts/deliciousCurls/Delicious_Curls_bold.ttf")  format('truetype');
+}
+
+#header h1 {
+    font-family: "delicious_curls", sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.row {
     margin-top: 5%;
 }
