@@ -3,11 +3,35 @@
     src:  url("../fonts/deliciousCurls/Delicious_Curls_bold.ttf")  format('truetype');
 }
 
+/* -----------------  HEADER ----------------- */
 #header h1 {
     font-family: "delicious_curls", sans-serif;
     font-size: 50px;
     text-align: center;
 }
+
+#header img {
+    display: block;
+    width: 50%;
+}
+
+/* -----------------  NAVBAR ----------------- */
+.navbar-default {
+    background-color: white;
+    border: none;
+    color: #3e3f3a;
+}
+
+.navbar-default a {
+    color: #3e3f3a !important;
+}
+
+div.navbar-default {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 
 .row {
     margin-top: 5%;
