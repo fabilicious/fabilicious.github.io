@@ -1,2 +1,1 @@
-# Fabilicious
-Fabilicious food blog
+# A static angularjs based blog application.
