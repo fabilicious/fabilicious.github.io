@@ -4,7 +4,8 @@
 		"exerpt": "Lorem ipsum dolor sit amet.",
 		"ref": "23_12_2017",
         "ingredients": ["Carrot","Pear","Flour","Water"],
-        "suggestions":"none"
+        "suggestions":"none",
+        "thumbnail":"thumb_23_12_2017"
 	},{
 		"title": "First Post",
 		"exerpt": "Lorem ipsum dolor sit amet.",
