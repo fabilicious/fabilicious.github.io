@@ -6,6 +6,11 @@ angular.module('app.controllers', [
 			$scope.posts = data;
 			
 		});
+        var limitStep = 5;
+        $scope.limit = limitStep;
+        $scope.incrementLimit = function() {
+            $scope.limit += limitStep;
+        };
 	}])
 	.controller('PageController', ['$scope', '$routeParams', '$http', function($scope, $routeParams, $http){
 		$http.get('data/pages.json').success(function(data){
