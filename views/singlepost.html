@@ -1,5 +1,7 @@
 <div class="row">
     <div class="blogEntry">
+         <input ng-model="greeting" type="text">
+        <p>{{greeting|reverse}} </p>
         <ng-include src="'../posts/' + post.ref + '.html'"></ng-include>
     </div>
 </div>
