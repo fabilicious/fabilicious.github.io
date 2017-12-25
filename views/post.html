@@ -4,7 +4,7 @@
 
 <article ng-repeat="post in posts | limitTo: limit" ng-init="styleClass = alternateStyles($index)">
     <div class="blog-card {{alternateStyles($index)}}">
-        <div class="photo" style="background-image: url('http://i62.tinypic.com/34oq4o0.jpg')"></div>
+        <div class="photo" style="background-image: url('../img/{{post.thumbnail}}')"></div>
         <ul class="details">
             <li class="author"><a href="#">John Doe</a></li>
             <li class="date">Aug. 24, 2015</li>

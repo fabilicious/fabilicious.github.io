@@ -6,7 +6,7 @@ angular.module('app.controllers', [
 			$scope.posts = data;
 			
 		});
-        var limitStep = 5;
+        var limitStep = 3;
         $scope.limit = limitStep;
         
         $scope.incrementLimit = function() {

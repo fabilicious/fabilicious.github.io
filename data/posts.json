@@ -1,17 +1,18 @@
 [
 	{
-		"title": "First Post",
-		"exerpt": "Lorem ipsum dolor sit amet.",
+		"title": "Aardpeerchips",
+		"exerpt": "Hoe vettiger, hoe prettiger. Artisanale aardpeerchips à la Fabie. Goed als aperitief maar ook als ontbijt. Mmmm!",
 		"ref": "23_12_2017",
         "ingredients": ["Carrot","Pear","Flour","Water"],
         "suggestions":"none",
-        "thumbnail":"thumb_23_12_2017"
+        "thumbnail":"aardpeerchips_small.jpg"
 	},{
-		"title": "First Post",
-		"exerpt": "Lorem ipsum dolor sit amet.",
+		"title": "Millers broodje",
+		"exerpt": "Zuurdesembroodje à l'anciènne, ideaal als de bakker gesloten is tijdens de feestdagen.",
 		"ref": "23_12_2017",
         "ingredients": ["Carrot","Pear","Flour","Water"],
-        "suggestions":"none"
+        "suggestions":"none",
+        "thumbnail":"Miilersmall.jpg"
 	},{
 		"title": "First Post",
 		"exerpt": "Lorem ipsum dolor sit amet.",
