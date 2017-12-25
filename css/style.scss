@@ -1,0 +1,302 @@
+@font-face {
+    font-family: delicious_curls;
+    src:  url("../fonts/deliciousCurls/Delicious_Curls_bold.ttf")  format('truetype');
+}
+
+/* -----------------  HEADER ----------------- */
+#header h1 {
+    font-family: "delicious_curls", sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+#header img {
+    display: block;
+    width: 50%;
+}
+
+/* -----------------  NAVBAR ----------------- */
+.navbar-default {
+    background-color: #f1f1f1;
+    border: none;
+    color: #3e3f3a;
+}
+
+.navbar-default a {
+    color: #3e3f3a !important;
+}
+
+div.navbar-default {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+/* -----------------  Blog cards at homepage ----------------- */
+/* Credit to CAPTAIN ANONYMOUS, 
+https://codepen.io/anon/pen/qpqYPr?q=blog&limit=all&type=type-pens */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto:400,700);
+$green: #75d13b;
+$grey: #e9e9e9;
+
+@mixin transition($dur, $prop: all) {
+	transition: $prop $dur ease;
+	-webkit-transition: $prop $dur ease;
+}
+
+@mixin bgImg($url) {
+	background: url($url) center no-repeat;
+	background-size: cover;
+}
+
+body {
+	background: #f1f1f1;
+	margin: 2rem;
+}
+
+.blog-card {
+	@include transition(0.3s, height);
+	background: #fff;
+	border-radius: 3px;
+	box-shadow: 0 3px 7px -3px rgba(0, 0, 0, 0.3);
+	margin: 0 auto 1.6%;
+	overflow: hidden;
+	position: relative;
+	font-size: 14px;
+	line-height: 1.45em;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+
+	&:hover {
+		.details {
+			left: 0;
+		}
+        
+		&.alt {
+			.details {
+				right: 0;
+			}
+		}
+	}
+
+	&.alt {
+		.details {
+			right: -100%;
+			left: inherit;
+		}
+	}
+
+	.photo {
+		height: 200px;
+		position: relative;
+
+		&.photo1 {
+			@include bgImg("http://i62.tinypic.com/34oq4o0.jpg");
+		}
+
+		&.photo2 {
+			@include bgImg("http://i60.tinypic.com/xeiv79.jpg");
+		}
+	}
+
+	.details {
+		@include transition(0.3s);
+
+		background: rgba(0, 0, 0, 0.6);
+		box-sizing: border-box;
+		color: #fff;
+		font-family: "Open Sans";
+		list-style: none;
+		margin: 0;
+		padding: 10px 15px;
+		height: 200px;
+
+		/*POSITION*/
+		position: absolute;
+		top: 0;
+		left: -100%;
+
+		> li {
+			padding: 3px 0;
+		}
+
+		li:before,
+		.tags ul:before {
+			font-family: FontAwesome;
+			margin-right: 10px;
+			vertical-align: middle;
+		}
+
+		.author:before {
+			content: "\f007";
+		}
+
+		.date:before {
+			content: "\f133";
+		}
+
+		.tags {
+			ul {
+				&:before {
+					content: "\f02b";
+				}
+
+				list-style: none;
+				margin: 0;
+				padding: 0;
+			}
+
+			li {
+				display: inline-block;
+				margin-right: 3px;
+			}
+		}
+
+		a {
+			color: inherit;
+			border-bottom: 1px dotted;
+
+			&:hover {
+				color: $green;
+			}
+		}
+	}
+
+	.description {
+		padding: 10px;
+		box-sizing: border-box;
+		position: relative;
+        height: 100%;
+
+		h1 {
+			font-family: "Roboto";
+			line-height: 1em;
+			margin: 0 0 10px 0;
+            display: block;
+		}
+
+		h2 {
+			color: $grey / 1.5;
+			font-family: "Open Sans";
+			line-height: 1.2em;
+			text-transform: uppercase;
+			font-size: 1em;
+			font-weight: 400;
+			margin: 1.2% 0;
+		}
+
+		p {
+			position: relative;
+			margin: 0;
+			padding-top: 20px;
+
+			&:after {
+				content: "";
+				background: $green;
+				height: 6px;
+				width: 40px;
+
+				/*POSITION*/
+				position: absolute;
+				top: 6px;
+				left: 0;
+			}
+		}
+
+		a {
+			color: $green;
+			margin-bottom: 10px;
+
+			&:after {
+				@include transition(0.3s);
+
+				content: "\f061";
+				font-family: FontAwesome;
+				margin-left: -10px;
+				opacity: 0;
+				vertical-align: middle;
+			}
+
+			&:hover:after {
+				margin-left: 5px;
+				opacity: 1;
+			}
+		}
+	}
+}
+
+@media screen and (min-width: 600px) {
+	.blog-card {
+		height: 200px;
+		max-width: 600px;
+
+		&:hover {
+			.photo {
+				transform: rotate(5deg) scale(1.3);
+			}
+
+			&.alt .photo {
+				transform: rotate(-5deg) scale(1.3);
+			}
+		}
+
+		&.alt {
+			.details {
+				padding-left: 30px;
+			}
+
+			.description {
+				float: right;
+
+				&:before {
+					transform: skewX(5deg);
+					right: -15px;
+					left: inherit;
+				}
+			}
+
+			.photo {
+				float: right;
+			}
+		}
+
+		.photo {
+			@include transition(0.5s);
+
+			float: left;
+			height: 100%;
+			width: 40%;
+		}
+
+		.details {
+			width: 40%;
+		}
+
+		.description {
+			float: left;
+			width: 60%;
+			z-index: 0;
+
+			&:before {
+				transform: skewX(-5deg);
+				content: "";
+				background: #fff;
+				width: 100%;
+				z-index: -1;
+
+				/*POSITION*/
+				position: absolute;
+				left: -15px;
+				top: 0;
+				bottom: 0;
+			}
+		}
+	}
+}
+
+
+.row {
+    margin-top: 5%;
+}
