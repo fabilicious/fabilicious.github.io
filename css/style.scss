@@ -6,13 +6,13 @@
 /* -----------------  HEADER ----------------- */
 #header h1 {
     font-family: "delicious_curls", sans-serif;
-    font-size: 50px;
+    font-size: 60px;
     text-align: center;
 }
 
 #header img {
     display: block;
-    width: 50%;
+    width: 70%;
 }
 
 /* -----------------  NAVBAR ----------------- */
@@ -32,7 +32,15 @@ div.navbar-default {
     flex-wrap: wrap;
 }
 
+.navbar {
+  .nav >li > a {
+    font-size: 16px;
+  }
+} 
 
+.navbar-brand {
+    font-size: 22px;
+}
 /* -----------------  Blog cards at homepage ----------------- */
 /* Credit to CAPTAIN ANONYMOUS, 
 https://codepen.io/anon/pen/qpqYPr?q=blog&limit=all&type=type-pens */
@@ -229,8 +237,8 @@ body {
 
 @media screen and (min-width: 600px) {
 	.blog-card {
-		height: 200px;
-		max-width: 600px;
+		height: 240px;
+		max-width: 800px;
 
 		&:hover {
 			.photo {
@@ -294,11 +302,6 @@ body {
 			}
 		}
 	}
-}
-
-
-.row {
-    margin-top: 5%;
 }
 
 .center {

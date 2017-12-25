@@ -8,8 +8,21 @@ angular.module('app.controllers', [
 		});
         var limitStep = 5;
         $scope.limit = limitStep;
+        
         $scope.incrementLimit = function() {
             $scope.limit += limitStep;
+        };
+        
+        $scope.alternateStyles = function(cardNumber) {
+            if (cardNumber % 2 == 0) {
+                $scope.styleClass = "";
+            }
+            
+            else {
+                $scope.styleClass = "alt";
+            }
+            
+            return $scope.styleClass;
         };
 	}])
 	.controller('PageController', ['$scope', '$routeParams', '$http', function($scope, $routeParams, $http){
