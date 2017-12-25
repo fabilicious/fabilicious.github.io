@@ -1,5 +1,6 @@
-<div class="row searchBox" ng-mouseover="showSearchBar()">
+<div class="row searchBox" ng-mouseover="showSearchBar()" ng-init="focused=false">
     <a><i id="searcher" class="fa fa-search fa-2x" aria-hidden="true"></i></a>
+    <input ng-class="{'active':focused===true}" type="search" placeholder="Search ingredients, name, categories, ..." ng-focus="focused=true" ng-blur="focused=false">
 </div>
 
 <article ng-repeat="post in posts | limitTo: limit" ng-init="styleClass = alternateStyles($index)">
