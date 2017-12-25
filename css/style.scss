@@ -45,8 +45,17 @@ div.navbar-default {
 
 /* -----------------  Searcher ----------------- */
 #searcher {
-    position: absolute;
+    position: relative;
     z-index: 20;
+    left: 90%;
+    top: -67px;
+    color: #3e3f3a;
+}
+
+.searchBox {
+    position: relative;
+    width: 80%;
+    height: 0;
 }
 
 /* -----------------  Blog cards at homepage ----------------- */
