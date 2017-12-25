@@ -25,6 +25,10 @@ angular.module('app.controllers', [
             return $scope.styleClass;
         };
         
+        $scope.showSearchBar = function() {
+            return true;
+        };
+        
 	}])
 	.controller('PageController', ['$scope', '$routeParams', '$http', function($scope, $routeParams, $http){
 		$http.get('data/pages.json').success(function(data){
