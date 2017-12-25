@@ -19,4 +19,4 @@ angular.module('app.directives', [])
 			// transclude: true,
 			// compile: function(tElement, tAttrs, function transclude(function(scope, cloneLinkingFn){ return function linking(scope, elm, attrs){}})),
 		};
-	}]);;
+	}]);
