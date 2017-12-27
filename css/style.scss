@@ -46,6 +46,31 @@ div.navbar-default {
     font-size: 22px;
 }
 
+/* -----------------  IndexColumn ----------------- */
+#indexColumn {
+    background-color: #ffff;
+    border-radius: 25px;
+    padding-left: 20px;
+    
+    h1 {
+            &:after {
+				content: "";
+				background: #3e3f3a;
+                opacity: 0.1;
+				height: 4px;
+				width: 80px;
+
+				/*POSITION*/
+				position: absolute;
+				top: 63px;
+				left: 7%;;
+			}
+        }
+    
+    h3 {
+        padding-left: 10px;
+    }
+}
 
 /* -----------------  Searcher ----------------- */
 #searcher {

@@ -4,7 +4,7 @@
 </div>
 
 <div class="row">
-    <div class="col-md-8">
+    <div class="col-md-9">
         <article ng-repeat="post in posts | filter:query | limitTo: limit" ng-init="styleClass = alternateStyles($index)">
             <div class="blog-card {{alternateStyles($index)}}">
                 <div class="photo" style="background-image: url('../img/{{post.thumbnail}}')"></div>
@@ -29,8 +29,25 @@
             </div>
         </article>
     </div>
-    <div class="col-md-4">
-        <h1> Hartig </h1>
+    <div id="indexColumn" class="col-md-3">
+        <h1> Index </h1>
+        <h3> Zoet </h3>
+        <p> Taarten </p>
+        <p> Cake </p>
+        <p> Koekjes en klein gebak </p>
+        <p> Brood en ontbijtgranen </p>
+        <p> Ijs </p>
+        <p> Dessert </p>
+        <p> Confiterie en chocopasta's </p>
+        <h3> Hartig </h3>
+        <p> Aperitiefhapjes </p>
+        <p> Hartige taarten </p>
+        <p> Soep </p>
+        <p> Hoofdgerechten </p>
+        <p> Pasta's </p>
+        <p> Salades </p>
+        <p> Vegetarisch </p>
+        <p> Bijgerechten </p>
     </div>
 </div>
 <div class="row">
