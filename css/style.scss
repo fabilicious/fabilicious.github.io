@@ -51,6 +51,8 @@ div.navbar-default {
     background-color: #ffff;
     border-radius: 25px;
     padding-left: 20px;
+    position: fixed;
+    right: 9%;
     
     h1 {
             &:after {
@@ -70,7 +72,20 @@ div.navbar-default {
     h3 {
         padding-left: 10px;
     }
+    
+    p {
+        padding-left: 20px;
+    }
 }
+
+@media screen and (max-height: 950px) {
+#indexColumn {
+        position: relative;
+        right: 0%;
+    }
+}
+
+
 
 /* -----------------  Searcher ----------------- */
 #searcher {
