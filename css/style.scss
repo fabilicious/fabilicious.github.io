@@ -75,6 +75,23 @@ div.navbar-default {
     
     p {
         padding-left: 20px;
+        
+        a {
+            color: #3e3f3a;
+        }
+        
+        &:hover {
+            transform: scale(1.05);
+        }
+        
+        &:hover:after {
+            content: url("../img/spoon.svg");
+            transform: scale(0.3);
+            display: block;
+            position: absolute;
+            right: 100px;
+            bottom: -10px;
+        }
     }
 }
 
