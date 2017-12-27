@@ -309,9 +309,10 @@ body {
 
 			&:after {
 				content: "";
-				background: $green;
-				height: 6px;
-				width: 40px;
+				background: #3e3f3a;
+                opacity: 0.1;
+				height: 4px;
+				width: 80px;
 
 				/*POSITION*/
 				position: absolute;
@@ -321,7 +322,7 @@ body {
 		}
 
 		a {
-			color: $green;
+			color: #3e3f3a;
 			margin-bottom: 10px;
 
 			&:after {
