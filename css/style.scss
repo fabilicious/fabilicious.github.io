@@ -108,6 +108,12 @@ div.navbar-default {
     margin-bottom: 20px;
 }
 
+p#indexReturnButton {
+    margin-top: 20px;
+    color: gray;
+    padding-left: 5px;
+}
+
 @media screen and (max-height: 850px) {
 #indexColumn {
         position: relative;

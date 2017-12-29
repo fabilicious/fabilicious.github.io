@@ -37,6 +37,14 @@ angular.module('app.controllers', [
             return true;
         };
         
+        $scope.backToIndex = function() {
+            $("#indexSubmenu").addClass("visible");
+            $("#indexSubmenu").addClass("notVisible");
+            $("#indexColumnWrapper").removeClass("notVisible");
+            $("#indexColumnWrapper").addClass("visible");
+            return true;
+        };
+        
 	}])
 	.controller('PageController', ['$scope', '$routeParams', '$http', function($scope, $routeParams, $http){
 		$http.get('data/pages.json').success(function(data){
