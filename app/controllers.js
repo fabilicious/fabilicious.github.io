@@ -29,6 +29,14 @@ angular.module('app.controllers', [
             return true;
         };
         
+        $scope.menuGoTo = function(category) {
+            $("#indexColumnWrapper").addClass("notVisible");
+            $("#indexSubmenu").removeClass("notVisible");
+            $("#indexSubmenu").addClass("visible");
+            $scope.currentCategory=category;
+            return true;
+        };
+        
 	}])
 	.controller('PageController', ['$scope', '$routeParams', '$http', function($scope, $routeParams, $http){
 		$http.get('data/pages.json').success(function(data){
