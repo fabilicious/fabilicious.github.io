@@ -53,7 +53,7 @@ div.navbar-default {
     padding-left: 20px;
     position: fixed;
     right: 9%;
-    height: 552px;
+    height: 610px;
     
     h1 {
             &:after {
@@ -102,6 +102,10 @@ div.navbar-default {
 
 .visible {
     display: block;
+}
+
+#indexSubmenuHeader {
+    margin-bottom: 20px;
 }
 
 @media screen and (max-height: 850px) {
