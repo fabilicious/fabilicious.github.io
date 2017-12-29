@@ -33,7 +33,7 @@
         <div id="indexColumnWrapper">
             <h1> Index </h1>
             <h3> Zoet </h3>
-           <p ng-click="menuGoTo('Taarten')"> Taarten </p>
+           <p ng-click="menuGoTo('Taarten');search.title='Aardpeerchips'"> Taarten </p>
            <p ng-click=""> Cake </p>
            <p ng-click=""> Koekjes en klein gebak </p>
            <p ng-click=""> Brood en ontbijtgranen </p>
@@ -52,7 +52,7 @@
         </div>
         <div id="indexSubmenu" class="notVisible">
             <h1> {{currentCategory}}</h1>
-            <p ng-repeat="post in posts"> {{post.title}} </p>
+            <p ng-repeat="post in posts | filter: {title: 'Millers'}"> {{post.title}} </p>
         </div>
     </div>
 </div>

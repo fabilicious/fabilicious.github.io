@@ -35,6 +35,7 @@ angular.module('app.controllers', [
             $("#indexSubmenu").addClass("visible");
             $scope.currentCategory=category;
             return true;
+            $scope.search.ingredients=category;
         };
         
 	}])
