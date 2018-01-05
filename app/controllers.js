@@ -30,6 +30,7 @@ angular.module('app.controllers', [
         };
         
         $scope.menuGoTo = function(category) {
+            $("#indexColumnWrapper").removeClass("visible")
             $("#indexColumnWrapper").addClass("notVisible");
             $("#indexSubmenu").removeClass("notVisible");
             $("#indexSubmenu").addClass("visible");
@@ -38,7 +39,7 @@ angular.module('app.controllers', [
         };
         
         $scope.backToIndex = function() {
-            $("#indexSubmenu").addClass("visible");
+            $("#indexSubmenu").removeClass("visible");
             $("#indexSubmenu").addClass("notVisible");
             $("#indexColumnWrapper").removeClass("notVisible");
             $("#indexColumnWrapper").addClass("visible");
