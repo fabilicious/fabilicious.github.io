@@ -9,6 +9,9 @@ angular.module('app', [
 	}).when('/post/:id', {
 		templateUrl: 'views/singlepost.html',
 		controller: 'SinglePostController'
+	}).when('/about', {
+		templateUrl: 'views/about.html',
+		controller: 'PageController'
 	}).when('/page/:id', {
 		templateUrl: 'views/page.html',
 		controller: 'PageController'
