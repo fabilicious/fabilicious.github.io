@@ -35,6 +35,7 @@ angular.module('app.controllers', [
             $("#indexSubmenu").removeClass("notVisible");
             $("#indexSubmenu").addClass("visible");
             $scope.currentCategory=category;
+            $scope.categoryActive=true;
             return true;
         };
         
@@ -43,11 +44,28 @@ angular.module('app.controllers', [
             $("#indexSubmenu").addClass("notVisible");
             $("#indexColumnWrapper").removeClass("notVisible");
             $("#indexColumnWrapper").addClass("visible");
+            $scope.categoryActive=false;
             return true;
+        };
+        
+        $scope.categoryFilter = (item)=> {
+            if ($scope.categoryActive) {
+                return item.category == $scope.currentCategory;
+            }
+            
+            else {
+                return item;
+            }
         };
         
 	}])
 	.controller('PageController', ['$scope', '$routeParams', '$http', function($scope, $routeParams, $http){
+		$http.get('data/pages.json').success(function(data){
+			$scope.page = data[$routeParams.id];
+		});
+		
+	}])
+    .controller('AboutController', ['$scope', '$routeParams', '$http', function($scope, $routeParams, $http){
 		$http.get('data/pages.json').success(function(data){
 			$scope.page = data[$routeParams.id];
 		});
