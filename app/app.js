@@ -11,7 +11,7 @@ angular.module('app', [
 		controller: 'SinglePostController'
 	}).when('/about', {
 		templateUrl: 'views/about.html',
-		controller: 'PageController'
+		controller: 'AboutController'
 	}).when('/page/:id', {
 		templateUrl: 'views/page.html',
 		controller: 'PageController'
