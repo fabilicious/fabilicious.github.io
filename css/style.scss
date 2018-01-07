@@ -122,8 +122,30 @@ p#indexReturnButton {
     }
 }
 
+/* -----------------  About page ----------------- */
+.paperWavy {
+    position: absolute;
+    width: 70%;
+    background: #fff;
+    border-radius: 30px;
+}
 
+.flexContainer {
+   display: flex;
+}
 
+.box {
+    flex: 1;
+    min-height: 100px;
+}
+
+.box.boekje{
+    
+}
+
+.box.text {
+    opacity: 1;
+}
 /* -----------------  Searcher ----------------- */
 #searcher {
     position: relative;
