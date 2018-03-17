@@ -516,20 +516,20 @@ body {
 	}
 }
 
-.center {
-    margin: 0 auto;
-    width: 100px;
-    display: block;
-}
 .image_wrapper {
     width: 100%;
 }
 
 #aboutme_face {
-    position: absolute;
-    width: 64%;
+    position: relative;
+    width: 100%;
+    margin-top: 60px;
 }
 
-.blaas {
-    direction: inherit;
+div#about.paperWavy {
+    background: transparent;
+}
+
+#overMezelftext > p {
+    text-align: justify;
 }
