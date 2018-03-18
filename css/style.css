@@ -16,6 +16,10 @@ div#about.paperWavy {
     background: transparent;
 }
 
+div#abonneer.paperWavy {
+    background: transparent;
+}
+
 #overMezelftext > p {
     text-align: justify;
 }
@@ -41,4 +45,9 @@ div#about.paperWavy {
 
 .blogPost > h2 {
     font-size: 21px;
+}
+
+#abonneer div > h2 {
+    font-size: 21px;
+    font-weight: bold;
 }
