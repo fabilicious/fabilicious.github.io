@@ -12,6 +12,9 @@ angular.module('app', [
 	}).when('/about', {
 		templateUrl: 'views/about.html',
 		controller: 'AboutController'
+    }).when('/abonneer', {
+		templateUrl: 'views/abonneer.html',
+		controller: 'SubscribeController'
 	}).when('/page/:id', {
 		templateUrl: 'views/page.html',
 		controller: 'PageController'
