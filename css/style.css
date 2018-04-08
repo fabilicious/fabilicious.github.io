@@ -58,7 +58,6 @@ div#abonneer.paperWavy {
     display: block;
 }
 
-
 .content button,
 .content input[type="submit"]{
   background: #fff;
@@ -121,5 +120,26 @@ div#abonneer.paperWavy {
 }
 
 input.ng-invalid.ng-touched, textarea.ng-invalid.ng-touched {
-    border: 2px solid red;
+    border: 2px solid red !important;
+}
+
+input[disabled="disabled"]{
+    opacity:0.4;
+    cursor: not-allowed!important;
+}
+
+.content input::-webkit-input-placeholder {
+    opacity: 1;   
+}
+
+.content input:focus::-webkit-input-placeholder {
+    opacity: 1;
+}
+
+.content input:-moz-placeholder {
+	opacity: 1;
+}
+
+.content input::-webkit-input-placeholder {
+	opacity: 1;
 }
