@@ -15,6 +15,9 @@ angular.module('app', [
     }).when('/abonneer', {
 		templateUrl: 'views/abonneer.html',
 		controller: 'SubscribeController'
+    }).when('/contact', {
+		templateUrl: 'views/contact.html',
+		controller: 'SubscribeController'
 	}).when('/page/:id', {
 		templateUrl: 'views/page.html',
 		controller: 'PageController'
