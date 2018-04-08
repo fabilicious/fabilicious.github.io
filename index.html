@@ -13,10 +13,20 @@
             <img class="center-block" src="img/blogHeaderg.svg">
         </div>
         
-		<div class="container">
+		<div id="body" class="container">
 			<navigationbar></navigationbar>
 			 <div ng-view></div>
-		</div>
+        </div>
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+						<p class="site-footer__copyright">
+					       © 2018 Fabilicious<p>
+                    </div>
+					</div>
+				</div>
+        </div>
 		<script src="js/jquery.js"></script>
 		<script src="js/bootstrap.js"></script>
 		<script src="js/angular.js"></script>
@@ -27,5 +37,7 @@
 		<script src="app/filters.js"></script>
 		<script src="app/fuse.js"></script>
         <script src="https://use.fontawesome.com/56722ff4bc.js"></script>
+       
+ <link rel="stylesheet" href="./fonts/montserrat/stylesheet.css" type="text/css" charset="utf-8" /> 
 	</body>
 </html>
