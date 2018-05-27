@@ -1,43 +1,31 @@
-<!DOCTYPE html>
-<html lang="en" ng-app="app">
-	<head>
-		<meta charset="UTF-8">
-		<title>Fabilicious, Fabie's fantastic food blog</title>
-		<link rel="stylesheet" href="css/bootstrap.css">
-        <link rel="stylesheet" href="css/style.css">
-	</head>
-	<body style="padding-top: 10px;">
-		
-        <div class="container" id="header">
-            <h1> Fabilicious </h1>
-            <img class="center-block" src="img/blogHeaderg.svg">
-        </div>
-        
-		<div id="body" class="container">
-			<navigationbar></navigationbar>
-			 <div ng-view></div>
-        </div>
-        <div class="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-						<p class="site-footer__copyright">
-					       © 2018 Fabilicious<p>
-                    </div>
-					</div>
-				</div>
-        </div>
-		<script src="js/jquery.js"></script>
-		<script src="js/bootstrap.js"></script>
-		<script src="js/angular.js"></script>
-		<script src="js/angular-route.js"></script>
-		<script src="app/app.js"></script>
-		<script src="app/controllers.js"></script>
-		<script src="app/directives.js"></script>
-		<script src="app/filters.js"></script>
-		<script src="app/fuse.js"></script>
-        <script src="https://use.fontawesome.com/56722ff4bc.js"></script>
-       
- <link rel="stylesheet" href="./fonts/montserrat/stylesheet.css" type="text/css" charset="utf-8" /> 
-	</body>
-</html>
+---
+title: Home
+---
+<section class="posts">
+	{% for post in paginator.posts %}
+		<article class="post">
+			{% include post-heading.html post=post %}
+			<div class="image">
+				<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+			</div>
+
+			{{ post.excerpt }}
+
+			<p><a class="button" href="{{ post.url }}">Read more</a></p>
+		</article>
+	{% endfor %}
+
+	{% if paginator.total_pages > 1 %}
+		<div class="pagination">
+			{% if paginator.previous_page %}
+				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
+			{% endif %}
+
+			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+			{% if paginator.next_page %}
+				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Older posts &rarr;</a>
+			{% endif %}
+		</div>
+	{% endif %}
+</section>
