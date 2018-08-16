@@ -12,9 +12,9 @@
    id="svg8259"
    version="1.1"
    inkscape:version="0.91 r13725"
-   width="1006.7176"
-   height="133.74046"
-   viewBox="0 0 1006.7176 133.74046"
+   width="262.54083mm"
+   height="61.409054mm"
+   viewBox="0 0 930.26281 217.59114"
    sodipodi:docname="blogHeaderg.svg">
   <metadata
      id="metadata8265">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -114,8 +114,8 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="1.0916667"
-     inkscape:cx="551.48541"
-     inkscape:cy="-9.0122239"
+     inkscape:cx="307.31911"
+     inkscape:cy="7.7222803"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -123,25 +123,26 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     units="mm" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="bck"
      style="display:inline"
-     transform="translate(-449.61682,-111.52464)" />
+     transform="translate(-547.67626,-44.408458)" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="middle"
      style="display:inline"
-     transform="translate(-449.61682,-111.52464)" />
+     transform="translate(-547.67626,-44.408458)" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="front"
      style="display:inline"
-     transform="translate(-449.61682,-111.52464)">
+     transform="translate(-547.67626,-44.408458)">
     <path
        inkscape:connector-curvature="0"
        id="path1370"
