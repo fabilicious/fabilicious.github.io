@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Treat Template
+title: Fabilicious
 url: "https://spring-bat.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -16,7 +16,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: Fabilicious
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
