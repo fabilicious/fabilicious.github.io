@@ -57,6 +57,7 @@ defaults:
     values:
       layout: "default"
       push_sidebar_down: true
+baseurl: https://beramos.github.io/Fabilicious/
 
 plugins:
   - jekyll-sitemap
