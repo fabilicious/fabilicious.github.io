@@ -3,7 +3,7 @@ date: 2018-09-16
 title: Suikerbrood
 categories:
   - Brood
-featured_image: /images/Suikerbrood_thumb.jpg
+featured_image: /Fabilicious/images/Suikerbrood_thumb.jpg
 recipe:
   servings: 2 suikerbroodjes
   prep: X minutes
