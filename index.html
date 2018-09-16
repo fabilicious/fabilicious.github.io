@@ -18,7 +18,7 @@ title: Home
 	{% if paginator.total_pages > 1 %}
 		<div class="pagination">
 			{% if paginator.previous_page %}
-				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Nieuwere posts</a>
+				<a href="{{ paginator.previous_page_path }}" class="previous btn">&larr; Nieuwere posts</a>
 			{% endif %}
 
 			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
