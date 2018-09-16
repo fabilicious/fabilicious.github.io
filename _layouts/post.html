@@ -19,12 +19,12 @@ layout: default
 
 	<div class="recipe-contents">
 		<div class="ingredients">
-			<h2>Ingredients</h2>
+			<h2>Ingrediënten</h2>
 			{{ page.recipe.ingredients_markdown | markdownify }}
 		</div>
 
 		<div class="directions">
-			<h2>Directions</h2>
+			<h2>Bereiding</h2>
 			{{ page.recipe.directions_markdown | markdownify }}
 		</div>
 	</div>
@@ -39,9 +39,9 @@ layout: default
 	</div>
 
 	<div class="cta">
-		<h2>More delicious recipes</h2>
-		<p>This is one of the many fantastic recipes available on this blog</p>
-		<div class="button"><a href="/recipes">Check out more recipes</a></div>
+		<h2>Meer overheerlijke recepten</h2>
+		<p>Ontdek nog meer recepten op deze blog</p>
+		<div class="button"><a href="/recipes">Meer recepten</a></div>
 	</div>
 	{% if site.disqus_shortname and page.comments %}
 		<div id="disqus_thread"></div>

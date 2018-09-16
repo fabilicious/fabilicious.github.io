@@ -2,7 +2,7 @@
 title: Contact
 ---
 <h1>Contact</h1>
-<p class="editable">Get in touch with any feedback or questions about the recipes featured here.</p>
+<p class="editable">Zijn er vragen of suggesties over de blog, neem dan zeker contact op.</p>
 
 <form method="post" action="{{ site.baseurl }}/contact-success/">
 		<input type="hidden" name="_to" value="{{ site.data.email }}" />
@@ -10,34 +10,33 @@ title: Contact
 
 	<div class="contain">
 		<div class="split">
-			<label for="first-name">First Name</label>
+			<label for="first-name">Voornaam</label>
 			<input type="text" name="first-name" id="first-name" />
 		</div>
 		<div class="split">
-			<label for="surname">Surname</label>
+			<label for="surname">Achternaam</label>
 			<input type="text" name="surname" id="surname" />
 		</div>
 	</div>
 
 	<div class="contain">
 		<div class="split">
-			<label for="email">Email Address</label>
+			<label for="email">E-mailadres</label>
 			<input type="email" name="email" id="email" required />
 		</div>
 
 		<div class="split">
-			<label for="subject">Subject</label>
+			<label for="subject">Onderwerp</label>
 			<select id="subject" name="subject">
-				<option value="enquiry">Enquiry</option>
-				<option value="suggestion">Suggestion</option>
-				<option value="press">Press</option>
-				<option value="other">Other</option>
+				<option value="enquiry">Vraag</option>
+				<option value="suggestion">Suggestie</option>
+				<option value="other">Andere</option>
 			</select>
 		</div>
 	</div>
 
-	<label for="message">Message</label>
+	<label for="message">Bericht</label>
 	<textarea name="message" id="message"></textarea>
 
-	<input type="submit" value="Send Message" />
+	<input type="submit" value="Zend bericht" />
 </form>
