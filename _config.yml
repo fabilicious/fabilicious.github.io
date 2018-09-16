@@ -58,7 +58,7 @@ defaults:
       layout: "default"
       push_sidebar_down: true
 
-baseurl: "/fabilicious"
+baseurl: "/Fabilicious"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
