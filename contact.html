@@ -4,9 +4,9 @@ title: Contact
 <h1>Contact</h1>
 <p class="editable">Zijn er vragen of suggesties over de blog, neem dan zeker contact op.</p>
 
-<form method="post" action="{{ site.baseurl }}/contact-success/">
-		<input type="hidden" name="_to" value="{{ site.data.email }}" />
-		<input type="text" name="_gotcha" style="display: none;">
+<form method="post" action="https://formspree.io/bram.de.jaegher@gmail.com">
+		<!--<input type="hidden" name="_to" value="{{ site.data.email }}" />
+		<input type="text" name="_gotcha" style="display: none;">-->
 
 	<div class="contain">
 		<div class="split">
@@ -22,17 +22,17 @@ title: Contact
 	<div class="contain">
 		<div class="split">
 			<label for="email">E-mailadres</label>
-			<input type="email" name="email" id="email" required />
+			<input type="email" name="_replyto" id="email" required />
 		</div>
 
-		<div class="split">
+	<!--	<div class="split">
 			<label for="subject">Onderwerp</label>
 			<select id="subject" name="subject">
 				<option value="enquiry">Vraag</option>
 				<option value="suggestion">Suggestie</option>
 				<option value="other">Andere</option>
 			</select>
-		</div>
+		</div>-->
 	</div>
 
 	<label for="message">Bericht</label>
