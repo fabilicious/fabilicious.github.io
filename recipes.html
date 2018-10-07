@@ -2,11 +2,69 @@
 title: Recipes
 image_view: true
 ---
+{% if page.image_view %}
+
 <h1>Recepten</h1>
 
+<h2>Zoet</h2>
 
+<h3>Taarten</h3>
+{% assign posts = site.categories.taarten %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
 
-{% if page.image_view %}
+<h3>Cake</h3>
+{% assign posts = site.categories.cake %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+        
+<h3>Koekjes en klein gebak</h3>
+{% assign posts = site.categories.koekjesEnKleinGebak %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+            
+        
+<h3>Brood en ontbijtgranen</h3>
+ {% assign posts = site.categories.broodEnOntbijtgranen %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+        
+<h3>Ijs en sorbets</h3>
+        
+<h3>Dessert</h3>
+        
+<h3>Confituur en chocopasta's</h3>
+<h2>Hartig</h2>
+<h3>Aperitiefhapjes</h3>
+<h3>Hartige taarten</h3>
+<h3>Soep</h3>
+<h3>Hoofdgerechten</h3>
+<h3>Pasta's</h3>
+<h3>Salades</h3>
+<h3>Vegetarisch</h3>
+<h3>Bijgerechten</h3>
+
+<!--
 	{% for category in site.categories %}
 		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
@@ -17,4 +75,5 @@ image_view: true
 			{% endfor %}
 		</div>
 	{% endfor %}
+-->
 {% endif %}

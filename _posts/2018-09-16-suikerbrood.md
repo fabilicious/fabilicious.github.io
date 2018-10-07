@@ -2,7 +2,7 @@
 date: 2018-09-16
 title: Suikerbrood
 categories:
-  - Brood
+  - broodEnOntbijtgranen
 featured_image: /Fabilicious/images/Suikerbrood_thumb.jpg
 recipe:
   servings: 2 suikerbroodjes
@@ -24,31 +24,6 @@ recipe:
     * 100 g parelsuiker
     * 1 losgeklopt ei
     * Wat parelsuiker voor de afwerking
-  directions_markdown: |-
-    <b>Buitendeeg:</b>
-    1. Roer de verkruimelde gist glad met de melk en de eieren. 
-    2. Meng er bloem, suiker en zout onder en kleed
-    3. Weeg 2 stukken van 90g af en bol ze op. Leg ze op een met bakpapier beklede bakplaat onder plastiek.
-
-    <b>Binnendeeg:</b>
-    4. Doe de overgebleven 360g van het buitendeeg weer in de kom
-    5. Meng er de boter, bloem en suiker onder.
-    6. Kneed tot een soepel deeg.
-    7. Meng er de 10g parelsuiker onder en laat 10 min. rusten.
-    8. Verdeel het deeg in 2 stukken van 325g.
-    9. Bol op en laat 20 min. rusten onder plastiek.
-
-    <b>Samen:</b>
-    10. Rol de twee stukken buitendeeg met een deegrol tot een vliesje van 15cm doorsnede.
-    11. Maak het binnendeeg mooi rond en leg ze met het slot naar boven op de vliesjes
-    12. Plooi de vliesjes over het suikerdeeg en druk een beetje aan.
-    13. Draai de broodjes om en leg op de bakplaat (met bakpapier) onder plastiek.
-    14. Laat 60 à 75 min. narijzen.
-    15. Bestrijk ze voorzichtig met losgeklopt ei en snijd met een scherp mesje (of scheermesje) 2 sneetjes.
-    16. Versier de insnijding met de parelsuiker.
-    17. Oven voorverwarmen op 190°C en bak de broden 25 à 30 minuten op 180°C.
-    18. Op een rooster laten afkoelen.
-
 ---
 Eindelijk is het zo ver!
 Wat oorspronkelijk als grap bedoeld was, wordt nu werkelijkheid.
