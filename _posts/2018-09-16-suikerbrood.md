@@ -35,8 +35,7 @@ Niet meer het originele, maar uit het Belgisch bakboek van Stefan Elias en Jacqu
 
 Laat je inspireren door tal van authentieke Belgische streekgerechten.
 
-
-<b>Werkwijze: </b>
+<!--more-->
 
 Start met het maken van het buitendeeg:
 De verkruimelde gist met de melk en de eieren glad roeren.

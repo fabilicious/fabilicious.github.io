@@ -8,13 +8,14 @@ layout: default
 	</div>
 
 	<div class="recipe-body">
-		{{ content }}
+        {% assign contentArray = page.content | markdownify | split: site.excerpt_separator %}
+        {{ contentArray.first }}
 	</div>
 
 	<ul id="recipe" class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
-		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
-		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+	<!--	<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
+		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>-->
 	</ul>
 
 	<div class="recipe-contents">
@@ -23,11 +24,17 @@ layout: default
 			{{ page.recipe.ingredients_markdown | markdownify }}
 		</div>
 
-		<div class="directions">
+		<!--<div class="directions">
 			<h2>Bereiding</h2>
 			{{ page.recipe.directions_markdown | markdownify }}
-		</div>
+		</div>-->
 	</div>
+    
+    <h2>Bereiding:</h2>
+    <div class="recipe-body">
+        {{ contentArray.last }}
+	</div>
+
 
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
