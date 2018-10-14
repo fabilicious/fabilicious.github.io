@@ -6,8 +6,6 @@ categories:
 featured_image: /Fabilicious/images/Suikerbrood_thumb.jpg
 recipe:
   servings: 2 suikerbroodjes
-  prep: X minutes
-  cook: X minutes
   ingredients_markdown: |-
     <b>Binnendeeg:</b>
     * 200 g tarwebloem
