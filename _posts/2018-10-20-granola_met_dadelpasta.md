@@ -7,27 +7,22 @@ featured_image: /Fabilicious/images/Granola met dadelpasta 1200.jpg
 recipe:
   servings:
   ingredients_markdown: |-
-Benodigdheden dadelpasta
+    Benodigdheden dadelpasta
+    * 150g dadels (natuur en ontpit)
+    * 80ml water
+    * 1 eetl kokosolie of arachideolie
+    * 1 snuifje zout
+    * Beetje kaneel ( kan je ook weg laten)
+    * Eventueel enkele druppels amandel-essence
 
-*150g dadels (natuur en ontpit)
-*80ml water
-*1 eetl kokosolie of arachideolie
-*1 snuifje zout
-*Beetje kaneel ( kan je ook weg laten)
-*Eventueel enkele druppels amandel-essence
-
-Benodigdheden granola
-
-*100g havermout
-*50g amandelmeel
-*2 eetl veenbessen of rozijnen
-*1eetl pompoenpitten
-*1eetl zonnebloempitten
-*1 à 2 eetl gehakte walnoten
-*1 eetl cacaonibs
-
-
-
+    Benodigdheden granola
+    * 100g havermout
+    * 50g amandelmeel
+    * 2 eetl veenbessen of rozijnen
+    * 1 eetl pompoenpitten
+    * 1 eetl zonnebloempitten
+    * 1 à 2 eetl gehakte walnoten
+    * 1 eetl cacaonibs
      
 ---
 Deze granola wordt enkel gezoet door de natuurlijke suikers van dadels.
