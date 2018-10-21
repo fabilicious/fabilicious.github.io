@@ -1,5 +1,5 @@
 ---
-date: 2018-09-16
+date: 2018-10-20
 title: Donkere chocopasta
 categories:
   - confituurEnChocopasta
