@@ -25,13 +25,13 @@ recipe:
 ---
 Eindelijk is het zo ver!
 Wat oorspronkelijk als grap bedoeld was, wordt nu werkelijkheid.
-Mede door een enthousiaste zoon die voorstelde om een food blog 
+Mede door een enthousiaste zoon die voorstelde om een foodblog 
 voor mij te maken.
 Een dikke merci Bram voor je inzet en het werk om deze foodblog te realiseren.
 Als bedanking post ik één van jouw lievelingsbroodjes “suikerbrood of craquelin”.  Tevens ook mijn eerste recept die ik als 15-jarige neerschreef in mijn schriftje.
 Niet meer het originele, maar uit het Belgisch bakboek van Stefan Elias en Jacques Bloch.
 
-Laat je inspireren door tal van authentieke Belgische streekgerechten.
+Laat je verder inspireren door tal van authentieke Belgische streekgerechten uit het bovenstaande boek.
 
 <!--more-->
 
