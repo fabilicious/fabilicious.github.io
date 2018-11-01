@@ -50,19 +50,139 @@ image_view: true
     </div>
         
 <h3>Ijs en sorbets</h3>
+{% assign posts = site.categories.ijsEnSorbets %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+
         
 <h3>Dessert</h3>
+{% assign posts = site.categories.dessert %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+
         
-<h3>Confituur en chocopasta's</h3>
+<h3>Confituur en chocopasta</h3>
+{% assign posts = site.categories.confituurEnChocopasta %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+
+
+<h3>Divers</h3>
+{% assign posts = site.categories.zoetDivers %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+
+
 <h2>Hartig</h2>
 <h3>Aperitiefhapjes</h3>
+{% assign posts = site.categories.aperitiefhapjes %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+
 <h3>Hartige taarten</h3>
+{% assign posts = site.categories.hartigeTaarten %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+
 <h3>Soep</h3>
+{% assign posts = site.categories.soep %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+
 <h3>Hoofdgerechten</h3>
-<h3>Pasta's</h3>
+{% assign posts = site.categories.hoofdgerechten %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+
+<h3>Pasta</h3>
+{% assign posts = site.categories.pasta %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+
 <h3>Salades</h3>
+{% assign posts = site.categories.salades %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+
 <h3>Vegetarisch</h3>
+{% assign posts = site.categories.vegetarisch %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+
 <h3>Bijgerechten</h3>
+{% assign posts = site.categories.bijgerechten %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
+
+<h3>Divers</h3>
+{% assign posts = site.categories.hartigDivers %}
+    <div class="recipes">
+        {% for recipe in posts %}
+            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+            </div>
+        {% endfor %}
+    </div>
 
 <!--
 	{% for category in site.categories %}
