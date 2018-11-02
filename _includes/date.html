@@ -1,0 +1,18 @@
+{% assign day = include.date | date: "%-d" %}
+{% assign m = include.date | date: "%-m" %}
+{% case m %}²
+        {% when  '1' %}{{day}} januari 
+        {% when  '2' %}{{day}} februari 
+        {% when  '3' %}{{day}} maart 
+        {% when  '4' %}{{day}} april 
+        {% when  '5' %}{{day}} mei 
+        {% when  '6' %}{{day}} juni 
+        {% when  '7' %}{{day}} juli 
+        {% when  '8' %}{{day}} augustus 
+        {% when  '9' %}{{day}} september 
+        {% when '10' %}{{day}} oktober  
+        {% when '11' %}{{day}} november 
+        {% when '12' %}{{day}} december 
+{% endcase %}
+{% assign year = include.date | date: "%Y" %}
+{{year}}

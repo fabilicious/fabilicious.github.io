@@ -9,5 +9,7 @@
 	</a>
 </h1>
 <time datetime="{{ include.post.date | date_to_xmlschema }}">
-	{{ include.post.date | date: "%B %-d, %Y" }}
+	{% include date.html date=post.date %}
 </time>
+
+

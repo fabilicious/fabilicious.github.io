@@ -2,7 +2,7 @@
 date: 2018-10-20
 title: Donkere chocopasta
 categories:
-  - confituurEnChocopasta's
+  - confituurEnChocopasta
 featured_image: /Fabilicious/images/Donkere chocoladepasta 1200.jpg
 recipe:
   servings:
