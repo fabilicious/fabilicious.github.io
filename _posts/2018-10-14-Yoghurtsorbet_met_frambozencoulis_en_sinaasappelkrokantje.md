@@ -1,9 +1,9 @@
 ---
-date: 2018_11_04
-title: Youghurtsorbet met frambozencoulis en sinaasappelkrokantje
+date: 2018-11-04
+title: Yoghurtsorbet met frambozencoulis en sinaasappelkrokantje
 categories:
   - ijsEnSorbets
-featured_image: /Fabilicious/images/Yoghurtsorbet - frambozencoulis 1200.jpg
+featured_image: /Fabilicious/images/Yoghurtsorbet_-_frambozencoulis1200.jpg
 recipe:
   servings: 8 pers
   ingredients_markdown: |-
@@ -13,10 +13,12 @@ recipe:
     * 50g glucose
     * 350g yoghurt (gebruik altijd pur nature)
     * Enkele druppels citroensap
+
     <b>Frambozencoulis:</b>
     * 200g frambozenpuree liefst zonder pitten
     * 80g suiker
     * 80g water
+
     <b>Sinaasappelkrokantje:</b>
     * 20g boter
     * 20g rietsuiker
