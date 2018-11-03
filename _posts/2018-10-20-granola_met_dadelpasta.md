@@ -1,5 +1,5 @@
 ---
-date: 2018-10-20
+date: 2018-09-20
 title: Granola met dadelpasta
 categories:
   - broodEnOntbijtgranen
