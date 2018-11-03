@@ -19,7 +19,8 @@ Om nog maar te zwijgen over de vingers voor de lens.
 En plots komt hij met deze prachtige foto van mijn rozemarijn-knoflookolie!
 Beroepsfotografen zullen het misschien wel met de grond gelijkmaken , ik vind het een topper! 
 
-De rozemarijn-knoflookolie heb ik altijd in de kast staan. Lekker met ovengeroosterde aardappelen of groenten, in de hummus,…
+De rozemarijn-knoflookolie heb ik altijd in de kast staan. Lekker met ovengeroosterde aardappelen of groenten, in de hummus, …
+
 Wat look en verse rozemarijn uit de tuin, goeie olijfolie en klaar is kees.
  
 
