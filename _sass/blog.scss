@@ -40,10 +40,6 @@
 		}
 	}
 
-	img#fabilogo {
-		max-width: 80%;
-	}
-
 	.recipe-contents {
 		@media #{$desktop} {
 			display: flex;
@@ -204,4 +200,36 @@
     text-align: justify;
     border-radius: 36px;
     padding-right: 60px;
+}
+
+/*article .post {
+	position: relative;
+
+	h1 {
+		position: absolute;
+	}
+
+	div {
+		position: absolute;
+
+		img {
+			position: absolute;
+		}
+	}
+
+	p {
+		position: absolute;
+	}
+
+	time {
+		position: absolute;
+	}
+}
+*/
+
+div .image>img.home {
+	max-height: 60vh;
+	max-width: 80%;
+	display: block;
+	margin: 0 auto;
 }
