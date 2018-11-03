@@ -40,6 +40,10 @@
 		}
 	}
 
+	img#fabilogo {
+		max-width: 80%;
+	}
+
 	.recipe-contents {
 		@media #{$desktop} {
 			display: flex;
