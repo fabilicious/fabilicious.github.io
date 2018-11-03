@@ -1,6 +1,6 @@
 ---
 date: 2018-11-04
-title: Youghurtsorbet met frambozencoulis en sinaasappelkrokantje
+title: Yoghurtsorbet met frambozencoulis en sinaasappelkrokantje
 categories:
   - ijsEnSorbets
 featured_image: /Fabilicious/images/Yoghurtsorbet_-_frambozencoulis1200.jpg
