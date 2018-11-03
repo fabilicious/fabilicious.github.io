@@ -9,7 +9,7 @@ recipe:
   ingredients_markdown: |-
     * 1 stuk zalmfilet van 150g à 175g    * 2 sneetjes fijn gerookt spek    * 2 aardappelen half gaar gekookt en in schijfjes van 0,5 cm    * 1 tomaat  geconcasseerd    * Dragon liefst vers, maar gedroogd kan ook    * Een scheutje room of sojaroom    * Peper en zout
 ---
-Waar ik dit recept heb gehaald kan ik mij niet meer herinneren.Maar het komt na al die tijd nog regelmatig op tafel.Heb je weinig tijd, geen zin om een berg afwas te doen, dan is dit ideaal om te maken.Alhoewel het gerookt spek een extra toets geeft aan de zalm, kan je het ook achterwege laten.  Ik gebruik zeer graag gerookt spek van kalkoen.Dindesse genaamd.Verkrijgbaar als ontbijtspek en spekreepjes. Heerlijk van smaak en bovendien een pak minder calorieën dan varkensspek!!!Wordt gemaakt van mager kalkoendijvlees en bevat slechts 5% vet op 100gram.
+Waar ik dit recept heb gehaald kan ik mij niet meer herinneren.Maar het komt na al die tijd nog regelmatig op tafel.Heb je weinig tijd, geen zin om een berg afwas te doen, dan is dit ideaal om te maken.Alhoewel het gerookt spek een extra toets geeft aan de zalm, kan je het ook achterwege laten.  Ik gebruik zeer graag gerookt spek van kalkoen.Dindesse genaamd.Verkrijgbaar als ontbijtspek en spekreepjes. Heerlijk van smaak en bovendien een pak minder calorieën dan varkensspek!!! Wordt gemaakt van mager kalkoendijvlees en bevat slechts 5% vet op 100gram.
 
 <!--more-->
 
