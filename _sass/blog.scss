@@ -9,7 +9,8 @@
 	}
     
     p {
-        text-align: justify;
+				text-align: justify;
+				max-height: 999999px; // prevent android font boosting
     }
 	time {
 		padding: 0 0 20px 0;
