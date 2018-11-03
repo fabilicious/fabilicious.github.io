@@ -1,9 +1,28 @@
 ---
 ---
+@import "variables";
+@import "elements";
+@import "layout";
+@import "blog";
+@import "forms";
+@import "navigation";
+@import "sidebar";
+@import "recipes";
+@import "cloudcannon";
+@import "pinterest";
 
 a {
 	text-decoration: none;
 	color: #000;
+}
+
+header img {
+	width: 80%;
+}
+
+header {
+	padding-bottom: 20px;
+	padding-top: 10px;
 }
 
 h1 {
@@ -16,7 +35,7 @@ body {
 	font-size: .8em;
 }
 
-.sidebar, .sharing, footer, .recipe-body, nav, img, time, .take-me, .cta {
+.sidebar, .sharing, footer, nav, .image, .post time, .take-me, .cta {
 	display: none;
 }
 
