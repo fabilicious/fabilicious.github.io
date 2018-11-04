@@ -3,7 +3,7 @@ date: 2018-09-20
 title: Granola met dadelpasta
 categories:
   - broodEnOntbijtgranen
-featured_image: /Fabilicious/images/Granola met dadelpasta 1200.jpg
+featured_image: /images/Granola met dadelpasta 1200.jpg
 recipe:
   servings:
   ingredients_markdown: |-

@@ -3,7 +3,7 @@ date: 2018-11-04
 title: Yoghurtsorbet met frambozencoulis en sinaasappelkrokantje
 categories:
   - ijsEnSorbets
-featured_image: /Fabilicious/images/Yoghurtsorbet_-_frambozencoulis1200.jpg
+featured_image: /images/Yoghurtsorbet_-_frambozencoulis1200.jpg
 recipe:
   servings: 8 pers
   ingredients_markdown: |-

@@ -3,7 +3,7 @@ date: 2018-11-03
 title: Aardpeerchips
 categories:
   - aperitiefhapjes
-featured_image: /Fabilicious/images/aardpeerchips1200.jpg
+featured_image: /images/aardpeerchips1200.jpg
 recipe:
   servings: 
   ingredients_markdown: |-
