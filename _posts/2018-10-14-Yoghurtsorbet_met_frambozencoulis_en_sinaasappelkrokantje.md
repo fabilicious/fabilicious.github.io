@@ -11,7 +11,7 @@ recipe:
     * 250g suiker
     * 250g water
     * 50g glucose
-    * 350g yoghurt (gebruik altijd pur nature)
+    * 350g yoghurt (Ik gebruik altijd Pur Nature.)
     * Enkele druppels citroensap
 
     <b>Frambozencoulis:</b>
