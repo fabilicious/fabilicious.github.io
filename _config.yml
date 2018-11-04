@@ -59,7 +59,7 @@ defaults:
       layout: "default"
       push_sidebar_down: true
 
-baseurl: "/"
+baseurl: ""
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
