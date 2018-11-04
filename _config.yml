@@ -3,7 +3,7 @@
 
 title: Fabilicious
 url: "fabilicious.github.io"
-baseurl: "fabilicious.github.io"
+baseurl: "fabilicious.github.io/"
 google_analytics_key: "UA-74131172-3"
 newsletter_action:
 disqus_shortname:
@@ -59,7 +59,7 @@ defaults:
       layout: "default"
       push_sidebar_down: true
 
-baseurl: "fabilicious.github.io"
+baseurl: "fabilicious.github.io/"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
