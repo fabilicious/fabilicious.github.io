@@ -35,9 +35,9 @@ layout: default
         {{ contentArray.last }}
 	</div>
 
-
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
+		{% assign share_url =  share_url | remove: 'Fabilicious/' %}
 		{% assign base = 'fabilicious.be' %}
 		{% assign share_url = base | append: share_url %}
 
