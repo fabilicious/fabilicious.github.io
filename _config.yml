@@ -2,7 +2,7 @@
 # Site
 
 title: Fabilicious
-url: " https://beramos.github.io/"
+url: "fabilicious.be"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -59,7 +59,7 @@ defaults:
       layout: "default"
       push_sidebar_down: true
 
-baseurl: "/Fabilicious"
+baseurl: "/"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
