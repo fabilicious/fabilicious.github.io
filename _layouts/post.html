@@ -38,8 +38,6 @@ layout: default
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url %}
 		{% assign share_url =  share_url | remove: 'Fabilicious/' %}
-		{% assign base = 'fabilicious.be' %}
-		{% assign share_url = base | append: share_url %}
 
 		<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
 		<a class="twitter" href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text=I'm%20going%20to%20this%20event!">{% include social-icon.html icon="Twitter" %}</a>
