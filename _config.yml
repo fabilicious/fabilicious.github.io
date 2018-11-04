@@ -4,7 +4,7 @@
 title: Fabilicious
 url: "fabilicious.github.io"
 baseurl:
-google_analytics_key:
+google_analytics_key: "UA-74131172-3"
 newsletter_action:
 disqus_shortname:
 excerpt_separator: "<!--more-->"
