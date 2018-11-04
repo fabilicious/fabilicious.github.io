@@ -2,7 +2,7 @@
 # Site
 
 title: Fabilicious
-url: ""
+url: "fabilicious.github.io"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -19,8 +19,8 @@ author:
 social:
   name: Fabilicious
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
-
+    - https://github.com/fabilicious/fabilicious.github.io/
+                    
 # -----
 # Build
 
@@ -59,7 +59,7 @@ defaults:
       layout: "default"
       push_sidebar_down: true
 
-baseurl: "/Fabilicious"
+baseurl: ""
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
