@@ -29,6 +29,8 @@ Wordt gemaakt van mager kalkoendijvlees en bevat slechts 5% vet op 100gram.
 
 Smeer een ovenschotel in met wat olijfolie.
 Leg de zalm erin met het gerookt spek er bovenop.
-Vul aan met de aardappelschijfjes,de stukjes tomaat en de room.
+Vul aan met de aardappelschijfjes en de stukjes tomaat.
 Kruiden met wat peper, zout en dragon.
+Overgiet met de room.
+
 Bakken op 200° 15 à 20 minuten. Afhankelijk van de dikte van de zalm.
