@@ -16,7 +16,7 @@ recipe:
     * 140g geconcentreerde tomatenpuree
     * Facultatief 1 mergpijpje
 ---
-Soep staat dagelijks op het menu. Dat is voor mij comfy food.
+Soep staat dagelijks op het menu. Dat is comfy food voor mij.
 Het moet al snikheet weer zijn om geen soep te verorberen. En dan nog er is niks mis met een verfrissende gazpacho!
 Tomatensoep in de winter daar hoort een beetje knolselder bij.
 Dit recept kwam toevallig tot stand. Had zin in tomatensoep en zag nog een restje knolselder liggen in de koelkast.  Te weinig om er nog veel mee aan te vangen, dan maar mee de soeppot in. Het resultaat was verassend lekker! De knolselder zorgt voor een extra toets.
