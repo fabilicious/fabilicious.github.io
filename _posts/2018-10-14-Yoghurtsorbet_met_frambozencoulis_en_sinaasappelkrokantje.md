@@ -30,8 +30,8 @@ recipe:
     * Grof gehakte pistachenoten
 
 ---
-Dit is een superlicht en fris dessert ! Niet alleen in de zomer , maar ook na een etentje met vrienden is dit een ideale afsluiter. 
-Geef er wat rode vruchten bij . Frambozen, aardbeien, braambessen, kersen, bosbessen. Het kan allemaal.
+Dit is een superlicht en fris dessert! Niet alleen in de zomer, maar ook na een etentje met vrienden is dit een ideale afsluiter. 
+Geef er wat rode vruchten bij. Frambozen, aardbeien, braambessen, kersen, bosbessen. Het kan allemaal.
 
 <!--more-->
 
@@ -47,11 +47,11 @@ Op de frambozenpuree gieten.
 
 **Sinaasappelkrokantje:**
 Boter smelten,maar niet te warm laten worden.
-De suikers, bloem ,amandelpoeder en zeste toevoegen.
+De suikers, bloem, amandelpoeder en zeste toevoegen.
 Sinaasappelsap erbij doen tot je een smeuïg deeg bekomt.
 
 Het deeg  flinterdun op een siliconemat smeren en betrooien met de pistachenoten.
-Bakken op 150° tot je een goudbruin kleur bekomt.
+Bakken op 150°C tot je een goudbruin kleur bekomt.
 In grove stukken breken.
 
 <b>Tip: </b>

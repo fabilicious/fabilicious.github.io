@@ -26,7 +26,7 @@ De boeken zijn jammer genoeg niet meer verkrijgbaar, enkel op 2de hands worden z
 Kneed, met uitzondering van de cacaopoeder, al de ingrediënten samen tot een vast deeg.
 Verdeel het deeg in 2.
 De ene helft bewaar je in de koelkast in plastic folie.
-Voeg bij de andere helft de cacaopoeder toe . Kneed tot alles goed vermengd is en laat eveneens hard worden.
+Voeg bij de andere helft de cacaopoeder toe. Kneed tot alles goed vermengd is en laat eveneens hard worden.
 
 Nu kan je verschillende combinaties gebruiken.
 Enkele voorbeelden:
@@ -39,7 +39,7 @@ Spiraalvorm bekom je door een plak cacaodeeg op een basisdeeg te leggen en op te
 Andere mogelijkheid is door een worst te rollen van 2 à 3 cm diameter met het basisdeeg, deze op een uitgerolde lap cacaodeeg te leggen en samen op te rollen.
 
 Opnieuw in de koelkast laten hard worden. In plakjes snijden en op een siliconen mat leggen.
-Afbakken op 170 à 180° een 12 tal minuten.
+Afbakken op 170 à 180°C een 12 tal minuten.
 Op een rooster laten afkoelen.
 
 
