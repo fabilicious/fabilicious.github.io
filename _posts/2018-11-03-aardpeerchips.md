@@ -22,9 +22,10 @@ Heb inmiddels 2 versies, gefrituurd en in de oven gebakken.
 
 Enkele aardperen met de schil zeer goed wassen en drogen.
 Met een mandoline of komkommerschaaf schijfjes raspen.
-Deze tussen 2 vellen keukenpapier droogdeppen en frituren op 160°C tot ze lichtbruin
-kleuren.
-Op keukenpapier laten uitlekken en wat zout op strooien.
+
+Versie 1: Frituur op 160°C tot ze lichtbruin kleuren (3 à 4 minuten). Op keukenpapier laten uitlekken en wat zout op strooien. 
+
+Versie 2: Leg de schijfjes naast elkaar op een siliconematje of op een lichtjes ingeolied bakpapier. Bak in de oven op 160°C tot ze mooi droog zijn. (10-tal minuten) Bestrooi na het afkoelen met wat zout.
 
 <b>Tip: </b>
-Je kan ze vooraf frituren, maar je moet ze in een kom zonder deksel bewaren.
+Je kan ze vooraf frituren of bakken, maar je moet ze in een kom zonder deksel bewaren.
