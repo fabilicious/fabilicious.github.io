@@ -6,3 +6,4 @@ _site/
 .serverURL
 .DS_Store
 log
+.DS_Store
