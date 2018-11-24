@@ -3,7 +3,7 @@ date: 2018-11-20
 title: Frambozentaart met crème brûlée
 categories:
   - taarten
-featured_image: /images/frambozentaart met crème brulée V3_1200.jpg
+featured_image: /images/frambozentaart met creme brulee V3_1200.jpg
 recipe:
   servings: 6 personen
   ingredients_markdown: |-
