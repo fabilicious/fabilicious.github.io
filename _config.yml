@@ -11,15 +11,17 @@ excerpt_separator: "<!--more-->"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
-author:
-  name:
+description: Fabilicious food blog.
+author: Fabienne Castro 
+  name: Fabienne
   email:
   twitter: # twitter username without the @ symbol
 social:
   name: Fabilicious
   links:
+    - https://www.instagram.com/fabiliciousblog/
     - https://github.com/fabilicious/fabilicious.github.io/
+    - https://www.pinterest.com/fabiennecastro1067/
                     
 # -----
 # Build
