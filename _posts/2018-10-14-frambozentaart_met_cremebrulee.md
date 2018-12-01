@@ -30,4 +30,5 @@ Vorig weekend hingen er nog altijd frambozen aan onze struiken.Jawel, midden no
 
 <b>Tip: </b>Je kan de crème brûlée de dag ervoor maken en in de diepvries plaatsen tot je gaat dresseren.Je zult wel wat geduld moeten hebben om de ring met folie eraf te halen.Met de siliconen vorm gaat dat iets makkelijker.Maar zeker niet volledig laten ontdooien!!!De taartbodem met amandelcrème kan je ook de dag voordien afbakken en in een luchtdichte doos bewaren.
 
-![](/images/frambozentaart cremebrulee slice 1200.jpg)
+![](/images/frambozentaart cremebrulee slice 1200.jpg)
+![](/images/frambozentaartcremebruleepin.jpg)
