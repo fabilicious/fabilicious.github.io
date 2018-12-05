@@ -13,6 +13,6 @@ Zo nu en dan geef ik een workshop voor enkele enthousiaste vriendinnen. Eveneens
 Ook de bovenstaande is van haar.
 <!--more-->
 
-Verwarm de oven op 180°.Meng al de ingrediënten samen en verdeel over 2 bakplaten (bekleed met bakpapier) . Rol het deeg tussen 2 vellen bakpapier dun uit. Snij met een pizzames het deeg in rechthoeken van 7op 5 cm.Bak 20 minuten. Ze zijn zeker 1 week houdbaar in een goed afgesloten doos.<b>Tip: </b>:Lekker als aperitiefhapje met [hummus](https://fabilicious.be/aperitiefhapjes/2018/11/11/hummus/) of met kaas.
+Verwarm de oven op 180°.Meng al de ingrediënten samen en verdeel over 2 bakplaten (bekleed met bakpapier) . Rol het deeg tussen 2 vellen bakpapier dun uit. Snij met een pizzames het deeg in rechthoeken van 7 op 5 cm.Bak 20 minuten. Ze zijn zeker 1 week houdbaar in een goed afgesloten doos.<b>Tip: </b>: Lekker als aperitiefhapje met [hummus](https://fabilicious.be/aperitiefhapjes/2018/11/11/hummus/) of met kaas.
 
-Dit is een lichtjes aangepaste versie van www.ondinecheznanou.blogspot.com
+Dit is een lichtjes aangepaste versie van de blog 'On dine chez Nanou'.
