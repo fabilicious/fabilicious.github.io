@@ -42,4 +42,4 @@ Opnieuw in de koelkast laten hard worden. In plakjes snijden en op een siliconen
 Afbakken op 170 à 180°C een 12 tal minuten.
 Op een rooster laten afkoelen.
 
-
+<b>Tip: </b>: De verschillende kant en klare rauwe deegcombinaties verpakt in huishoudfolie kunnen op voorhand ingevroren worden. Enkel nog in plakjes en afbakken. Leuk voor de feesten.
