@@ -10,9 +10,9 @@ recipe:
     * 1 stuk zalmfilet van 150g à 175g
     * 2 sneetjes fijn gerookt spek
     * 2 aardappelen half gaar gekookt en in schijfjes van 0,5 cm
-    * 1 tomaat  geconcasseerd
+    * 1 tomaat geconcasseerd
     * Dragon liefst vers, maar gedroogd kan ook
-    * Een scheutje room of sojaroom
+    * 35 ml room of sojaroom (mag ook iets meer voor liefhebbers van een romig sausje)
     * Peper en zout
 ---
 Waar ik dit recept heb gehaald kan ik mij niet meer herinneren.
