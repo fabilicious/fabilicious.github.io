@@ -12,7 +12,7 @@ recipe:
     * 2 aardappelen half gaar gekookt en in schijfjes van 0,5 cm
     * 1 tomaat geconcasseerd
     * Dragon liefst vers, maar gedroogd kan ook
-    * 35 ml room of sojaroom (mag ook iets meer voor een romig sausje)
+    * 35 ml room of sojaroom (of iets meer voor een romig sausje)
     * Peper en zout
 ---
 Waar ik dit recept heb gehaald kan ik mij niet meer herinneren.
