@@ -15,7 +15,7 @@ recipe:
     * 90g poedersuiker
     * 50g amandelschilfers
 
-    **Crėme au beurre
+    **Crème au beurre
     * 25g water
     * 65g kristalsuiker
     * 5g glucose
@@ -42,7 +42,7 @@ Verwarm de 80g suiker in de oven (2 minuten op 150°C).
 Klop de eiwitten op met de 20g suiker en vervolgens met de verwarmde suiker.
 Meng bloem, bloemsuiker en amandelpoeder onder elkaar.
 Spatel voorzichtig onder de eiwitten.
-Spuit de bokkenpootjes op silicone bakmatjes of op bakpapier en bestrooi met de amandelschilfers.
+Spuit de bokkenpootjes op siliconen bakmatjes of op bakpapier en bestrooi met de amandelschilfers.
 Bak op 180°C 10 à 12 minuten (Afhankelijk van de oven, dit is enkel een indicatie).
 Op een rooster laten afkoelen.
 
