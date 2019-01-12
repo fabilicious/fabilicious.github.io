@@ -2,7 +2,7 @@
 date: 2019-01-09
 title: Rundstartaar koreaanse stijl
 categories:
-  - X
+  - hoofdgerechten
 featured_image: /images/Tartaar_koreaanse_stijl 1200.jpg
 recipe:
   servings: 4 personen
