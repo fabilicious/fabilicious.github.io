@@ -2,7 +2,7 @@
 date: 2019-01-12
 title: Salade met red meat radijs en sinaasappel
 categories:
-  - salade
+  - salades
 featured_image: /images/carpaccio van redmeatradijs met sinaasappel en rode biet1200.jpg
 recipe:
   servings: 4 personen
