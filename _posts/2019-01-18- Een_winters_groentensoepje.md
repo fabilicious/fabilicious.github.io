@@ -1,9 +1,9 @@
 ---
 date: 2019-01-18
-title: Een winters soepje
+title: Een winters groentensoepje
 categories:
   - soep
-featured_image: /images/Winters groentesoepje1200.jpg
+featured_image: /images/Winters soepje V2 1200.jpg
 recipe:
   servings: 2l of 8 personen
   ingredients_markdown: |-
