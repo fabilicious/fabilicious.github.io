@@ -12,7 +12,7 @@ recipe:
     * of 80g knolselder in brunoise gesneden (veggie) en beetgaar in wat olijfolie gebakken.    
 ---
 Een broccolisoep opgesmukt met wat knolselder en paddestoelen, alledaags of feestelijk met wat extra garnituur als afwerking!
-Je zal ondertussen al gemerkt hebben dat ik fan ben van de Dindesse. Niet alleen goed van smaak, maar ook laag in vetpercentage. Je kan natuurlijk ook gewoon gerookte varkensspek gebruiken. of het spek vervangen door wat extra knolselder voor de vegetariërs onder ons.
+Je zal ondertussen al gemerkt hebben dat ik fan ben van de Dindesse. Niet alleen goed van smaak, maar ook laag in vetpercentage. Je kan natuurlijk ook gewoon gerookte varkensspek gebruiken. Of het spek vervangen door wat extra knolselder voor de vegetariërs onder ons.
 
 <!--more-->
 
