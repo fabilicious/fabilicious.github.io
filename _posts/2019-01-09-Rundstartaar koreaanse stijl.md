@@ -1,6 +1,6 @@
 ---
 date: 2019-01-09
-title: Rundstartaar koreaanse stijl
+title: Rundstartaar Koreaanse stijl
 categories:
   - hoofdgerechten
 featured_image: /images/Tartaar_koreaanse_stijl 1200.jpg
