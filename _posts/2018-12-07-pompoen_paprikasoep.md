@@ -14,3 +14,7 @@ Mijn garage ligt nog vol met prachtige pompoenen in al hun varianten.Dus er sta
 <!--more-->
 
 Ik gebruik graag de Hokkaido of kastanjepompoen.Het vruchtvlees is stevig, zoet en smaakt naar noten (kastanjes).Je moet ze niet schillen, enkel de zaadjes verwijderen en in stukken snijden.De ui, wortelen in grove stukken snijden.Paprika’s in 2 snijden, de zaadjes verwijderen en in stukken doen.De groenten in wat olijfolie aanstoven, vervolgens de bouillon toevoegen en de geraspte gember.Kook de soep 20 à 30 minuten en mix alles tot een gladde soep.Eventueel nog wat kruiden met peper en zout.Afwerken met koriander.
+
+<b>Tip: </b>
+
+Je kan dit soepje nog wat romiger maken door een wolkje room/kokosmelk/sojaroom net voor het opdienen toe te voegen.
