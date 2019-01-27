@@ -18,7 +18,7 @@ recipe:
 ---
 Sandwiches, een klassieker voor de zondagmorgen.
 Makkelijk op voorhand te bakken en in de diepvries te stockeren.
-De sandwiches, net uit de oven, half afgekoeld in plastic diepvrieszakjes verdelen en onmiddelijk sluiten. Op de manier komt er nog wat stoom vrij in het zakje en zorgt dit ervoor dat de sandwiches niet uitdrogen. Ontdooien en 3 minuutjes in de oven (150°C) warmen.
+De sandwiches, net uit de oven, half afgekoeld in plastic diepvrieszakjes verdelen en onmiddelijk sluiten. Op deze manier komt er nog wat stoom vrij in het zakje en zorgt dit ervoor dat de sandwiches niet uitdrogen. Volledig laten afkoelen en invriezen. Voor gebruik ontdooien en 3 minuutjes in de oven (150°C) warmen.
 
 <!--more-->
 
