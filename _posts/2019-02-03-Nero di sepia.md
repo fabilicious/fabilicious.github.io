@@ -12,7 +12,7 @@ recipe:
     * 200g water (temperatuur tussen de 20°C en 25°C)
     * 8g inkt van inktvis
     * 10g zout
-    * 3g gist
+    * 3g droge gist
     * 20g zonnebloempitten
     * 20g geroosterde sesamzaadjes
     * 5g geroosterde sesamzaadjes en wat grof zeezout voor de afwerking
