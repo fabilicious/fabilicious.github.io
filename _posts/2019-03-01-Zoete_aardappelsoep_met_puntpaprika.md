@@ -18,8 +18,8 @@ recipe:
     * peper, zout en eventueel koriander 
     * olijfolie  
 ---
-Al mijn soepen maak ik met verse - of diepvriesgroenten. Behalve vandaag! 
-De bokaal met geroosterde puntpaprika’s van die we standaard in onze caravan meenemen (lekker als aperitiefhapje) dreigde over datum te gaan.
+Al mijn soepen maak ik met verse of diepvriesgroenten. Behalve vandaag! 
+De bokaal met geroosterde puntpaprika’s die we standaard in onze caravan meenemen (lekker als aperitiefhapje) dreigde over datum te gaan.
 Dan maar mee de soep in.
 De combinatie met de zoete aardappel, kokosmelk en de limoenblaadjes blies ons omver!
 Onweerstaanbaar lekker! 
