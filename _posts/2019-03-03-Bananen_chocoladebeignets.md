@@ -10,7 +10,7 @@ recipe:
     * 90g gepelde banaan    * 10g kristalsuiker    * 100ml melk    * 100g boter    * 100g bloem
     * 3 eieren (ca. 150g)    * Ongeveer 40 chocolade callets (55% cacaobestanddelen)
 ---
-Volgens Locatelli zou het leven heel treurig zijn mochten er geen beignets bestaan.Er is niks lekkerder dan dat.Ja, smaken verschillen hé! Ik zelf ben geen superfan van beignets.Maar, eerlijk is eerlijk, van deze chocolade-bananenbeignets word ik vrolijk.Meer nog, ik heb er nog wat extra gefrituurd.Geef 2 à 3 kleine beignets met een bolletje ijs en je hebt een niet alledaags dessert.Dit recept komt uit Made in Italy van Giorgio Locatelli.Een kanjer van een boek vol recepten en verhalen.
+Volgens Locatelli zou het leven heel treurig zijn mochten er geen beignets bestaan.Er is niks lekkerder dan dat.Ja, smaken verschillen hé! Ik zelf ben geen superfan van beignets.Maar, eerlijk is eerlijk, van deze bananen-chocoladebeignets word ik vrolijk.Meer nog, ik heb er nog wat extra gefrituurd.Geef 2 à 3 kleine beignets met een bolletje ijs en je hebt een niet alledaags dessert.Dit recept komt uit Made in Italy van Giorgio Locatelli.Een kanjer van een boek vol recepten en verhalen.
 
 <!--more-->
 
