@@ -2,7 +2,7 @@
 date: 2019-03-09
 title: Nasi Goreng
 categories:
-  - hoofdgrechten
+  - hoofdgerechten
 featured_image: /images/Nasi goreng V11200.jpg
 recipe:
   servings: 4 personen
