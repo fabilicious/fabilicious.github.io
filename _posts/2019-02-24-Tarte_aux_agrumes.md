@@ -46,7 +46,7 @@ Deze tarte aux agrumes kan je het hele jaar door maken, gebruikmakend van de op 
 
 **Zoet deeg**
 
-Meng met de hand of keukenrobot de boter met de bloemsuiker.Voeg de amandelpoeder, het zout en de dooier toe. Als laatste meng je de bloem er onder.Stop onmiddellijk met kneden van zodra je een homogeen deeg bekomt. Deeg in plasticfolie verpakken en minstens 1 uur in de koelkast bewaren.
+Meng met de hand of keukenrobot de boter met de bloemsuiker.Voeg de amandelpoeder, het zout en het ei toe. Als laatste meng je de bloem er onder.Stop onmiddellijk met kneden van zodra je een homogeen deeg bekomt. Deeg in plasticfolie verpakken en minstens 1 uur in de koelkast bewaren.
 Oven voorverwarmen op 170°C.
 De ring met boter instrijken en op een met bakpapier beklede bakplaat leggen.
 Het deeg uitrollen en in de vorm leggen en mooi aandrukken.
