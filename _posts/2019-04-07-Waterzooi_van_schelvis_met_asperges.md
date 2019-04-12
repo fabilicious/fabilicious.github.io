@@ -10,7 +10,7 @@ recipe:
     * 4x150g schevisfilet of een andere witte vis    * 500g geschilde asperges koken en in stukken van 3cm snijden
     * 1 prei in ringen gesneden
     * 5dl visumet of garnalenfumet
-    * 150ml room
+    * 200ml room
     * enkele draadjes saffraan
     * peper en zout
     * enkele druppels citroensap
