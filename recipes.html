@@ -174,16 +174,6 @@ image_view: true
         {% endfor %}
     </div>
 
-<h3>Voorgerechten</h3>
-{% assign posts = site.categories.Voorgerechten %}
-    <div class="recipes">
-        {% for recipe in posts %}
-            <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
-                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
-            </div>
-        {% endfor %}
-    </div>
-
 <h3>Divers</h3>
 {% assign posts = site.categories.hartigDivers %}
     <div class="recipes">
