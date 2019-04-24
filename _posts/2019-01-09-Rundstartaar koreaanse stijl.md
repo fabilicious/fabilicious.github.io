@@ -7,12 +7,13 @@ featured_image: /images/Tartaar_koreaanse_stijl 1200.jpg
 recipe:
   servings: 4 personen
   ingredients_markdown: |-
-    * 500g americain natuur    * 1 kleine rode ui fijngesnipperd of enkele lente-uitjes    * 2 à 3 eetlepels zelfgemaakte mayonaise    * 1 eetlepel geroosterde sesamolie (of wat meer of minder naar eigen smaak)    * 1 theelepel honing    * Peper en zout    * 1 nashi peer, geschild en in balkjes gesneden    * 1 red meat radijs, dun geschild en in balkjes gesneden        **Afwerking:**    * 1 kleine rode ui in flinterdunne ringen gesneden    * Sushi-azijn en koolzaadolie    * Zwarte en witte sesamzaadjes
+    * 500g americain natuur    * 1 kleine rode ui fijngesnipperd of enkele lente-uitjes    * 2 à 3 eetlepels zelfgemaakte mayonaise    * 1 eetlepel geroosterde sesamolie (of wat meer of minder naar eigen smaak)
+    * 2 eetlepels sojasaus    * 1 theelepel honing    * Peper en zout    * 1 nashi peer, geschild en in balkjes gesneden    * 1 red meat radijs, dun geschild en in balkjes gesneden        **Afwerking:**    * 1 kleine rode ui in flinterdunne ringen gesneden    * Sushi-azijn en koolzaadolie    * Zwarte en witte sesamzaadjes
     * Zeste van limoen
     **Serveer met:**    * Zelfgemaakte of gekochte sriracha mayonaise     * Gemengde sla    * Verse frieten met wat sesamzaadjes en geraspte zeste van limoen. 
 ---
 Een grote vleeseter ben ik nooit geweest, maar ik heb wel een zwak voor rundstartaar.
-De rundstartaar op koreaanse wijze heb ik de eerste maal in de Eetboetiek in Sluis geproefd.
+De rundstartaar op Koreaanse wijze heb ik de eerste maal in de Eetboetiek in Sluis geproefd.
 Sindsdien zijn we er reeds vele malen teruggekeerd. Niet alleen voor de tartaar.
 Alle gerechten komen er heel verzorgd op tafel en zijn uiterst smakelijk!
 Nu vond ik het hoog tijd om deze tartaar eens thuis klaar te maken.
