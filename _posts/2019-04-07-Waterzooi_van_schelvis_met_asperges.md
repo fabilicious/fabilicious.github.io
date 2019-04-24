@@ -35,5 +35,12 @@ Schep de waterzooi in diepe borden en bestrooi met wat gehakte peterselie.
 Voor een rijkelijker afwerking kan je nog wat zeekraal en 3 langoustinestaartjes per persoon toevoegen. De rauwe langoustinestaartjes de laatste 3 minuutje meegaren in de saus. De zeekraal een minuutje laten meegaren.
 Serveer eventueel met gestoomde aardappelen.
 
+De saus in de waterzooi is niet gebonden! 
+Maar je kan door een beetje beurre manié toe te voegen de saus lichtjes binden indien je dat wenst.
+
+Beurre manié: gelijke delen zachte boter mengen met gelijke delen bloem tot een mooie pasta.
+Beetje per beetje de beurre manié bij de warme saus roeren tot je de gewenste dikte bekomt. Nog heel eventjes laten meekoken om de bloemsmaak te laten verdwijnen.
+De beurre manié kan je gemakkelijk enkele weken in de koelkast bewaren of in kleine hoeveelheden invriezen.
+
 
 
