@@ -32,7 +32,7 @@ Een zeer dankbaar koekje, het oogt niet alleen mooi, het is gewoon yummie!!!!
 
 ![](/images/leskrumchysstap11200.jpg)
 
-  In de vormen laten zitten, ook tijdens het vullen van de caramel beurre salé en de chocolade!!!Onmiddellijk na het bakken een putje vormen in het deeg met een stamper (bv. cocktailstamper of een mortel) of een parisiennelepel. Let erop dat de holte groot genoeg is om voldoende vulling erin te spuiten (Zie foto).
+  In de vormen laten zitten, ook tijdens het vullen van de caramel beurre salé en de chocolade!!!Onmiddellijk na het bakken een putje vormen in het deeg met een stamper (bv. cocktailstamper of een mortel of een parisiennelepel). Let erop dat de holte groot genoeg is om voldoende vulling erin te spuiten (Zie foto).
 
 ![](/images/leskrumchysstap21200.jpg)
 De caramel beurre salé in de holtes spuiten. Normaal zal je wat caramel over hebben.
