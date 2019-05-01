@@ -7,8 +7,8 @@ featured_image: /images/LesKrumchys1200.jpg
 recipe:
   servings: 25 stuks
   ingredients_markdown: |-
-    **Zanddeeg:**    * 120g bloem met 3 g bakpoeder (zeven)    * 90g zachte boter    * 70g bloemsuiker en 1 zakje vanillesuiker    * 2 eidooiers    * Snuifje zout    **Caramel beurre salé:**    * 1O0g suiker    * 70g room     * 26g licht gezouten boter (demi-sel)
-    * eventueel nog een snufje fleur de sel    * ca 180g melkchocolade     * 30g hazelnoten geroosterd en grof gehakt    * Ik heb siliconen vormpjes gebruikt van 2,5 cm hoog en een diameter van 4cm     
+    **Zanddeeg:**    * 120g bloem met 3 g bakpoeder (zeven)    * 90g zachte boter    * 70g bloemsuiker en 1 zakje vanillesuiker    * 2 eidooiers    * Snuifje zout    **Caramel beurre salé:**    * 100g suiker    * 70g room     * 26g licht gezouten boter (demi-sel)
+    * eventueel nog een snufje fleur de sel    * ca. 180g melkchocolade     * 30g hazelnoten geroosterd en grof gehakt    * Ik heb siliconen vormpjes gebruikt van 2,5 cm hoog en een diameter van 4cm     
 ---
                                    Foto : Anneke Ruijsbroek
 
@@ -21,14 +21,14 @@ Aan het recept heb ik wat moeten sleutelen om het naar onze smaak in balans te k
 
 Je kan zeker de melkchocolade vervangen door donkere chocolade.
 Ik heb er ook een nieuwe variant van gemaakt met frambozenconfituur en witte chocolade met pistachenoten.
-De ruby chocolade een ideetje van bakvriendin Anneke en tevens ook fotograaf van deze prachtige foto, is ook een leuk alternatief.
+De ruby chocolade een ideetje van bakvriendin Anneke en tevens ook fotografe van deze prachtige foto, is ook een leuk alternatief.
 
 Een zeer dankbaar koekje, het oogt niet alleen mooi, het is gewoon yummie!!!!
 
 
 <!--more-->
 
-**Caramel beurre salé**Breng de room aan de kook.In een andere pan laat je de suiker op een gemiddeld warm vuur in 3 keren smelten. Na het bekomen van een mooie kleur de pan van het vuur nemen en de  warme room voorzichtig toevoegen. En daarna de boter. Zeven indien nodig. Laten afkoelen op kamertemperatuur en dan in een spuitzak doen. **Zanddeeg**Dooiers met suiker kloppen, boter erbij doen en vervolgens de bloem en het zout met een spatel er kort ondermengen. Bolletjes vormen van 12g. Het is een erg kleverig deeg en het gaat gemakkelijker als je het deeg eerst in de koelkast een uurtje laat opstijven.In de siliconen vormpjes doen en lichtjes plat duwen. Op een bakplaat leggen en bakken op 180° voor 12 min.
+**Caramel beurre salé**Breng de room aan de kook.In een andere pan laat je de suiker op een gemiddeld warm vuur in 3 keren smelten. Na het bekomen van een mooie kleur de pan van het vuur nemen en de  warme room voorzichtig toevoegen. En daarna de boter. Zeven indien nodig. Laten afkoelen op kamertemperatuur en dan in een spuitzak doen. **Zanddeeg**Dooiers met suiker kloppen, boter erbij doen en vervolgens de bloem en het zout met een spatel er kort ondermengen. Bolletjes vormen van 12g. Het is een erg kleverig deeg en het gaat gemakkelijker als je het deeg eerst in de koelkast een uurtje laat opstijven.In de siliconen vormpjes doen en lichtjes plat duwen. Op een bakplaat leggen en bakken op 180°C voor 12 min.
 
 ![](/images/leskrumchysstap11200.jpg)
 
