@@ -48,6 +48,7 @@ De rest van het deeg erbij doen en vervolgens de overgebleven rabarber.
 Strooi er de crumble bovenop. 
 
 Bak de cake in een voorverwarmde oven van 160°C gedurende een 40-tal minuten.
+Je cake is gaar als je er met een satéprikker in prikt en deze er schoon en droog uitkomt.
 
 <b>Tip: </b>
 

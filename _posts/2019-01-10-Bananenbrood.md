@@ -20,7 +20,7 @@ Eerlijkheidshalve moet ik toegeven dat ik dikwijls met opzet iets te veel banane
 
 <!--more-->
 
-Boter en platte kaas opkloppen met suiker, de eieren 1 voor 1 toevoegen.Bananen, bloem, amandelpoeder, bakpoeder en bicarbonaat er onder mengen.Als laatste de kruiden, walnoten en callets toevoegen.Bakken op 180°C ongeveer 45 à 50 minuten .Doe de test door met een satéprikker in het deeg te gaan, als deze er volledig droog uitkomt, dan is het  bananenbrood klaar.
+Boter en platte kaas opkloppen met suiker, de eieren 1 voor 1 toevoegen.Bananen, bloem, amandelpoeder, bakpoeder en bicarbonaat er onder mengen.Als laatste de kruiden, walnoten en callets toevoegen.Bakken op 180°C ongeveer 45 à 50 minuten .Je bananenbrood is gaar als je er met een satéprikker in prikt en deze er schoon en droog uitkomt.
 Je kan het brood gemakkelijk invriezen.
 
 
