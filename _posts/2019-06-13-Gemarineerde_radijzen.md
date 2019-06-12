@@ -9,7 +9,7 @@ recipe:
   ingredients_markdown: |-
     * 1 bussel radijzen
     * 2 eetlepels sushi-azijn
-    * 2 eetlepels chardonnay-azijn (ik gebruik graag Forum)
+    * 2 eetlepels chardonnay-azijn (ik gebruik graag Forvm)
         
 ---
 Radijzen kan je niet alleen uit het vuistje of op een boterham met platte kaas eten, maar ook gemarineerd krijgen ze een extra dimensie.
