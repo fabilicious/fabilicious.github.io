@@ -8,7 +8,7 @@ recipe:
   servings: 2 suikerbroodjes
   ingredients_markdown: |-
     <b>Binnendeeg:</b>
-    * 200 g tarwebloem
+    * 300 g tarwebloem
     * 125 g volle melk
     * 75 g ei
     * 50 g verse gist
@@ -49,7 +49,7 @@ Verdeel het deeg in 2 stukken van 325g. Bol op en laat 20 minuten rusten onder p
 Rol de 2 stukken buitendeeg met een deegrol uit tot een vliesje van 15 cm doorsnede.
 Maak het binnendeeg mooi rond en leg ze met het slot naar boven op de vliesjes.
 Plooi dan de vliesjes  over het suikerdeeg en druk een beetje aan.
-Draai de broodjes om leg ze op de bakplaat ( met bakpapier)onder plastiek , 60à75 minuten narijzen.
+Draai de broodjes om leg ze op de bakplaat ( met bakpapier)onder plastiek , 60 à 75 minuten narijzen.
 
 Bestrijk  ze voorzichtig met losgeklopt ei en snijd met een scherp mesje (of scheermesje) 2 sneetjes in. Versier de insnijdingen met de parelsuiker. 
 Oven voorverwarmen op 190° en bak de broden 25 à 30 minuten op 180°.
