@@ -45,3 +45,8 @@ Doe de hijiki en de tuinbonen in een kom en meng er de rest van de ingrediënten
 
 Kruid de tonijn met peper en zout.
 Verhit een pan en bak de tonijn heel kort langs alle kanten aan. Moet nog rood of roze  zijn van binnen. Laat wat afkoelen en snijd in plakjes.
+
+<b>tip:</b>
+
+Vervang de tonijn door tataki van zalm of gerookte zalmblokjes.
+Veggie-variant: vervang de vis door gemarineerde tofublokjes.
