@@ -27,3 +27,5 @@ De confituur mag er niet meer aflopen als je het bord schuin houdt.
 Is dit niet het geval laat de confituur wat verder inkoken.
 En doe de test opnieuw.
 Vul de gesteriliseerde glazen potten, deksel erop en omgekeerd laten afkoelen.
+
+![](/images/framboostuinjuli19CU1200.jpg)
