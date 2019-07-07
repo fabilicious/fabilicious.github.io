@@ -2,8 +2,7 @@
 title: Home
 ---
 <section class="posts">
-	{% assign posts = site.categories.recipes %}
-	{% for post in posts %}
+	{% for post in paginator.posts %}
 		<article class="post">
 			{% include post-heading.html post=post %}
 			<div class="image">

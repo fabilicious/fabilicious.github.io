@@ -1,3 +1,34 @@
 ---
 title: Fabie on tour
 ---
+
+<section class="posts">
+    {% assign posts = site.categories.places %}
+    {% for post in posts %}
+      <article class="post">
+        {% include post-heading.html post=post %}
+        <div class="image">
+          <img class="home" src="{{ post.featured_image }}" alt="{{ post.title }}">
+        </div>
+  
+        {{ post.excerpt }}
+  
+        <p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Lees meer</a></p>
+      </article>
+    {% endfor %}
+  
+    {% if paginator.total_pages > 1 %}
+      <div class="pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="previous btn">&larr; Nieuwere posts</a>
+        {% endif %}
+  
+        <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+  
+        {% if paginator.next_page %}
+          <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Oudere posts &rarr;</a>
+        {% endif %}
+      </div>
+    {% endif %}
+  </section>
+  
