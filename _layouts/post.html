@@ -6,12 +6,13 @@ layout: default
 	<div class="image">
 		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
-
+	
 	<div class="recipe-body">
-        {% assign contentArray = page.content | markdownify | split: site.excerpt_separator %}
-        {{ contentArray.first }}
+		{% assign contentArray = page.content | markdownify | split: site.excerpt_separator %}
+		{{ contentArray.first }}
 	</div>
-
+	
+	{% if page.categories contains "recipes" %}
 	<ul id="recipe" class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
 	<!--	<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
@@ -33,8 +34,14 @@ layout: default
     <h2>Bereiding:</h2>
     <div class="recipe-body">
         {{ contentArray.last }}
+		</div>
+	
+	{% elsif page.categories contains "places" %}	
+	<div class="recipe-body">
+			{{ contentArray.last }}
 	</div>
 
+	{% endif %}
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url %}
 		{% assign share_url =  share_url | remove: 'Fabilicious/' %}

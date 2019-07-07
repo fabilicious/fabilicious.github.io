@@ -3,7 +3,8 @@ date: 2018-09-16
 title: Suikerbrood
 categories:
   - broodEnOntbijtgranen
-featured_image: /images/Suikerbrood_thumb.jpg
+  - recipes
+featured_image: /Fabilicious/images/Suikerbrood_thumb.jpg
 recipe:
   servings: 2 suikerbroodjes
   ingredients_markdown: |-

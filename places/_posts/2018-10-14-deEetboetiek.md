@@ -6,4 +6,9 @@ categories:
 featured_image: /Fabilicious/images/sergio.jpg
 ---
 
-Lekker eten enzo....
+Lekker eten enzo (Dit komt op de front page)....
+
+
+<!--more-->
+
+Dit niet, maar de vissoep is lekker.
