@@ -7,7 +7,7 @@ featured_image: /images/ijsbuche_vanilleroomijs_frambozensorbetV2800.jpg
 recipe:
   servings: 8 personen
   ingredients_markdown: |-
-    * 5dl [vanilleroomijs](https://fabilicious.be/ijsensorbets/2018/12/08/dame_blanche/)    * 4dl [frambozensorbet](https://fabilicious.be/ijsensorbets/2018/12/08/frambozensorbet/)    **Meringue:**      * 50g eiwit    * 50g fijne kristalsuiker
+    * 5dl [vanilleroomijs](https://fabilicious.be/recipes/ijsensorbets/2018/12/08/dame_blanche/)    * 4dl [frambozensorbet](https://fabilicious.be/recipes/ijsensorbets/2018/12/08/frambozensorbet/)    **Meringue:**      * 50g eiwit    * 50g fijne kristalsuiker
     * 50g gezeefde bloemsuiker
 ---
 De feestdagen naderen met rasse schreden! En om de stress te vermijden kan je maar beter op tijd met de voorbereidingen beginnen.Deze ijsbûche kan je zeker een week op voorhand maken.Dit is een vacherin ijstaart in een feestelijke versie.Het zure van de frambozensorbet matcht perfect met de romige smaak van de vanilleroomijs en de meringue zorgt voor een cruchy bite. Een ideale afsluiter om de gaatjes te vullen na een feestmaaltijd.<!--more-->
