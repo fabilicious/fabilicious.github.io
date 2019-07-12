@@ -20,7 +20,7 @@ Meng de halloumi, rode ui, look, chilipeper, munt en de zeste van citroen in een
 
 <b>Tip: </b>
 
-Lekker met mijn [salade van komkommerlinten](https://fabilicious.be/bijgerechten/2019/01/04/Salade-van-komkommerlinten/).
+Lekker met mijn [salade van komkommerlinten](https://fabilicious.be/recipes/bijgerechten/2019/01/04/Salade-van-komkommerlinten/).
 
 Dit recept komt uit [Mildreds, the cookbook](https://www.amazon.co.uk/Mildreds-Vegetarian-Cookbook-Daniel-Acevedo/dp/1845339983).
 
