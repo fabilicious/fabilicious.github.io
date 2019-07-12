@@ -2,7 +2,7 @@
 date: 2019-03-16
 title: Marokkaanse sinaasappelbroodjes
 categories:
-  - broodEnontbijtgranen
+  - broodEnOntbijtgranen
 featured_image: /images/Marokkaanse_sinaasappelbroodjes1200.jpg
 recipe:
   servings: 16 stuks
