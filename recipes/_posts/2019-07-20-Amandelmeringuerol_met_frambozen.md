@@ -25,7 +25,7 @@ Verwarm de oven op 180°C.
 Neem een met bakpapier beklede bakplaat en vet lichtjes in (zonnebloemolie of gesmolten boter of een spray).
 Bakplaat (of bakvorm) 20cm op 30 cm of op de helft van een grote bakplaat.
 Strijk het eiwit mooi egaal uit over het bakpapier en bestrooi met de amandelschilfers.
-Bak op 160°C 12 à 15 minuten of tot de meringue lichtbruin ziet.
+Bak op 160°C ongeveer 15 minuten of tot de meringue lichtbruin ziet en er bovenaan een korstje gevormd is.
 Niet te lang bakken zodat je de meringue gemakkelijk kan oprollen.
 Keer de gebakken meringue  op bakpapier om.
 Verwijder het papier en laat 15 minuten afkoelen.
