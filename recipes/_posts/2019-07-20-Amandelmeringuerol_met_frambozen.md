@@ -21,7 +21,7 @@ Je kan de rol langer bakken en dan bekom je een nog krokantere meringue, maar he
 
 Klop de eiwitten met de suiker (voeg de suiker in 3 keer toe) stevig op.
 Meng de maïzena voorzichtig onder het eiwit.
-Verwarm de oven op 180°C.
+Verwarm de oven op 200°C.
 Neem een met bakpapier beklede bakplaat en vet lichtjes in (zonnebloemolie of gesmolten boter of een spray).
 Bakplaat (of bakvorm) 20cm op 30 cm of op de helft van een grote bakplaat.
 Strijk het eiwit mooi egaal uit over het bakpapier en bestrooi met de amandelschilfers.
