@@ -8,7 +8,7 @@ recipe:
   servings: 450g
   ingredients_markdown: |-
     * 200g havervlokken
-    * 100g noten (ik gebruik 40g walnoten, 40g hazelnoten, 20g pistachenoten)
+    * 100g grofgehakte noten (ik gebruik 40g walnoten, 40g hazelnoten, 20g pistachenoten)
     * 50g gepofte quinoa
     * 50g zonnebloempitten
     * 50g pompoenpitten
