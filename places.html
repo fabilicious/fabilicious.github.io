@@ -5,7 +5,7 @@ title: Fabie op zwier
 <section class="posts">
     {% assign posts = site.categories.places %}
     {% for post in posts %}
-      <article class="post removeRecipe">
+      <article class="post">
         {% include post-heading.html post=post %}
         <div class="image">
           <img class="home" src="{{ post.featured_image }}" alt="{{ post.title }}">
