@@ -9,7 +9,7 @@ Elke zaterdagmorgen kan je bij Bioboer Vermeulen in Ruddervoorde een fantastisch
 
 <!--more-->
 
-We vonden er op een zaterdagmorgen in juli: een selectie van kerstomaten, vleestomaten, tomaten à l'ancienne, coeur de boeuf en enkele voor ons onbekende soorten.
+We vonden er op een zaterdagmorgen in juli een selectie van kerstomaten, vleestomaten, tomaten à l'ancienne, coeur de boeuf en enkele voor ons onbekende soorten.
 Op de website melden ze de beschikbaarheid van een 150-tal variëteiten gedurende het seizoen.
 
 
