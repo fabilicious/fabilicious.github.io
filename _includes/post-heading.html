@@ -1,5 +1,5 @@
 {% if include.post_page %}
-	<div class="take-me">
+	<div class="take-me" {% if page.categories contains "places" %}style="display:none;"{% endif %}>
 		<a class="button" href="#recipe">Spring naar recept</a>
 	</div>
 {% endif %}
