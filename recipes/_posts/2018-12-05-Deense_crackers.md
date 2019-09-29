@@ -9,6 +9,8 @@ recipe:
   ingredients_markdown: |-
     * 35g havervlokken    * 30g gebroken lijnzaad    * 30g sesamzaadjes    * 30g zonnebloempitten    * 50g pompoenpitten     * 130g speltbloem of roggebloem    * 1 ½ tl bakpoeder    * 1tl zout    * 70g zonnebloemolie of een andere neutrale olie naar keuze    * 140 ml water
 ---
+                                                            Foto : Anneke Ruijsbroek
+
 Zo nu en dan geef ik een workshop voor enkele enthousiaste vriendinnen. Eveneens gebeten door de bakmicrobe.We hebben elkaar leren kennen tijdens het volgen van een module patisserie in Spermalie.Anneke Ruijsbroek is één van die bakvriendinnen. Ze kan niet alleen goed bakken, maar ze maakt ook prachtige foto’s!Ik vond het fijn toen ik hoorde dat ik haar foto’s mag posten op mijn blog.
 Ook de bovenstaande is van haar.
 <!--more-->
