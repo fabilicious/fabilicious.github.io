@@ -10,7 +10,7 @@ recipe:
     **Zanddeeg:**
     * 100g zachte boter    * 100g suiker    * 40g eieren    * 200g bloem
 
-    **Appel-yoghurtvulling:**    * 350g volle yoghurt of platte kaas    * 40g suiker    * 100g eieren    * 100g bloem    * vanille extract of ¼ vanillemerg    * 400g appels( schillen en in blokjes van 1 cm snijden)    * 200g braambessen    **Walnotencrumble:**
+    **Appel-yoghurtvulling:**    * 350g volle yoghurt of platte kaas    * 40g suiker    * 100g eieren    * 100g bloem    * vanille extract of ¼ vanillemerg    * 400g appels (schillen en in blokjes van 1 cm snijden)    * 200g braambessen    **Walnotencrumble:**
     * 80g bloem    * 50g suiker    * 50g licht bruine suiker of rietsuiker    * 2,5g kaneelpoeder  of wat minder    * snuifje zout     * 55g gehakte walnoten    * 55g gesmolten boter
 
     **Crème van mascarpone (facultatief):**
