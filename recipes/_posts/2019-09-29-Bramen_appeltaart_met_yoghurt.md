@@ -37,9 +37,8 @@ Meng yoghurt, suiker, bloem, eieren, vanille . Voeg de appels toe.
 
 **Mascarponecrème**
 
-Meng al de ingrediënten samen en plaats in de koelkast.De taart net voor het serveren met bloemsuiker bestrooien en eventueel afwerken met wat braambessen.Geef er mascarponecrème bij indien je dit wenst. Ik vind dit persoonlijk overbodig.
-
-Taart kan zowel lauw als koud worden gegeten.
+Meng al de ingrediënten samen en plaats in de koelkast.Net voor het serveren met bloemsuiker bestrooien en eventueel afwerken met wat braambessen.Geef er mascarponecrème bij indien je dit wenst. Ik vind dit persoonlijk overbodig.
+De taart kan zowel lauw als koud worden gegeten.
 Het recept komt uit [Bake Off crème de la crème](https://www.bookdepository.com/Creme-de-la-Creme-Martin-Chiffers/9781473615663).
 A masterclass in patisserie for the home cook!
 
