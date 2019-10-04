@@ -42,3 +42,6 @@ Meng al de ingrediënten samen en plaats in de koelkast.De taart net voor het 
 Taart kan zowel lauw als koud worden gegeten.
 Het recept komt uit [Bake Off crème de la crème](https://www.bookdepository.com/Creme-de-la-Creme-Martin-Chiffers/9781473615663).
 A masterclass in patisserie for the home cook!
+
+<b>Tip: </b>
+De verse bramen kunnen vervangen worden door frambozen of bramen uit de diepvries.
