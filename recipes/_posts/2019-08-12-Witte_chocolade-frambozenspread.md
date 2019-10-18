@@ -7,7 +7,7 @@ featured_image: /images/Witte chocolade - frambozenspread1200.jpg
 recipe:
   servings: 1 confituurpotje
   ingredients_markdown: |-
-    * 140g witte chocolade callets of in kleine stukjes (Valrhona blanc ivoire 35%)     * 75g room    * Snufje zout
+    * 140g witte chocolade in kleine stukjes gehakt (ik gebruik graag Valrhona blanc ivoire 35%).     * 75g room    * Snufje zout
     * 200g frambozen (mag ook diepvries zijn)    * 120g geleisuiker of 110g kristalsuiker    
 ---
 Zelf ben ik geen grote fan van witte chocolade, maar sinds ik Blanc Ivoire van Valrhona ontdekt heb moet ik mijn mening bijstellen.Een kwaliteitsvolle chocolade met een hoger % aan cacaoboter dan de doorsnee witte chocolade. Zacht van smaak met een toets van vanille.Ik liep al geruime tijd met het idee rond om een witte chocoladepasta met frambozen te maken. Toen ik  heel toevallig het boekje “ Heerlijke spreads “ van Rachel Khoo in handen kreeg en dit receptje zag staan, ben ik meteen aan de slag gegaan.Het recept is een klein beetje aangepast.
