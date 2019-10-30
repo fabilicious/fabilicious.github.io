@@ -14,7 +14,7 @@ recipe:
     * 6 sneetjes geroosterd brood in stukjes
     * 10 sprieten bieslook fijngesneden
 
-    **Mosterdvinaigrette:**    * 1 eetlepel mosterd
+    <b>Mosterdvinaigrette:</b>    * 1 eetlepel mosterd
     * 1 eetlepel mosterd met zaadjes
     * 3 eetlepel rode wijnazijn
     * 12 eetlepel koolzaadolie of olijfolie naar smaak
