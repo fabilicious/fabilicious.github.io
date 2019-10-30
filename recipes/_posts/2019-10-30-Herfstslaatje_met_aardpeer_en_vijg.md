@@ -14,7 +14,7 @@ recipe:
     * 6 sneetjes geroosterd brood in stukjes
     * 10 sprieten bieslook fijngesneden
 
-    ** Mosterdvinaigrette:**    * 1 eetlepel mosterd
+    **Mosterdvinaigrette:**    * 1 eetlepel mosterd
     * 1 eetlepel mosterd met zaadjes
     * 3 eetlepel rode wijnazijn
     * 12 eetlepel koolzaadolie of olijfolie naar smaak
@@ -31,7 +31,7 @@ De sneetjes brood in een broodrooster goed toasten en dan in stukken trekken. Er
 
 <!--more-->
 
-In diepe borden de gemengde salade, stukjes vijg, stukjes aardpeer, reepjes ham en de stukjes geroosterd brood verdelen. Bestrooien met bieslook en afwerken met parmezaanse schilfers.
+De gemengde salade, stukjes vijg, stukjes aardpeer, reepjes ham en de stukjes geroosterd brood in diepe borden verdelen. Bestrooien met bieslook en afwerken met parmezaanse schilfers.
 Geef er de vinaigrette aan tafel bij.
 
 <b>Tip: <b/>
