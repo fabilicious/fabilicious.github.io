@@ -24,7 +24,7 @@ recipe:
     * 16g inktvisinkt
     * Witte sesamzaadjes voor de afwerking    
 ---
-Een tweede variant op ‘zwart’ brood. Een fancy bun te vullen met verschillende burgers.
+Een tweede variant op ‘zwart’ brood. Een fancy bun te vullen met verschillende burgers
 of beleggen met een sneetje gerookte zalm en wat cream cheese.
 
 <!--more-->
@@ -35,7 +35,7 @@ Dek af en laat dit minimum 1 uur rusten.
 
 **Deeg**
 Meng alle droge ingrediënten samen.
-Meng met een klopper de boter,de olie en de inktvisinkt.
+Meng met een klopper de boter, de olie en de inktvisinkt.
 Meng de eieren met het water en het voordeeg.
 En voeg dit beetje per beetje bij de droge ingrediënten.
 Kneed in een keukenrobot 5 minuten op stand 1.
@@ -44,11 +44,15 @@ Bol het deeg op en laat 20 minuten rusten onder plasticfolie.
 Weeg stukjes van 80g af voor een normale bun, 30g voor mini buns en 20g voor aperitiefbuns.
 Bol op.
 Duw de buns met de bolle kant voorzichtig in wat water en dan in de sesamzaadjes.
-Plaats ze op een met bakpapier bekleed bakplaat.
+Plaats ze op een met bakpapier beklede bakplaat.
 Laat 30 minuten rusten onder plasticfolie.
 Verwarm de oven op 170°C.
 Bak ca. 14 minuten voor de normale buns en ca. 10 minuten voor de mini versie.
 De baktijd kan korter of langer zijn afhankelijk van de oven.
+
+<b>Tip: <b/>
+
+Je kan deze buns invriezen.
 
 
 ![](/images/zwarte_buns1200.jpg)
