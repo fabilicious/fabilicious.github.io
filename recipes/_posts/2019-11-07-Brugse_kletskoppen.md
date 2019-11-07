@@ -16,7 +16,7 @@ Voor de Gentse kletskoppen gebruiken we hazelnoten.
 
 <!--more-->
 
-De zachte boter mengen met de suiker en de amandelen.Bloem en water (beetje per beetje) toevoegen tot je een spuitbaar deeg bekomt.Het is mogelijk dat je niet al het water nodig hebt of zelfs nog wat moet bijvoegen!Kleine dopjes spuiten op een siliconen mat (niet groter dan 0,50 eurocent). Voldoende ruimte tussen laten, ze kunnen flink uitlopen!Afbakken op 180° tot ze mooi goudbruin gekleurd zijn. Ongeveer 8 à 12 minuten.Wat laten hard worden vooraleer je ze van de bakplaat neemt.<b>Tip: </b>
+De zachte boter mengen met de suiker en de amandelen.Bloem en water (beetje per beetje) toevoegen tot je een spuitbaar deeg bekomt.Het is mogelijk dat je niet al het water nodig hebt of zelfs nog wat moet bijvoegen!Kleine dopjes spuiten op een siliconen mat (niet groter dan een 50 eurocentstukje). Voldoende ruimte tussen laten, ze kunnen flink uitlopen!Afbakken op 180° tot ze mooi goudbruin gekleurd zijn. Ongeveer 8 à 12 minuten.Wat laten hard worden vooraleer je ze van de bakplaat neemt.<b>Tip: </b>
 
 Lekker met wat zeste van sinaasappel, ook het water kan je vervangen door sinaasappelsap.
 
