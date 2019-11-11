@@ -4,6 +4,6 @@
 cd /Users/lucdejaegher/Documents/fabilicious.github.io
 
 bundle exec jekyll serve & 
-sleep 3
+sleep 5
 open -WFn -a "Google Chrome" http://127.0.0.1:4000
 
