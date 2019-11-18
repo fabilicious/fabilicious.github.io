@@ -1,6 +1,6 @@
 ---
 date: 2019-11-16
-title: Crab cakes met frisse komkommer
+title: Crab cakes met king crab en zoete aardappel
 categories:
   - voorgerechten
 featured_image: /images/crabcake_basis1200.jpg
