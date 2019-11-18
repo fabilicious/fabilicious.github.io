@@ -16,7 +16,8 @@ recipe:
     * 1 blik kokosmelk 400ml
     * 1l kippen-of groentebouillon
     * peper, zout en eventueel koriander 
-    * olijfolie  
+    * olijfolie
+    * enkele druppels limoensap naar smaak  
 ---
 Al mijn soepen maak ik met verse of diepvriesgroenten. Behalve vandaag! 
 De bokaal met geroosterde puntpaprika’s die we standaard in onze caravan meenemen (lekker als aperitiefhapje) dreigde over datum te gaan.
@@ -32,9 +33,9 @@ Verhit de olijfolie en stoof ui, look, chilipeper en gember tot ze glazig zijn (
 Voeg de reepjes limoenblaadjes en de zoete aardappel toe en stoof 2 à 3 minuten verder.
 Doe de kokosmelk, de bouillon en de geroosterde paprika’s erbij en breng aan de kook.
 Kook de soep een 30-tal minuten tot de groenten zacht zijn.
-Alles mixen, indien nodig nog wat kruiden met peper en zout.
+Alles mixen, indien nodig nog wat kruiden met peper, zout en eventueel enkele druppels limoensap.
 Is de soep te dik voeg dan een scheutje bouillon of water toe.
-Voor de liefhebbers afwerken met wat korianderblaadjes.
+Voor de liefhebbers afwerken met wat korianderblaadjes
 
 <b>Tip: </b>
 
