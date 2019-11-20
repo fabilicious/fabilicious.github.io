@@ -31,6 +31,13 @@
 				<img id="fabilogo" src="{{ site.baseurl }}/images/blogHeaderg.png" height="50%" alt="logo">
 			</a>
 		</header>
+
+		<div class"container">
+			<div class="searchWrapper">
+				<div class="searchBar">{% include search-lunr.html %}</div>
+			</div>
+		</div>
+
 		<div class="container main-content">
 			<section class="content">{{ content }}</section>
 			{% include sidebar.html %}
