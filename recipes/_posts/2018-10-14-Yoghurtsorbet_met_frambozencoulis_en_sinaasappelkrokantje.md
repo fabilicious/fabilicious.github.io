@@ -36,8 +36,8 @@ Geef er wat rode vruchten bij. Frambozen, aardbeien, braambessen, kersen, bosbes
 <!--more-->
 
 **Yoghurtsorbet:**
-Suiker,water en glucose aan de kook brengen en laten afkoelen.
-De yoghurt toevoegen en enkele uren in de koelkast plaatsen.
+Suiker, water en glucose aan de kook brengen en laten afkoelen.
+Yoghurt en citroensap (naar smaak) toevoegen en enkele uren in de koelkast plaatsen.
 
 De sorbet in een ijsmachine draaien en invriezen.
 
@@ -50,7 +50,7 @@ Boter smelten,maar niet te warm laten worden.
 De suikers, bloem, amandelpoeder en zeste toevoegen.
 Sinaasappelsap erbij doen tot je een smeuïg deeg bekomt.
 
-Het deeg  flinterdun op een siliconemat smeren en betrooien met de pistachenoten.
+Het deeg  flinterdun op een siliconen mat smeren en betrooien met de pistachenoten.
 Bakken op 150°C tot je een goudbruin kleur bekomt.
 In grove stukken breken.
 
