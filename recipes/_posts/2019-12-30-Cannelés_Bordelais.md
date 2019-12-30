@@ -3,7 +3,7 @@ date: 2019-12-30
 title: Cannelés Bordelais
 categories:
   - koekjesEnKleinGebak
-featured_image: /images/cannelé2019V21200.jpg
+featured_image: /images/cannelé1200.jpg
 recipe:
   servings: circa 35 mini cannelés
   ingredients_markdown: |-
