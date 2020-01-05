@@ -27,7 +27,7 @@ Schil de knolselder en snijd hem in julienne. Ik gebruik een keukenrobot.
 Voor dit recept heb je ca. 500g netto knolselder nodig.
 Voeg het zout en het citroensap erbij en meng.
 Laat 30 minuten trekken, spoel in koud water af en droog ze in een doek.
-Indien je de knolselder in een fijne julienne kan snijden, hoef je deze niet te laten trekken zoals hierboven. Meng deze dan meteen met de remoulade.
+Indien je de knolselder in een fijne julienne kan snijden, hoef je deze niet te laten trekken in zout en citroensap zoals hierboven. Meng deze dan meteen met de remoulade.
 
 **Remouladesaus:**
 Doe de mosterd in een mengkom en voeg er het kokende water druppelsgewijs bij.
