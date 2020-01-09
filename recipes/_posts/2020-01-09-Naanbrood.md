@@ -9,7 +9,7 @@ recipe:
   ingredients_markdown: |-
     * 250g tarwebloem    * 3,5g gedroogde gist    * 3,5g bakpoeder    * 37g yoghurt    * 1 eetlepel koolzaadolie    * 1 afgestreken theelepel suiker    * 1 afgestreken theelepel zout    * 138g halfvolle of volle melk (lauw)    * Eventueel afwerken met nigellazaadjes, komijnzaad,…   
 ---
-Heb al verschillende recepten van naanbrood uitgeprobeerd.Met gedroogde gist, met bakpoeder, met of zonder yoghurt...Dit is een amalgaam van verschillende recepten wat resulteerde in een lekker knapperig naanbrood.In de meeste warenhuizen kan je nu naanbroden kopen.Totaal anders dan de vers gebakken , maar toch zeker een goed alternatief.
+Heb al verschillende recepten van naanbrood uitgeprobeerd.Met gedroogde gist, met bakpoeder, met of zonder yoghurt...Deze versie is een amalgaam van verschillende recepten wat resulteerde in een lekker knapperig naanbrood.In de meeste warenhuizen kan je nu naanbroden kopen.Totaal anders dan de vers gebakken , maar toch zeker een goed alternatief.
 
 <!--more-->
 
