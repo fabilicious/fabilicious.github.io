@@ -33,9 +33,11 @@
 		</header>
 
 		<div class"container">
+			{% if page.url == "/" %}
 			<div class="searchWrapper">
 				<div class="searchBar">{% include search-lunr.html %}</div>
 			</div>
+			{% endif %}
 		</div>
 
 		<div class="container main-content">
