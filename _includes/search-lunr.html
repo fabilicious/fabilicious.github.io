@@ -43,7 +43,7 @@ function lunr_search(term) {
                 var image = documents[ref]['image'];
                 var body = documents[ref]['body'].substring(0,160)+'...';
                 console.log(documents[ref]);
-                document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='{{site.url}}/recipes/" + url + "'><span class='title'>" + title + "</span><br /><span class='time'>" + time + "</span><br /><img src='" + image + "'><span class='body'>"+ body + "{{site.url}} </span><br /></a></li>";
+                document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='https://fabilicious.be/recipes/" + url + "'><span class='title'>" + title + "</span><br /><span class='time'>" + time + "</span><br /><img src='" + image + "'><span class='body'>"+ body + "</span><br /></a></li>";
             }
         } else {
             document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>Geen resultaten gevonden...</li>";
