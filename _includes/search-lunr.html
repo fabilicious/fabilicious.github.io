@@ -37,13 +37,13 @@ function lunr_search(term) {
             for (var i = 0; i < results.length; i++) {
                 // more statements
                 var ref = results[i]['ref'];
-                var url = documents[ref]['url'];
+                var url = documents[ref]['url'].split("/recipes/")[1];
                 var title = documents[ref]['title'];
                 var time = documents[ref]['time'];
                 var image = documents[ref]['image'];
                 var body = documents[ref]['body'].substring(0,160)+'...';
                 console.log(documents[ref]);
-                document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><span class='time'>" + time + "</span><br /><img src='" + image + "'><span class='body'>"+ body +"</span><br /></a></li>";
+                document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='{{site.url}}/recipes/" + url + "'><span class='title'>" + title + "</span><br /><span class='time'>" + time + "</span><br /><img src='" + image + "'><span class='body'>"+ body +"</span><br /></a></li>";
             }
         } else {
             document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>Geen resultaten gevonden...</li>";
