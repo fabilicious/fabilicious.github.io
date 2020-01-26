@@ -1,0 +1,70 @@
+<script src="/js/lunr.js"></script>
+
+<script>
+{% assign counter = 0 %}
+var documents = [{% for page in site.without-plugin %}{
+    "id": {{ counter }},
+    "url": "{{ site.url }}{{ page.url }}",
+    "title": "{{ page.title }}",
+    "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
+    }, {% endfor %}{% for page in site.posts %}{
+    "id": {{ counter }},
+    "url": "{{ site.url }}{{ page.url }}",
+    "title": "{{ page.title }}",
+    "time": "{{ page.date | date: "%Y/%m/%d" }}",
+    "image": "{{ page.featured_image }}",
+    "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
+    }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}];
+
+var idx = lunr(function () {
+    this.ref('id')
+    this.field('title')
+    this.field('body')
+
+    documents.forEach(function (doc) {
+        this.add(doc)
+    }, this)
+});
+function lunr_search(term) {
+    document.getElementById('lunrsearchresults').innerHTML = '<ul></ul>';
+    if(term) {
+        document.getElementById('lunrsearchresults').innerHTML = "<p>Zoekresultaten voor '" + term + "'</p>" + document.getElementById('lunrsearchresults').innerHTML;
+        //put results on the screen.
+        var results = idx.search(term);
+        if(results.length>0){
+            //console.log(idx.search(term));
+            //if results
+            for (var i = 0; i < results.length; i++) {
+                // more statements
+                var ref = results[i]['ref'];
+                var url = documents[ref]['url'].split("/recipes/")[1];
+                var title = documents[ref]['title'];
+                var time = documents[ref]['time'];
+                var image = documents[ref]['image'];
+                var body = documents[ref]['body'].substring(0,160)+'...';
+                console.log(documents[ref]);
+                document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='https://fabilicious.be/recipes/" + url + "'><span class='title'>" + title + "</span><br /><span class='time'>" + time + "</span><br /><img src='" + image + "'><span class='body'>"+ body + "</span><br /></a></li>";
+            }
+        } else {
+            document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>Geen resultaten gevonden...</li>";
+        }
+    }
+    return false;
+}
+</script>
+<style>
+    li.lunrsearchresult {list-style-type:none;margin-bottom:30px;}
+    .lunrsearchresult .title {color: #000;font-size:20px;font-weight:700;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form onSubmit="return lunr_search(document.getElementById('lunrsearch').value.trim());">
+    <p><input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Zoeken in recepten"/></p>
+</form>
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
