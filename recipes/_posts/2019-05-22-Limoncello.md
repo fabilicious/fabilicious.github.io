@@ -17,7 +17,7 @@ De schil wordt niet behandeld met een waslaag.
 Als ik naar Italië ga breng ik er mee, maar in speciaalzaken kan je ze hier ook wel vinden.
 Of koop anders bio-citroenen liefst zonder waslaag (als je dit kan achterhalen).
 Traditioneel wordt de Limoncello ijskoud geserveerd als digestief.
-Maar nu wordt ze vaak met tonic en Proseco gemixt.
+Maar nu wordt ze vaak met tonic en Prosecco gemixt.
 Het overgebleven citroensap kan je in veel recepten verwerken.
 Denk maar aan een heerlijke citroencake, een citroentaart met meringue of een frisse citroensorbet.
 Als je geen tijd hebt om al dat citroensap onmiddellijk te verwerken, dan kan je het sap in porties invriezen. No waste!
