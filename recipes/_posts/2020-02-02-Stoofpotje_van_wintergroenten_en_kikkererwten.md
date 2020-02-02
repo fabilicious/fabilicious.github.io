@@ -40,7 +40,7 @@ Verhit een beetje olijfolie in een grote braadpan.
 Stoof de ui, de selder, de wortelen, de pastinaken, de raapjes, de aardappelen en de schorseneren een 5-tal minuten.
 Voeg de look, de gember, de kurkuma en de komijn toe en giet de bouillon erbij. 
 Leg een deksel op de pan en laat dit 15 minuten sudderen.
-Doe nu de stukjes tomaten en de kikkererwten bij en laat alles nog eens goed doorkoken.
+Doe er nu de stukjes tomaten en de kikkererwten bij en laat alles nog eens goed doorkoken.
 Op smaak brengen met peper en zout.
 Werk af met gehakte koriander.
 
