@@ -29,7 +29,7 @@ Doe de pesto in een glazen bokaal en giet er bovenop nog wat olijfolie over.
 Bewaar in de koelkast.
 
 
-<b>tip: </>
+<b>tip: </b>
 
 Lekker met spaghetti en als extra nog een doosje in olijfolie gebakken kerstomaten.
 
