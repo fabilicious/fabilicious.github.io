@@ -15,7 +15,7 @@ recipe:
     * 1/2 tot 1 limoensap
     * 1 teentje look, in kleine stukjes gesneden       * peper en zout
 ---
-Op de zelfplukboerderij konden we deze herfst 12 soorten droogbonen oogsten waaronder de Borlotti. Een arbeidsintensieve klus om deze te plukken, doppen, verder te drogen en nadien bij bereiding terug te weken. Altijd handig om zo'n voorraadje bij de hand te hebben, zeker nu we in Coronatijden niet frequent de deur uit mogen. Deze nobele bonen geven deze hummus naar onze mening een veel fijnere smaak in vergelijking met de traditionele kikkererwten.
+Op de zelfplukboerderij konden we deze herfst 12 soorten droogbonen oogsten waaronder de Borlotti. Een arbeidsintensieve klus om deze te plukken, doppen, verder te drogen en nadien bij bereiding terug te weken. Altijd handig om zo'n voorraadje bij de hand te hebben, zeker nu we in Coronatijden niet frequent de deur uit mogen. Deze nobele bonen geven de hummus naar onze mening een fijnere smaak in vergelijking met de traditionele kikkererwten.
 
 <!--more-->
 
