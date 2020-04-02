@@ -7,7 +7,8 @@ featured_image: /images/Mulitcornbrood met Duvel1200.jpg
 recipe:
   servings: 7 broodjes van 300g
   ingredients_markdown: |-
-    **Voor het voordeeg**    * 166g bloem type 55 (ik gebruik die van Auchan) of gewone tarwebloem    * 166g water    * 1 à 2g verse gist    **Voor het brooddeeg**    * 1100g multicorn bloem (ik koop de bloem bij Maalderij Van Eecke, Varsenare)    * 30g zout (ik gebruik maar 20g)    * 16,5cl Duvel (bier)    * 4dl volle melk    * 125g zachte boter    * 300g voordeeg  
+    **Voor het voordeeg**    * 166g bloem type 55 (ik gebruik die van Auchan) of gewone tarwebloem    * 166g water    * 1 à 2g verse gist    **Voor het brooddeeg**    * 1100g multicorn bloem (ik koop de bloem bij Maalderij Van Eecke, Varsenare)    * 30g zout (ik gebruik maar 20g)    * 16,5cl Duvel (bier)    * 4dl volle melk    * 125g zachte boter
+    * 30g verse gist    * 300g voordeeg  
 ---
 Het boerenbrood met multicorn uit het boek ‘Unplugged’ van Hertog Jan is een topper van formaat!Maar ja, wat wil je: Hertog Jan heeft niet voor niks 3 sterren!Er staan nog veel verrassende, frisse gerechten afkomstig uit verschillende culturen in het boek.
 
