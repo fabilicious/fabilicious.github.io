@@ -23,7 +23,7 @@ Deze geslaagde versie moet zeker niet onderdoen voor de klassieke pesto met basi
 
 <!--more-->
 
-De pijnbompitten, look, winterpostelein (blaadjes en stelen) en olijfolie in een blender fijn hakken. Je kan ook een mortel en vijzel gebruiken.
+De pijnbompitten, look, winterpostelein (blaadjes en stelen) en olijfolie in een blender fijn hakken. Gebruik de pulseermodus om nog wat bite in de pesto te houden. Je kan ook een mortel en vijzel gebruiken.
 Meng de gemalen kaas er onder en voeg wat zout toe naar smaak.
 Doe de pesto in een glazen bokaal en giet er bovenop nog wat olijfolie over.
 Bewaar in de koelkast.
