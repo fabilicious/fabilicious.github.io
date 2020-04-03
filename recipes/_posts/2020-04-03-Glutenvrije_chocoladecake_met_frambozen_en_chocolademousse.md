@@ -62,9 +62,9 @@ Decoreer eventueel met de overgebleven frambozen.
 
 <b>Tip: </b> 
 
-Decoreer aanvullend met Crispearls Salted Caramel van Callebaut. Deze zijn enkel verkrijgbaar in de Horeca-groothandel.
+FacultatiefDecoreer aanvullend met Crispearls Salted Caramel van Callebaut. Deze zijn enkel verkrijgbaar in de Horeca-groothandel.
 
-
+Ik heb deze cake nog extra gedecoreerd met Crispearls Salted Caramel van Callebaut, verkrijgbaar in de Horeca-groothandel. Opgepast: DEZE ZIJN NIET GLUTENVRIJ.
 
 
 
