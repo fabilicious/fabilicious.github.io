@@ -54,15 +54,13 @@ Ik heb de cake gewoon omgedraaid zodat de vlakke onderkant nu bovenkant wordt.
 Smeer de bovenkant in met een fijne laag frambozenconfituur.
 
 Klop de chocolademousse op. Opgelet dit gaat vrij vlug!
-Doe de mousse in een spuitzak met een Sint- Honoré spuitmond.
+Doe de mousse in een spuitzak met een Sint-Honoré spuitmond.
 En spuit op de cake. Je gaat waarschijnlijk wat mousse over hebben.
 De verleiding zal groot zijn om deze onmiddellijk op te smullen.
 Doe liever de rest in een kommetje en serveer bij de cake.
 Decoreer eventueel met de overgebleven frambozen.
 
 <b>Tip: </b> 
-
-FacultatiefDecoreer aanvullend met Crispearls Salted Caramel van Callebaut. Deze zijn enkel verkrijgbaar in de Horeca-groothandel.
 
 Ik heb deze cake nog extra gedecoreerd met Crispearls Salted Caramel van Callebaut, verkrijgbaar in de Horeca-groothandel. Opgepast: DEZE ZIJN NIET GLUTENVRIJ.
 
