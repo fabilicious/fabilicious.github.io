@@ -38,14 +38,14 @@ Oven voorverwarmen op 210°C.
 Meng in een grote kom de komijn met de honing, harissa, boter, olijfolie en zout.
 Voeg de wortelen toe en wentel ze door het honingmengsel.
 Schik ze naast elkaar op een met bakpapier bedekte bakplaat, gebruik zo nodig 2 bakplaten.
-Rooster de wortelen 12-14 minuten (of langer) tot ze bruin beginnen te worden en beetgaar zijn.
+Rooster de jonge wortelen 12-14 minuten (of langer) tot ze bruin beginnen te worden en beetgaar zijn. Gebruik je gewone wortelen in reepjes dan adviseer ik om de gaartijd te verlengen aan een lagere temperatuur: 180°C.
 Haal ze uit de oven en laat ze afkoelen.
 Meng vlak voor het opdienen de overige ingrediënten door de wortelen en dien op.
 Ze zijn het lekkerst op kamertemperatuur.
  
 <b>Tip: </b>
 
-Als de wortelen 10 minuten in de oven zitten dan voeg ik de granaatappelpitten erbij.
+Voeg de granaatappelpitten de laatste 5 minuten erbij.
 Ze roosteren dan nog heel kort mee en de sappen komen vrij.
 
 

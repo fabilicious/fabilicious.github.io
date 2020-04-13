@@ -8,8 +8,8 @@ recipe:
   servings: 
   ingredients_markdown: |-
     * 120g gedroogde borlottibonen (of een blik 250g uitgelekt)
-    * 2 eetlepels olijfolie
-    * 2 à 3 eetlepels water
+    * 3 eetlepels olijfolie
+    * 3 eetlepels water
     * 1 1/2 eetlepel tahini
     * 2 theelepels rozenharissa
     * 1/2 tot 1 limoensap
@@ -21,7 +21,7 @@ Op de zelfplukboerderij konden we deze herfst 12 soorten droogbonen oogsten waar
 
 De gedroogde bonen laten weken en koken. Zie recept [‘Borlottibonen met raapstelen’](https://fabilicious.be/recipes/bijgerechten/2020/01/22/Borlottibonen_met_raapstelen/).
 Haal enkel het teentje look uit de uitgelekte bonen. 
-Doe in een keukenrobot de uitgelekte borlottibonen samen met de rest van de ingrediënten en mix tot een smeuïge massa.
+Doe in een keukenrobot de uitgelekte borlottibonen samen met de rest van de ingrediënten en mix tot een smeuïge massa. Voeg eventueel nog wat extra olijfolie of water toe indien nodig.
 
 <b>Tip: </b>
 
