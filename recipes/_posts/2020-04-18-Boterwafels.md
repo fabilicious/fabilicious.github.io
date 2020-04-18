@@ -8,7 +8,7 @@ recipe:
   servings: 
   ingredients_markdown: |-
     * 250g boter of plantaardige margarine (zacht)
-    * 120g fijne suiker
+    * 240g fijne suiker
     * 1 zakje vanillesuiker
     * 250g bloem
     * 1/2 theelepel bakpoeder
