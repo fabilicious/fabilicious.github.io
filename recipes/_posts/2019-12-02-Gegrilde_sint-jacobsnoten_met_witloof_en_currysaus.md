@@ -24,7 +24,8 @@ recipe:
     **Afwerking:**
     * 1 strookje witloof
     * 1 bussel waterkers
-    * facultatief 50g grijze garnalen  
+    * facultatief 50g grijze garnalen
+  
 ---
 Met de feestdagen in het vooruitzicht zoeken we inspiratie in een klassieke seizoensgroente: grondwitloof. Veel beter dan de witloof uit hydrocultuur.
 
