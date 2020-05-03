@@ -47,7 +47,7 @@ Doe het droge mengsel erbij en meng tot een samenhangend deeg.
 Het deeg moet nu een beetje plakkerig zijn.
 Leg de zachte boter bovenop het plakkerige deeg, dek af en laat 10 minuten staan. 
 
-Kneed het mengsel 1O keer. En dit gaat als volgt.
+Kneed het mengsel 10 keer. En dit gaat als volgt:
 
 Til een stukje deeg aan de rand op, vouw dat naar het midden en druk het plat met je knokkels.
 Draai de kom 90° met de klok mee en til weer een stukje op, vouw dat naar het midden en druk het plat met je knokkels. 
