@@ -24,7 +24,7 @@ recipe:
 ‘Hoe bak ik zuurdesembrood’ van Emmanuel Hadjiandreou is een mooie aanwinst.
 Hij laat je kennismaken met zuurdesem en het proces van langdurige gisting.
 Het is vooral de gevarieerde samenstelling van recepten die me zo aansprak. Volkoren, bakken met oude graansoorten, zuurdesembrood op basis van andere gistculturen, glutenvrij en zuurdesemlekkernijen komen hier aanbod.
-Het kneden gebeurt niet met de keukenrobot maar met de handen. Hij gebruikt hier een eenvoudige vouwtechniek dat beschreven staat in de werkwijze.
+Het kneden gebeurt niet met de keukenrobot maar met de handen. Hij gebruikt hier een eenvoudige vouwtechniek die beschreven staat in de werkwijze.
 Vandaag heb ik gekozen voor de zuurdesembrioche.
 <!--more-->
 
