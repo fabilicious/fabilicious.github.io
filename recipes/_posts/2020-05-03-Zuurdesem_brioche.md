@@ -1,9 +1,9 @@
 ---
-date: 2020-04-18
+date: 2020-05-03
 title: Zuurdesem brioche
 categories:
   - broodEnOntbijtgranen
-featured_image: /images/.jpg
+featured_image: /images/briochevorm11200.jpg
 recipe:
   servings: 1 brioche
   ingredients_markdown: |-
