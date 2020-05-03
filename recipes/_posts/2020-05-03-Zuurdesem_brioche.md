@@ -21,7 +21,7 @@ recipe:
     * 160g zachte boter
     * 1 losgeklopt ei om te doreren    
 ---
-‘Hoe bak ik zuurdesembrood’ van Emmanuel Hadijandreou is een mooie aanwinst.
+‘Hoe bak ik zuurdesembrood’ van Emmanuel Hadjiandreou is een mooie aanwinst.
 Hij laat je kennismaken met zuurdesem en het proces van langdurige gisting.
 Het is vooral de gevarieerde samenstelling van recepten die me zo aansprak. Volkoren, bakken met oude graansoorten, zuurdesembrood op basis van andere gistculturen, glutenvrij en zuurdesemlekkernijen komen hier aanbod.
 Het kneden gebeurt niet met de keukenrobot maar met de handen. Hij gebruikt hier een eenvoudige vouwtechniek dat beschreven staat in de werkwijze.
@@ -82,6 +82,6 @@ Haal de brioche uit de vorm en tik aan de onderkant.
 Als de brioche hol klinkt is deze gaar. Als je twijfelt, laat hem dan nog 10 minuten in de oven staan.
 Laat de brioche afkoelen op een rooster.
 
-Bron : [‘Hoe bak ik zuurdesembrood’ van Emmanuel Hadijandreou](https://www.standaardboekhandel.be/p/hoe-bak-ik-zuurdesembrood-9789023014881)
+Bron : [‘Hoe bak ik zuurdesembrood’ van Emmanuel Hadjiandreou](https://www.standaardboekhandel.be/p/hoe-bak-ik-zuurdesembrood-9789023014881)
 
 ![](/images/brioche21200.jpg)
