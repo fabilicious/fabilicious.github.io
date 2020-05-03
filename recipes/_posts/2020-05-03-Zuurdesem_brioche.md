@@ -31,7 +31,7 @@ Vandaag heb ik gekozen voor de zuurdesembrioche.
 **Voorgisting**
 
 Doe eerst de bloem en de suiker in een kleine kom en zet opzij.
-Los in een grote mengkom de zuurdesemstarter op in de melk voeg het bloemmengsel toe en meng tot een papje.
+Los in een grote mengkom de zuurdesemstarter op in de melk, voeg het bloemmengsel toe en meng tot een papje.
 Dek af en laat ongeveer 4 uur op een warme plek gisten.
 
 **Deeg**
