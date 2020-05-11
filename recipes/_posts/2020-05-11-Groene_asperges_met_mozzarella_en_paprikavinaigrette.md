@@ -30,7 +30,7 @@ recipe:
     * facultatief, enkele blaadjes basilicum om af te werken
     
 ---
-Met deze suggestie willen wij de Belgische aspergetelers steunen die het actueel moeilijk hebben om hum prachtproducten aan de man te brengen.
+Met deze suggestie willen wij de Belgische aspergetelers steunen die het actueel moeilijk hebben om hun prachtproducten aan de man te brengen.
 
 <!--more-->
 
@@ -42,7 +42,7 @@ Ontvel de paprika’s, verwijder de zaadjes en hak ze grof.
 Stoof de sjalotten en het teentje look  2 à 3 minuten in 2 eetlepels olijfolie.
 Gooi het teentje look weg.
 Doe de paprika’s erbij samen met de mosterd, tomatenpuree, peper, zout en laat 5 minuten sudderen. Voeg 3 eetlepels water toe en pureer door een blender.
-En passeer eventueel door een fijne zeef. Klop de overgebleven olijfolie door.
+En passeer eventueel door een fijne zeef. Klop er de overgebleven olijfolie door.
 Is de vinaigrette nog te dik, voeg er dan wat extra olijfolie of een beetje water aan toe.
 
 **Andere ingrediënten**
