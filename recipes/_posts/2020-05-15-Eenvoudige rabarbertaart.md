@@ -17,7 +17,7 @@ recipe:
 ---
 Deze rabarbertaart met speltbloem (of gewone bloem) is heel simpel en in een mum van tijd klaargemaakt.
 Ideaal om met de kinderen aan de slag te gaan.
-Voor het beslag worden al de ingrediënten samen in één kom gemengd, in een beboterde ovenschaal of taartvorm gedaan. Bedekken stukjes rabarber, wat rietsuiker erover en zwier maar de oven in.
+Voor het beslag worden al de ingrediënten samen in één kom gemengd, in een beboterde ovenschaal of taartvorm gedaan. Bedekken met stukjes rabarber, wat rietsuiker erover en zwier maar de oven in.
 
 <!--more-->
 Meng de gesmolten boter, kristalsuiker, bloem, bakpoeder en eieren in een kom.
