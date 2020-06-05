@@ -1,6 +1,6 @@
 ---
 date: 2020-06-05
-title: Aardbeien_fantastik
+title: Aardbeien fantastik
 categories:
   - taarten
 featured_image: /images/aardbeientaart_fantastik1200.jpg
