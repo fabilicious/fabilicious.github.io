@@ -21,15 +21,17 @@ recipe:
 ---
 Een taart met zanddeeg en pistachebiscuit maken vergt veel moeite en tijd.
 De meeste amateurkoks beginnen reeds te puffen en hebben geen zin om er aan te beginnen.
-In dit recept worden zowel het zanddeeg, als de biscuit in één en dezelfde vorm gebakken.
+In dit recept worden zowel het zanddeeg als de biscuit in één en dezelfde vorm gebakken.
 Een briljante vondst van toppatissier Christophe Michalak.
 Benieuwd hoe het moet?…
 
 <!--more-->
 
-De avond  ervoor de room met het zout aan de kook brengen en op de callets en de pistachepasta gieten. Met staafmixer alles goed mixen. Laten afkoelen, afdekken en 1 nacht in de koelkast bewaren. Opkloppen en in spuitzak doen. Opgelet dit gaat vrij vlug!ZanddeegBloemsuiker en bloem zeven, deze mengen met de boter en het zout. Een ring (van 18 cm diameter, hoogte 2,5cm of hoger) invetten en op een siliconen matje plaatsen. Het deeg er mooi effen instrijken. Bakken op 180°C gedurende een 12-tal minuten.BiscuitBloemsuiker en maizena  zeven. Amandel- en pistachepoeder, eigeel, pistachepasta en 40g eiwit ondermengen.De rest van het eiwit met de suiker opkloppen. En deze er voorzichtig ondermengen, de gesmolten boter (45°C) er als laatste bij doen.Giet op het zanddeeg en bak verder 15 min op 180°C. Op rooster laten afkoelen.
+**Pistacheroom**
 
-Confit van aardbeien
+De avond  ervoor de room met het zout aan de kook brengen en op de callets en de pistachepasta gieten. Met staafmixer alles goed mixen. Laten afkoelen, afdekken en 1 nacht in de koelkast bewaren. Opkloppen en in spuitzak doen. Opgelet dit gaat vrij vlug!**Zanddeeg**Bloemsuiker en bloem zeven, deze mengen met de boter en het zout. Een ring (van 18 cm diameter, hoogte 2,5cm of hoger) invetten en op een siliconen matje plaatsen. Het deeg er mooi effen instrijken. Bakken op 180°C gedurende een 12-tal minuten.**Biscuit**Bloemsuiker en maizena  zeven. Amandel- en pistachepoeder, eigeel, pistachepasta en 40g eiwit ondermengen.De rest van het eiwit met de suiker opkloppen en deze er voorzichtig ondermengen. De gesmolten boter (45°C) er als laatste bij doen.Giet op het zanddeeg en bak verder 15 min op 180°C. Op rooster laten afkoelen.
+
+**Confit van aardbeien**
 
 De aardbeienpuree, glucose en pectine mengen en aan de kook brengen.
 Mixen, laten afkoelen en in de koelkast bewaren.
