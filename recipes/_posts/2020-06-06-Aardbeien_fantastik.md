@@ -3,7 +3,7 @@ date: 2020-06-06
 title: Aardbeien fantastik
 categories:
   - taarten
-featured_image: /images/aardbeientaart_fantastik1200.jpg
+featured_image: /images/ardbeientaart_fantastik1200V2.jpg
 recipe:
   servings: 6 personen
   ingredients_markdown: |-
@@ -19,7 +19,7 @@ recipe:
     * 150g aardbeien
     * wat pistachenoten    * 1 eetlepel afdekgelei (facultatief)
 ---
-Een taart met zanddeeg en pistachebiscuit met witte chocoladepistacheroom maken vergt veel moeite en tijd.
+Een taart met zanddeeg, pistachebiscuit en witte chocoladepistacheroom maken vergt veel moeite en tijd.
 De meeste amateurkoks beginnen reeds te puffen en hebben geen zin om er aan te beginnen.
 In dit recept worden zowel het zanddeeg als de biscuit in één en dezelfde vorm gebakken.
 Een briljante vondst van toppatissier Christophe Michalak.
