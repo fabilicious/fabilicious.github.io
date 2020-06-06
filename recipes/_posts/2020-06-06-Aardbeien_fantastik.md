@@ -3,7 +3,7 @@ date: 2020-06-06
 title: Aardbeien fantastik
 categories:
   - taarten
-featured_image: /images/ardbeientaart_fantastik1200V2.jpg
+featured_image: /images/aardbeientaart_fantastik1200V2.jpg
 recipe:
   servings: 6 personen
   ingredients_markdown: |-
