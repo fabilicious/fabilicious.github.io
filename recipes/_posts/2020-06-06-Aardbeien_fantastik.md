@@ -38,7 +38,7 @@ Mixen, laten afkoelen en in de koelkast bewaren.
 Ik heb ook al aardbeienconfituur gebruikt. Dit gaat zonder probleem als je de taart onmiddellijk consumeert.
 
 
-De biscuit bestrijken met  de confit van aardbeien of met een fijn laagje aardbeien- of frambozenconfituur .Dresseren met pistacheroom, aardbeien en wat gehakte pistachenootjes.
+De biscuit bestrijken met  de confit van aardbeien of met een fijn laagje aardbeien- of frambozenconfituur.Dresseren met pistacheroom, aardbeien en wat gehakte pistachenootjes.
 Je kan de aardbeien met wat afdekgelei instrijken voor een mooie glans en het langer bewaren.
 
 
