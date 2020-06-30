@@ -25,7 +25,7 @@ recipe:
     * wat peterselie, fijngehakt
     * peper en zout
      
-—--
+---
 Bij de zelfplukboerderij ‘Het Polderveld’ hadden we de gelegenheid om lamsvlees te kopen van eigen kweek. Duurzamer en lokaal.
 Gecombineerd met de talrijk beschikbare voorjaarsgroenten geeft dit een kleurrijk en smaakvol lamsstoofpotje.
 
