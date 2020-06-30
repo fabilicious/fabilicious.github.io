@@ -17,7 +17,7 @@ recipe:
     * 18 zilveruitjes, vers of diepvries
     * 4 wortelen, geschild
     * 3 rapen, geschild
-    * 12 nieuwe aardappeltjes (mag schillen, maar hoeft niet)
+    * 12 nieuwe aardappeltjes (mag geschild, maar hoeft niet)
     * 100g verse of diepvrieserwten
     * 100g peultjes
     * 1 takje tijm
