@@ -19,6 +19,7 @@ Giet vervolgens het mengsel door een puntzeef.
 Laat een nacht rijpen en draai het ijs de volgende dag.
 
 <b>Tip: </b>
+
 Hazelnoten bevatten veel olie daarom draai het ijs niet te lang want de olie begint anders te korrelen!
 
 
