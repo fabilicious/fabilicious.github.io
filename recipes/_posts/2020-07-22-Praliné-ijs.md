@@ -3,7 +3,7 @@ date: 2020-07-22
 title: Praliné-ijs
 categories:
   - ijsEnSorbets
-featured_image: /images/lamsnavarin1200.jpg
+featured_image: /images/pralinéijsV3800.jpg
 recipe:
   servings: 2 liter
   ingredients_markdown: |-
