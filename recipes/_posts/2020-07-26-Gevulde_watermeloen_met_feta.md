@@ -21,8 +21,7 @@ recipe:
     * 6 eetlepels olijfolie
     * 1/2 limoen, sap en rasp de schil    * peper en zout
 ---
-Een frisse zomersalade op een originele wijze geserveerd.
-Een tip voor de komende warme dagen.
+Tip voor de komende warme dagen: een frisse zomersalade op originele wijze geserveerd.
 
 
 
