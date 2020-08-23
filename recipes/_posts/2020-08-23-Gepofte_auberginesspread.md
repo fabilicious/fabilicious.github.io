@@ -7,7 +7,7 @@ featured_image: /images/bruscettaaubergine1200.jpg
 recipe:
   servings: 
   ingredients_markdown: |-
-    ** 2 aubergines
+    * 2 aubergines
     * 20g pistachenoten, gehakt
     * 2 eetlepels parmezaanse kaas, geraspt
     * 20g kappertjes
