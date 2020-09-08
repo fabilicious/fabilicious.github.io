@@ -33,7 +33,7 @@ Voor deze vegan versie van de ‘polpette al semi di finocchio’ gebruiken we h
 **Veggieballetjes**
 
 Rooster de venkelzaadjes in een pan, laat afkoelen en plet ze een beetje.
-Voeg de venkelzaadjes samen met de rode ui, panko en room bij het veggiegehakt.
+Voeg de venkelzaadjes samen met de rode ui, panko en room bij het Greenway gehakt.
 Kruid met peper, zout, cayennepeper en paprikapoeder.
 Meng en maak er balletjes van.
 
@@ -41,9 +41,9 @@ Meng en maak er balletjes van.
 **Saus**
 
 Verhit een beetje olijfolie in een kookpot en stoof de ui glazig.
-Doe de passaat erbij en sudder 5 minuten.
+Doe de passata erbij en sudder 5 minuten.
 Breng op smaak met zout, peper en cayennepeper.
-Voeg de veggieballetjes toe en laat ze 5 minuten pruttelen.
+Voeg de balletjes toe en laat ze 5 minuten pruttelen.
 Werk af met gehakte peterselie.
 
 <b>Tip: </b>
