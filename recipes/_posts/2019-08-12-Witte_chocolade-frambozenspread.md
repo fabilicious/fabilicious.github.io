@@ -5,7 +5,7 @@ categories:
   - confituurEnChocopasta
 featured_image: /images/Witte chocolade - frambozenspread1200.jpg
 recipe:
-  servings: 1 confituurpotje
+  servings: 2 confituurpotjes
   ingredients_markdown: |-
     * 140g witte chocolade in kleine stukjes gehakt (ik gebruik graag Valrhona blanc ivoire 35%).     * 75g room    * Snufje zout
     * 200g frambozen (mag ook diepvries zijn)    * 120g geleisuiker of 110g kristalsuiker    
