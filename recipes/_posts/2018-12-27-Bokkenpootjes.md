@@ -2,12 +2,13 @@
 date: 2018-12-27
 title: Bokkenpootjes
 categories:
-  - koekjesEnKleingebak
+  - koekjesEnKleinGebak
 featured_image: /images/bokkepootjes1200.jpg
 recipe:
   servings: 40 stuks
   ingredients_markdown: |-
-    **Bokkenpoten:**    * 80g kristalsuiker 
+    **Bokkenpoten:**
+    * 80g kristalsuiker 
     * 125g eiwitten
     * 20g kristalsuiker
     * 30g bloem
