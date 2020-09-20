@@ -2,7 +2,7 @@
 date: 2020-04-18
 title: Boterwafels
 categories:
-  - koekjesEnKleingebak
+  - koekjesEnKleinGebak
 featured_image: /images/boterwafeltjes1200.jpg
 recipe:
   servings: 
@@ -15,7 +15,8 @@ recipe:
     * 4 eieren
     * snuifje zout
     * mespuntje vanillepaste (facultatief)
-        
+    
+    
 ---
 Aan de lege rekken in de winkel te zien, heeft iedereen voldoende bloem in huis. Tijd om jullie wafelijzer van onder het stof te halen voor deze boterwafeltjes. Recept van het jaar 40 vóór de Coronacrisis. 
 
