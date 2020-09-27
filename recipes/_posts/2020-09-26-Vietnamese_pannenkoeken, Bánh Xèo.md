@@ -45,7 +45,7 @@ Je neemt een stukje pannenkoek wikkel dit samen met wat kruiden in een blaadje s
 
 **Voor het beslag**
 
-Leng het rijstmeel aan met water en roer tot een glad beslag.
+Leng de rijstmeel aan met water en roer tot een glad beslag.
 Meng er de kurkuma, de lente-uitjes en de kokosmelk door.
 
 **Voor de vulling**
@@ -70,5 +70,5 @@ Verdeel de vulling over de pannenkoek en vouw dicht.
 Serveer met het slaatje en de vinaigrette.
 
 
-
+Gebaseerd op recept van Quyên Truong Thi.
 
