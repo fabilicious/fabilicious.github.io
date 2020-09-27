@@ -1,6 +1,6 @@
 ---
 date: 2020-09-26
-title: Vietnamese pannenkoeken, Bánh Xèo
+title: Vietnamese pannenkoeken gevuld met paksoi en scampi, Bánh Xèo
 categories:
   - vegetarisch
 featured_image: /images/vietnamese_pannenkoek1200.jpg
