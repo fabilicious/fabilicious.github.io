@@ -7,7 +7,7 @@ featured_image: /images/GWburgerV21200.jpg
 recipe:
   servings: 4 personen
   ingredients_markdown: |-
-    * 4 greenway burgers
+    * 4 Greenway burgers
     * 4 buns
     * 4 sneetjes cheddarkaas
     * 2 à 3 augurken, in lange repen gesneden
