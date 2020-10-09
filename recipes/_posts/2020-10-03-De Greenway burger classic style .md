@@ -22,7 +22,7 @@ Lokaal gemaakt van erwtenproteïne en 100% CO2-neutraal. Super lekker!
 <!--more-->
 
 **Gekarameliseerde sjalotten:**
-Verwarm de oven voor op 140°C. Pel de sjalotten en snijd in vieren. Verdeel de ui over een ovenschaal, verdeel 15g boter (of plantaardige boter) erover en sprenkel er een beetje olijfolie over. Bestrooi met zout en peper. Bak de sjalotten 20 à 30 minuten in de oven of tot ze goudbruin en zacht zijn. Laat ze afkoelen.
+Verwarm de oven voor op 140°C. Pel de sjalotten en snijd in vieren. Doe de gesneden sjalotten in een ovenschaal, verdeel 15g boter (of plantaardige boter) erover en besprenkel met wat olijfolie. Bestrooi met zout en peper. Bak de sjalotten 20 à 30 minuten in de oven of tot ze goudbruin en zacht zijn. Laat ze afkoelen.
 
 **Burgers:**
 Verhit enkele eetlepels (olijf)olie in een koekenpan op een matig vuur. Bak de burgers enkele minuten aan beide zijden tot ze kleuren en verlaag het vuur. Bak nog 2 à 3 minuten verder.

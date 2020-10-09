@@ -52,8 +52,8 @@ De aubergines kort grillen en dan met olijfolie bestrijken en 10 minuten in de o
 Als je voor de gegrilde diepvries aubergines gaat, dan laat ik ze ook in de oven zacht worden.
 
 Ovenschotel met olijfolie instrijken en een beetje saus op de bodem smeren.
-Leg de helft van aubergines naast elkaar, bedek met een deel tomatensaus.
-Leg telkens een kalkoenlap op een plak aubergine en giet er nu de rest van de saus over.
+Leg de helft van de aubergines naast elkaar, bedek met een deel tomatensaus.
+Leg telkens een kalkoenlap op een plak aubergine en bedek met de overblijvende aubergines. Giet er nu de rest van de saus over.
 Bestrooi met de geraspte parmezaanse kaas en verdeel hier bovenop de schijfjes mozzarella.
 
 Plaats in een voorverwarmde oven 30 à 40 minuten op 180°C.
