@@ -33,7 +33,7 @@ Dus vlug opsmullen zou ik zeggen!
 
 **Appelcake**
 
-Bloem met het bakpoeder in een kom doen. Voeg de suiker, de vanillesuiker, de melk, de arachideolie, de eieren toe en meng tot een gladde massa.
+Bloem met het bakpoeder in een kom doen. Voeg suiker, vanillesuiker, melk, arachideolie, en eieren toe, meng tot een gladde massa.
 Meng de stukjes appel in het cakebeslag.
 De springvorm goed invetten en met bloem bestrooien.
 Als je een andere vorm gebruikt, bakpapier inleggen.
