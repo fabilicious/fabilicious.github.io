@@ -3,7 +3,7 @@ date: 2020-10-14
 title: Wilde rijst / edamame / baby-aubergines met miso / pickled daikon
 categories:
   - vegetarisch
-featured_image: /images/poke_aubergines1200V3.jpg
+featured_image: /images/poké_aubergines1200V5.jpg
 recipe:
   servings: 2 personen
   ingredients_markdown: |-
