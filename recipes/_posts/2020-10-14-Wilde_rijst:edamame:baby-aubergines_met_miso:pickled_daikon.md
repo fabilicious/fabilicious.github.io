@@ -35,7 +35,7 @@ recipe:
 Mijn variant van een veggie Poké bowl ‘Japanse stijl’.
 Wilde rijst is eigenlijk geen rijst, maar een grassoort.
 Het zijn zaadjes van een waterplant.
-Groeit van nature in zuivere schone meren en stromen.
+Groeit van nature in zuivere meren en stromen.
 Rijk aan vezels, eiwitten, vitamine B en glutenvrij.
 De bereidingstijd is veel langer dan bij rijst.
 De korrels hebben na het koken nog steeds veel bite en smaken nootachtig.
@@ -55,7 +55,7 @@ Gaar de aubergines verder in de oven gedurende 20 à 30 minuten of tot het vruch
 
 Haal de aubergines uit de oven en verwarm de oven tot 240°C.
 
-Meng mirin, miso, sojasaus, honing, en gember samen.
+Meng mirin, miso, sojasaus, honing en gember samen.
 Smeer dit over de aubergines en laat 3 à 5 minuten in de oven karameliseren.
 Dit gaat vrij vlug!!!
 
@@ -63,8 +63,8 @@ Dit gaat vrij vlug!!!
 Dresseer nu de bowls met wilde rijst, edamame, avocado, aubergines en daikon.
 Strooi er de pijpajuintjes en de sesamzaadjes over.
 Nog een draai van de pepermolen en wat zout.
-Geef er Sriracha - of miso mayonaise bij.
+Geef er sriracha - of miso mayonaise bij.
 
 <b>Tip: </b>
-De mayonaise kan je zelf maken door simpelweg wat Sriracha of misopasta door de mayonaise te mengen.
-Opgelet Sriracha is zeer pikant! 
+De mayonaise kan je zelf maken door simpelweg wat sriracha of misopasta door de mayonaise te mengen.
+Opgelet sriracha is zeer pikant! 
