@@ -1,5 +1,5 @@
 ---
-date: 2020-10-15
+date: 2020-10-14
 title: Wilde rijst / edamame / baby-aubergines met miso / pickled daikon
 categories:
   - vegetarisch
