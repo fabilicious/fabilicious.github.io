@@ -46,7 +46,7 @@ Verwarm de oven op 180°C.
 Leg de gewassen bieten op een stuk aluminiumfolie en giet er 2 eetlepels olijfolie over.
 Vouw de randen rondom de bieten tegen elkaar zodat je een zak bekomt.
 Zet ze op een bakplaat in de oven tot ze gaar zijn. Tussen de 40 en de 90 minuten ongeveer naargelang de grootte van de bieten.
-Laat afkoelen, schillen en in blokjes snijden.
+Laten afkoelen, schillen en in blokjes snijden.
 Breng op smaak met peper, zout, een scheutje olijfolie en een beetje wijnazijn.
 
 **Opgeklopte fetacrème:**
@@ -57,7 +57,7 @@ De fetakaas, Griekse yoghurt, zeste van citroen en enkele druppels citroensap  m
 
 Snij de gewassen peren in 4, verwijder klokhuis en steel.
 Leg de stukken peer in een kom samen met de suiker, het citroensap, snufje zout en de olijfolie.
-Verhit de grillpan op een hoog vuur. Gril de peren 1 minuut, draai ze om gril nogmaals 1 minuut.
+Verhit de grillpan op een hoog vuur. Gril de peren 1 minuut, draai ze om en gril nogmaals 1 minuut.
 Haal voorzichtig de peren van de grillpan.
 
 
