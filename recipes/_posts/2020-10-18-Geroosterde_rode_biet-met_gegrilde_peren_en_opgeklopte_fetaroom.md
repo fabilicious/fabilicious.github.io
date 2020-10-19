@@ -1,6 +1,6 @@
 ---
 date: 2020-10-18
-title: Geroosterde rode biet met gegilde peren en opgeklopte fetaroom
+title: Geroosterde rode biet met gegilde peren, opgeklopte feta en dukkah.
 categories:
   - vegetarisch
 featured_image: /images/fetamousse_rodebiet_peerCU1200.jpg
@@ -13,9 +13,9 @@ recipe:
     * wat extra olijfolie en witte wijnazijn
     * peper en zout
 
-    **Opgeklopte fetacrème:**
+    **Opgeklopte feta:**
     * 100g fetakaas, verkruimeld
-    * 120g Griekse yoghurt
+    * 100g Griekse yoghurt
     * zeste van 1/4 citroen
     * beetje citroensap naar smaak
     * peper en zout
@@ -32,7 +32,7 @@ recipe:
     **Afwerken:**
     * Een beetje [Dukkah](https://fabilicious.be/recipes/bijgerechten/2020/10/18/Dukkah/) of wat gehakte noten geroosterde
 ---
-In de herfst van vorig jaar konden we weer volop genieten van de keuken van Ottolenghi in Londen. De geroosterde rode biet met gegrilde peren en opgeklopte fetaroom was één van de  gerechten op de kaart.
+In de herfst van vorig jaar konden we weer volop genieten van de keuken van Ottolenghi in Londen. De geroosterde rode biet met gegrilde peren en opgeklopte feta was één van de  gerechten op de kaart.
 Thuisgekomen heb ik al zijn boeken nageplozen in de hoop dit recept ergens te vinden.
 Tevergeefs, zelfs niet in zijn nieuwe boek ‘Flavour’.
 Dan zelf maar aan de slag gegaan!
@@ -49,7 +49,7 @@ Zet ze op een bakplaat in de oven tot ze gaar zijn. Tussen de 40 en de 90 minute
 Laten afkoelen, schillen en in blokjes snijden.
 Breng op smaak met peper, zout, een scheutje olijfolie en een beetje wijnazijn.
 
-**Opgeklopte fetacrème:**
+**Opgeklopte feta:**
 
 De fetakaas, Griekse yoghurt, zeste van citroen en enkele druppels citroensap  mixen tot een gladde crème. Breng op smaak met peper en zout. Opgelet de fetakaas is al zoutig!
 
@@ -61,7 +61,7 @@ Verhit de grillpan op een hoog vuur. Gril de peren 1 minuut, draai ze om en gril
 Haal voorzichtig de peren van de grillpan.
 
 
-Doe  de fetacrème in een grote schaal of in individuele kommetjes.
+Doe de fetacrème in een grote schaal of in individuele kommetjes.
 Giet er de olijfolie rond en strooi er de sumac over.
 Leg de stukjes rode biet er op en schik de gegrilde peren er boven.
 Bestrooi met dukkah.
