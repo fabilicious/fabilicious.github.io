@@ -5,7 +5,7 @@ categories:
   - vegetarisch
 featured_image: /images/vietnamese_pannenkoek1200.jpg
 recipe:
-  servings: 4 stuks
+  servings: 2 pers hoofdgerecht of 4 pers voorgerecht
   ingredients_markdown: |-
     **Voor het beslag:**
     * 110g rijstmeel
