@@ -8,7 +8,7 @@ recipe:
   servings: 3 à 4 personen
   ingredients_markdown: |-
     * 300g kleine aardappelen ( jonge aardappelen hoef je niet te schillen)
-    * 300g knolselder, in blok van 1,5 cm gesneden
+    * 300g knolselder, in blokjes van 1,5 cm gesneden
     * 250g kastanjechampignons, in schijven gesneden
     * 20g gedroogde porcini
     * 1 teentje look, fijngesneden
@@ -33,7 +33,7 @@ Neem een ovenschaal en doe er de aardappelen, knolselder en champingons in.
 Kook het vocht van de porcini samen met de room en het bouillonblokje in tot sausdikte.
 Voeg 3 eetlepels parmezaanse kaas toe en breng op smaak met peper en eventueel nog wat zout.
 Giet dit over de groenten en bestrooi met de overgebleven parmezaanse kaas.
-Plaats onder de- grill tot het mooi is gekleurd.
+Plaats onder de grill tot het mooi is gekleurd.
 
 Scheur de radicchio in stukken en breng op smaak met olijfolie en cabernet sauvignon-azijn.
 Serveer dit bij de gratin.
