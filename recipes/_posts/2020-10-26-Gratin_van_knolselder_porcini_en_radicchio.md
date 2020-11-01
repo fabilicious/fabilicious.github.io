@@ -38,4 +38,6 @@ Plaats onder de grill tot het mooi is gekleurd.
 Scheur de radicchio in stukken en breng op smaak met olijfolie en cabernet sauvignon-azijn.
 Serveer dit bij de gratin.
 
+<b>Tip: </b>
 
+Wij eten dit als vegetarisch hoofdgerecht, maar kan evengoed geserveerd worden met een stukje gebakken vlees. 
