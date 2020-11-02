@@ -21,7 +21,7 @@ recipe:
     * 50g pecannoten
     * 25g gezouten boter, zacht
     * 40g donker bruine suiker
-    * 1/2 theelepel zeezoutvlokken (Fleur de Sel Guérande) 
+    * 1/2 theelepel zeezoutvlokken (Fleur de Sel de Guérande) 
 
     **Vanillesiroop:**
     * 1/4 vanillestok, overlangs gesneden en het merg verwijderd
@@ -73,7 +73,7 @@ Maak met een borstel de randjes met wat water vochtig en rol het deeg met de lan
 ![](/images/babka2_worsten1200.jpg)
 
 Snij elke rol in de helft. Nu zijn ze 30cm lang.
-Rol nu tot strengen van 4Ocm lang zijn.
+Rol nu tot strengen van 40 cm lang zijn.
 Neem een scherp mes, split de rol middendoor en stop 1cm bovenaan de rand.
 
 ![](/images/babka3_snijden1200.jpg)
