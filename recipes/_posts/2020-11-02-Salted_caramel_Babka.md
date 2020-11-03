@@ -24,7 +24,7 @@ recipe:
     * 1/2 theelepel zeezoutvlokken (Fleur de Sel de Guérande) 
 
     **Vanillesiroop:**
-    * 1/4 vanillestok, overlangs gesneden en het merg verwijderd
+    * 1/4 vanillestok, overlangs snijden en het merg er uit schrapen
     * 50g water
     * 67g suiker 
 ---
