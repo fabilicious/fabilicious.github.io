@@ -53,9 +53,9 @@ Is de bulgur nog wat aan de harde kant voeg dan nog een klein scheutje water toe
 Doe in een zeef en druk er met je handen zo veel mogelijk water uit.
 Of je kan de bulgur ook in een theedoek leggen, deze bovenaan sluiten en stevig opdraaien om het overtollige water er uit te persen.
 
-Sijd de schil van de pompoen en weeg 250g vruchtvlees af.
+Snijd de schil van de pompoen en weeg 250g vruchtvlees af.
 Doe in een kom bij de bulgur en prak samen tot een gladde puree.
-Voeg ui, tahin, bloem en de specerijen toe en breng flink op maat met peper en zout.
+Voeg ui, tahin, bloem en de specerijen toe en breng flink op smaak met peper en zout.
 Meng alles goed door en zet minimaal 30 minuten in de koelkast. 
 Het pompoenmengsel wordt hierdoor beter hanteerbaar.
 
@@ -76,8 +76,8 @@ Voeg nog een beetje spinazie toe, maak de randen van de opening nat en knijp het
 Zorg ervoor dat er geen lucht in zit. Als het goed is heb je nu een torpedovormig balletje met iets taps toelopende uiteinden.
 Herhaal met de rest van het pompoenmengsel en de vulling.
 
-Zet de gevulde kibbel minimaal 30 minuten en volgens het recept maximaal 4 uur, afgedekt in de koelkast.
-Maar ik heb de overschot nog daags nadien af gebakken zonder enige problemen.
+Zet de gevulde kibbeh minimaal 30 minuten en volgens het recept maximaal 4 uur, afgedekt in de koelkast.
+Maar ik heb de overschot nog daags nadien afgebakken zonder enige problemen.
 
 Schenk vlak voor het bakken een laagje plantaardige olie van 6 cm in een middelgrote kookpan met dikke bodem en verhit tot 180°C.
 Bak de kibbeh in porties 4 à 5 minuten goudbruin.
