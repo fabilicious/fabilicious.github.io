@@ -8,7 +8,8 @@ recipe:
   servings: enkele potjes
   ingredients_markdown: |-
     * 330g vijgen
-    * 100g rietsuiker    
+    * 100g rietsuiker
+    * enkele druppels citroensap    
 ---
 Toen Anne, een verre buurvrouw, vorige week plots aan mijn voordeur stond met een zak bomvol prachtige vers geplukte vijgen was dit mijn klein geluk.
 Dezelfde avond kwam Luc heel enthousiast thuis met een doos vol overheerlijke vijgen gekregen van Paul.
@@ -21,6 +22,7 @@ Een hartverwarmend en fijn gebaar.
 Steeltjes en ook het harde stukje aan de onderkant van de vijgen verwijderen en in 4 snijden.
 De vijgen samen met het rietsuiker in een kookpot doen en enkele uren laten staan.
 Breng nu aan de kook gedurende 15 à 30 minuten tot de confituur goed is ingedikt.
+Voeg eventueel nog enkele druppels citroensap toe.
 Doe de confituur in gesteriliseerde bokalen. Eenmaal afgekoeld, in de koelkast bewaren.
 
 <b>Tip: </b>
