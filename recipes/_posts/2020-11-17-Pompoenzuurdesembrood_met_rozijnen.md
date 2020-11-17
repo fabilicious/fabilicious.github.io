@@ -24,7 +24,7 @@ In een voorverwarmde oven op 180°C gedurende 40 à 60 minuten laten garen tot d
 Schep het vruchtvlees uit de schillen en snij in blokjes. Zet een zeef op een kom en laat de pompoen in de koelkast een nacht uitlekken.
 Weeg 300g pompoenpuree af. De rest kan je eventueel invriezen of in een soep verwerken.
 
-Doe de pomoenpuree, lauw water, honing en zuurdesem in een keukenrobot en meng met een klopper op een lage stand tot je een glad beslag bekomt.
+Doe de pompoenpuree, lauw water, honing en zuurdesem in een keukenrobot en meng met een klopper op een lage stand tot je een glad beslag bekomt.
 
 Vervang de klopper door de deeghaak en voeg de bloem toe.
 Mix 2 minuten op een lage stand en laat 20 minuten rusten onder plastiek.
