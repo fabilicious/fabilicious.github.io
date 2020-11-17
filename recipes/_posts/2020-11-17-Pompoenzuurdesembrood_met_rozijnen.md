@@ -8,8 +8,8 @@ recipe:
   servings: 3 broden
   ingredients_markdown: |-
     * 300g pompoenpuree 
-    * 275g actief zuurdesem
-    * 160-190g lauw water
+    * 275g actieve zuurdesem
+    * 160-190g lauw water (30 à 37°C)
     * 1 theelepel honing
     * 600g bloem Type 65
     * 9g zout
@@ -20,11 +20,11 @@ Dit fantastisch brood is niet alleen lekker van smaak, maar oogt ook zo mooi doo
 <!--more-->
 
 De pompoen (ik neem graag een hokkaido of butternut) wassen, in stukken snijden en de zaadjes verwijderen. Wikkel de stukken in aluminiumfolie en leg ze op een bakplaat.
-In een voorverwarmde oven op 180°C gedurende 40 à 60 minuten laten garen of tot de pompoen zacht is.
+In een voorverwarmde oven op 180°C gedurende 40 à 60 minuten laten garen tot de pompoen zacht is.
 Schep het vruchtvlees uit de schillen en snij in blokjes. Zet een zeef op een kom en laat de pompoen in de koelkast een nacht uitlekken.
 Weeg 300g pompoenpuree af. De rest kan je eventueel invriezen of in een soep verwerken.
 
-Doe de pomoenpuree, lauw water, honing, zuurdesem, gist in een keukenrobot en meng met een klopper op een lage stand tot je een glad beslag bekomt.
+Doe de pomoenpuree, lauw water, honing en zuurdesem in een keukenrobot en meng met een klopper op een lage stand tot je een glad beslag bekomt.
 
 Vervang de klopper door de deeghaak en voeg de bloem toe.
 Mix 2 minuten op een lage stand en laat 20 minuten rusten onder plastiek.
@@ -37,7 +37,7 @@ Draai 90° en begin opnieuw met de vingertoppen in het deeg te duwen en vouw ter
 Het deeg in de kom leggen en 20 minuten onder plasticfolie laten rusten.
 
 Plaats het deeg een nacht afgedekt in de koelkast. 
-Haal de volgende dag het deeg uit de koelkast en laat 30 minuten staan.
+Haal het de volgende dag uit de koelkast en laat 30 minuten staan.
 Verdeel het deeg in 3 stukken.
 Rol elk stuk tot 25 à 30 cm lang en druk de bovenkant wat platter.
 
