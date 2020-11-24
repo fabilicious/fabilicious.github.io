@@ -7,7 +7,7 @@ featured_image: /images/nerodisepia1200.jpg
 recipe:
   servings: 3 broodjes
   ingredients_markdown: |-
-    * 250g actieve volkorendesem    * 332g gedeeltelijk voltarwemeel 25% (Van Eecke)
+    * 250g actieve volkorendesem    * 332g tarwemeel 25% grof (Van Eecke) of vervangen door tarwebloem
     * 145g roggebloem
     * 200g water (temperatuur tussen de 20°C en 25°C)
     * 8g inkt van inktvis
