@@ -1,6 +1,6 @@
 ---
 date: 2020-10-18
-title: Geroosterde rode biet met gegilde peren, opgeklopte feta en dukkah.
+title: Geroosterde rode biet met gegrilde peren, opgeklopte feta en dukkah.
 categories:
   - vegetarisch
 featured_image: /images/fetamousse_rodebiet_peerCU1200.jpg
