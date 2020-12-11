@@ -33,7 +33,7 @@ Verhit de olijfolie en stoof ui, look, chilipeper en gember tot ze glazig zijn (
 Voeg de reepjes limoenblaadjes en de zoete aardappel toe en stoof 2 à 3 minuten verder.
 Doe de kokosmelk, de bouillon en de geroosterde paprika’s erbij en breng aan de kook.
 Kook de soep een 30-tal minuten tot de groenten zacht zijn.
-Alles mixen, indien nodig nog wat kruiden met peper, zout en eventueel enkele druppels limoensap.
+Alles mixen en eventueel zeven. Breng op smaak met peper, zout en desgewenst enkele druppels limoensap.
 Is de soep te dik voeg dan een scheutje bouillon of water toe.
 Voor de liefhebbers afwerken met wat korianderblaadjes
 
