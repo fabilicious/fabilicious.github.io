@@ -18,8 +18,8 @@ recipe:
     * 100g zonnebloempitten
     
 ---
-Het recept van dit zuurdesembrood komt uit ‘De smaak van brood’ van Frank Deldaele.
-Dit brood moet door extra toevoeging van gist niet zo super lang rijzen. Dit in tegenstelling tot de meeste desembroden.
+Een recept van zuurdesembrood uit ‘De smaak van brood’ van Frank Deldaele.
+Het brood moet door extra toevoeging van gist niet zo super lang rijzen. Dit in tegenstelling tot de meeste desembroden.
 Perfect als je wat minder tijd hebt.
 De smaak is misschien iets minder intens door de kortere rijstijd.
 Maar al bij al is het een heerlijk brood met een fantastisch lekkere krokante korst.
