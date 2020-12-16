@@ -54,3 +54,5 @@ Bak de broden op 230°C gedurende 35 minuten.
 Zet de laatste 10 minuten de oven op een kiertje.
 
 
+Inspiratie: [De smaak van brood, Frank Deldaele](https://www.standaardboekhandel.be/p/de-smaak-van-brood-9789401424011?gclid=EAIaIQobChMInb36wv_S7QIVCuh3Ch3NSQcKEAAYASAAEgLJL_D_BwE#!
+)
