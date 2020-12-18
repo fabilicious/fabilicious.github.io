@@ -179,7 +179,7 @@ image_view: true
     <div class="recipes">
         {% for recipe in posts %}
             <div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
-                <a href="/Fabilicious/{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+                <a href="{{ base.url }}{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
             </div>
         {% endfor %}
     </div>
