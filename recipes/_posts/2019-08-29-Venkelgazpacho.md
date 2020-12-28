@@ -48,7 +48,7 @@ Laat afkoelen en in de koelkast enkele uren heel koud laten worden.
 
 **Lookcroûtons**
 
-Snijd het brood in gelijk, kleine blokjes en doe in een kom samen met de rozemarijn-knoflookolie.
+Snijd het brood in gelijke, kleine blokjes en doe in een kom samen met de rozemarijn-knoflookolie.
 Meng alles goed en leg ze op een met bakpapier beklede bakplaat.
 Bak in een voorverwarmde oven 8 à 10 minuten op 190°C.
 Hou de croûtons goed in de gaten! Ze worden ineens zeer snel bruin.
