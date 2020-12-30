@@ -27,7 +27,7 @@ Een heerlijke soep met een frisse toets van venkel. Door het toevoegen van een s
 **Venkel-wortelsoep**
 
 Verhit in een kookpot wat olie en stoof de groenten kort aan. Voeg de bouillon toe en laat alles koken tot de groenten gaar zijn. Ongeveer 25 minuten.
-Mix de soep en verrijk eventueel met room.
+Mix de soep, breng op smaak met zwarte peper en verrijk eventueel met room.
 
 
 **Lookcroûtons**
@@ -39,7 +39,7 @@ Hou de croûtons goed in de gaten! Ze worden ineens zeer snel bruin.
 Leg de gebakken croûtons op keukenpapier om het overtollige vet te verwijderen.
 Bewaar in een afgesloten doos.
 
-Serveer met enkele groene topjes venkel en  croûtons.
+Serveer met enkele groene topjes venkel en croûtons.
 
 
 
