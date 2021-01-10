@@ -2,7 +2,7 @@
 date: 2019-09-26
 title: Pasta puttanesca
 categories:
-  - Pasta
+  - pasta
 featured_image: /images/puttanesca41200.jpg
 recipe:
   servings: 2 personen
