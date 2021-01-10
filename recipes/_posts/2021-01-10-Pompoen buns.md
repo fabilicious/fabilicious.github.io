@@ -46,5 +46,7 @@ Laat de broodjes op een rooster afkoelen.
 
 
 
+<b>Tip: </b>
 
+Werkwijze ovengeroosterde pompoen vind je in [dit recept](https://fabilicious.be/recipes/broodenontbijtgranen/2020/11/17/Pompoenzuurdesembrood_met_rozijnen/)
 
