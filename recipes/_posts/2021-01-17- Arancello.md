@@ -12,8 +12,8 @@ recipe:
     * 750g water
 ---
 De periode van de bloedappelsien of ook wel wijnappelsien genoemd is weer aangebroken.
-Het korte seizoen van deze bloedmooie appelsien loopt van januari tot maart. 
-Bijzonder voor zijn aromatische friszoete smaak en aantrekkelijk door de wijnrode kleur.
+Het korte seizoen loopt van januari tot maart. 
+Bijzonder door zijn aromatische friszoete smaak en aantrekkelijk door de wijnrode kleur.
 Naarmate de bloedappelsien rijpt wordt het vruchtvlees dieprood van kleur en zoeter van smaak.
 Het is dan ook niet te verwonderen dat het zusje van de limoncello, de arancello, zeer subtiel en verfijnd is van smaak.
  
