@@ -8,7 +8,10 @@ recipe:
   servings: 25 stuks
   ingredients_markdown: |-
     **Zanddeeg:**    * 120g bloem met 3 g bakpoeder (zeven)    * 90g zachte boter    * 70g bloemsuiker en 1 zakje vanillesuiker    * 2 eidooiers    * Snuifje zout    **Caramel beurre salé:**    * 100g suiker    * 70g room     * 26g licht gezouten boter (demi-sel)
-    * eventueel nog een snufje fleur de sel    * ca. 180g melkchocolade     * 30g hazelnoten geroosterd en grof gehakt    * Ik heb siliconen vormpjes gebruikt van 2,5 cm hoog en een diameter van 4cm     
+    * eventueel nog een snufje fleur de sel
+
+    **Afwerking:**    * ca. 180g melkchocolade     * 30g hazelnoten geroosterd en grof gehakt
+    * Ik heb siliconen vormpjes gebruikt van 2,5 cm hoog en een diameter van 4cm     
 ---
                                    Foto : Anneke Ruijsbroek
 
