@@ -12,7 +12,7 @@ recipe:
 
     **Afwerking:**    * ca. 180g melkchocolade 
     * 30g hazelnoten geroosterd en grof gehakt
-    * Ik heb siliconen vormpjes gebruikt van 2,5 cm hoog en een diameter van 4cm     
+    * Ik heb siliconen vormpjes gebruikt van 2,5 cm hoog en een diameter van 4cm     
 ---
                                    Foto : Anneke Ruijsbroek
 
