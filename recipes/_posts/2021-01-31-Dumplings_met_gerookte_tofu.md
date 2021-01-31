@@ -41,7 +41,7 @@ recipe:
 ---
 Deze dumpings met gerookte tofu heb ik voor de eerste maal geproefd bij zoonlief.
 We konden er niet genoeg van krijgen. Overheerlijk!
-Ideaal om het thuis ook te proberen en het recept op de blog te plaatsen.
+Ideaal om thuis te proberen en het recept op de blog te plaatsen.
 Bram had de tofu zelf gerookt, maar ik vond dit wel een brug te ver.
 Ik kocht dus voor de allereerste keer gerookte tofu.
 Persoonlijk vonden de meeste onder ons de gerookte smaak overheersend.
@@ -60,8 +60,8 @@ Meng alle ingrediënten samen en zet opzij.
 
 **Dumplings**
 
-Doe 1 eetlepels zonnebloemolie, de knoflook en de gember in een wok en roerbak op een matig vuur. Voeg na 1 minuut de shiitake, de lente ui, de wortels en de rauwe spinazie toe.
-Roerbak ongeveer 5 minuten totdat alles zacht is en het vocht verdampt is.
+Doe 1 eetlepel zonnebloemolie, de knoflook en de gember in een wok en roerbak op een matig vuur. Voeg na 1 minuut de shiitake, de lente-ui, de wortels en de rauwe spinazie toe.
+Roerbak ongeveer 5 minuten totdat alles zacht en het vocht verdampt is.
 Haal de wok van het vuur en roer er de tofu, de koriander, sesamolie en sojasaus door.
 Breng op smaak met peper en zout.
 Laat afkoelen.
@@ -76,8 +76,7 @@ Bekleed een bakplaat met bakpapier. Zet er de dumpings op. Ze mogen elkaar niet 
 
 Verhit wat olie in een grote koekenpan met antiaanbaklaag.
 Doe er een deel van de dumpings in met de onderkant naar beneden. Laat 2 minuten bakken totdat ze aan de onderkant goudbruin zijn.
-
-Giet 150ml à 200ml water in de pan, breng aan de kook en zet het vuur wat lager.
+Giet 150ml à 200ml water bij de dumplings, breng aan de kook en zet het vuur wat lager.
 Doe er een deksel op en laat 7-8 minuten sudderen of totdat er geen water meer in de pan zit. Serveer meteen met de dipsaus.
 Herhaal deze handeling met de resterende dumpings.
 
@@ -91,4 +90,6 @@ Minstens 30 minuten laten marineren. Halverwege de tofu omdraaien zodat alle kan
 Uitlekken en in stukjes snijden.
 
 Bron: [Vegalicious](https://www.standaardboekhandel.be/p/vegalicious-9789089896049#!)
+
+![](/images/dumplingV1stok1200.jpg)
 
