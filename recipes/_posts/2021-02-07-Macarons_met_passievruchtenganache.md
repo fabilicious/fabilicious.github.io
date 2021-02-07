@@ -18,7 +18,7 @@ recipe:
 
     **Passievruchtenganache:**
     * 150g passievruchtenpuree (Crops)
-    * 320g melkchocolade, in stukjes gehakt of callets
+    * 320g melkchocolade, in stukjes gehakt of callets (Callebaut 823)
     * 55g boter (zacht)    
 ---
 Dit recept komt uit ‘De Essentie’ van Joost Arijs.
