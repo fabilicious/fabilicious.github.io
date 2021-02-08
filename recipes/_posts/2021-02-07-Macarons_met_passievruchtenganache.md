@@ -23,7 +23,7 @@ recipe:
 ---
 Dit recept komt uit ‘De Essentie’ van Joost Arijs.
 Het zure van de passievruchten matcht fantastisch met de melkchocolade en het zoete van de macaron.
-Joost Arijs is een meester in de het combineren van smaken. Niet alleen in zijn macarons, maar ook in zijn pralines, ijstaarten en patisserie.
+Joost Arijs is een meester in het combineren van smaken. Niet alleen in zijn macarons, maar ook in zijn pralines, ijstaarten en patisserie.
 Mocht ik in Gent wonen of in de nabije omgeving dan zou ik waarschijnlijk geen macarons maken.
 
 <!--more-->
