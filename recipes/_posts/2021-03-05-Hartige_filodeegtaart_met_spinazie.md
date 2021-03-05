@@ -7,7 +7,7 @@ featured_image: /images/filodeegtaart1200.jpg
 recipe:
   servings: 4 personen
   ingredients_markdown: |-
-    * 6 vellen filodeeg 
+    * 6 vellen filodeeg (vers of diepvries)
     * 400g spinazie 1 minuut gestoomd en al het vocht uitgewrongen
     * 100g prei fijngesneden en 3 minuten gestoomd
     * 250g ricotta
@@ -17,14 +17,9 @@ recipe:
     * Peper, zout en beetje nootmuskaat    * 75g à 100g fetakaas in blokjes gesneden
     * sesamzaadjes
 ---
-Filodeeg gebruik ik dikwijls voor het maken van hartige taarten.
+Voor het maken van hartige taarten gebruik ik graag filodeeg.
 Het bevat veel minder vetten dan bladerdeeg en het deeg wordt tijdens het bakken super krokant.
-Vroeger kon je enkel diepgevroren filodeeg kopen, maar nu is het ook vers verkrijgbaar.
-Ik gebruik graag vers, maar ze worden meestal in grotere hoeveelheden verkocht.
-Mooi afgesloten kan je de vellen enkele dagen in de koelkast bewaren.
-Je kan ook filodeeg vervangen door brickdeeg en dan heb je geen overschot.
 
- 
 
 <!--more-->
 
