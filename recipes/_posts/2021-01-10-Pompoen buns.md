@@ -5,7 +5,7 @@ categories:
   - broodEnOntbijtgranen
 featured_image: /images/pompoenbuntoren1200.jpg
 recipe:
-  servings: ca. 12 broodjes
+  servings: 12 à 15 broodjes
   ingredients_markdown: |-
     * 200g gekookte of in de ovengeroosterde pompoen (Butternut of Hokkaido)
     * 50g boter
@@ -34,7 +34,7 @@ Het deeg moet mooi elastisch zijn.
 
 Dek het deeg af met plasticfolie en laat 1 1/2 tot 2 uur rijzen of tot de omvang verdubbeld is.
 
-Verdeel het deeg in stukjes van 80g en bol op.
+Verdeel het deeg in stukjes van 80 à 100g (dit naargelang de gewenste grootte) en bol op.
 Leg de broodjes met de naad naar onder op een met bakpapier of siliconen mat bedekte bakplaat en plet ze lichtjes met de hand. Dek af en laat nog 45 minuten rijzen.
 
 Verwarm de oven op 200°C.

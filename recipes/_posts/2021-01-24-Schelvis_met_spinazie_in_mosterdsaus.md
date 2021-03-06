@@ -8,7 +8,7 @@ recipe:
   servings: 4 personen
   ingredients_markdown: |-
     * 4 stukken van 150g schelvis of andere witte vis
-    * 500g spinazieblaadjes, gewassen en steeltjes verwijderd
+    * 500g spinazieblaadjes, gewassen en steeltjes verwijderd en drooggedept
     * 300 à 350ml room of sojaroom
     * 2 à 3 ruime eetlepels mosterd met of zonder zaadjes (ik gebruik de helft van beide soorten mosterd)
 
