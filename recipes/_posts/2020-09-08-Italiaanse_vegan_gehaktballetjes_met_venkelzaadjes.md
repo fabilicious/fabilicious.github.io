@@ -11,7 +11,7 @@ recipe:
     * 200g Greenway gehakt
     * 2 volle theelepels venkelzaadjes
     * 1 kleine rode ui, fijngesnipperd
-    * 10g panko
+    * 1 eetlepel panko
     * 20g Alpro sojaroom
     * zout en flink wat peper
    
