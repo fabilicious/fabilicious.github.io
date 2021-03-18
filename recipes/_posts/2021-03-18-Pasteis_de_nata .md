@@ -2,7 +2,7 @@
 date: 2021-03-18
 title: Pasteis de nata
 categories:
-  - taarten
+  - koekjesEnKleinGebak
 featured_image: /images/pasteisdenata1200.jpg
 recipe:
   servings: 9 stuks
