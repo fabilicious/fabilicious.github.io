@@ -19,7 +19,7 @@ Kies voor een kwaliteitsvolle bladerdeeg met echte boter of de moedigen onderons
 
 Suiker, citroenschil, kaneel, vanillestok en merg, water tot 105°C laten koken. Siroop laten afkoelen.
 Je kan dit de dag voordien doen en in de koelkast bewaren, zodat de kruiden goed infuseren.
-Bij gebruik opnieuw opwarmen.Bladerdeeg zo fijn mogelijk oprollen. Schijfjes van 2,5 cm snijden. Leg de schijven met de platte kant in de beboterde vormen en duw de kanten zachtjes aan tot je soort kommetje hebt (ik gebruik muffinvormen).In de koeling 30 minuten laten rusten.
+Bij gebruik opnieuw opwarmen.Bladerdeeg zo fijn mogelijk oprollen. Schijfjes van 2,5 cm snijden. Leg de schijven met de vlakke kant op een werkvlak en duw plat tot een fijn, rond lapje deeg. Plaats deze in de beboterde vormen en duw de kanten zachtjes aan tot je soort kommetje hebt (ik gebruik muffinvormen).In de koeling 30 minuten laten rusten.
 Bloem en vanillepoeder in een steelpan doen en beetje per beetje de koude melk en de room toevoegen. Goed kloppen, opgelet klonters! Snuifje zout toevoegen.Laten opkoken tot een dikke bechamelsaus.De lauwe siroop (kruiden verwijderd) toevoegen. En enkele minuten laten afkoelen.Dooiers loskloppen en het mengsel toevoegen. Het is iets minder vast dan pap.Het is vloeibaarder dan een banketbakkersroom.Verdeel de crème in de bladerdeegkuipjes  tot net onder de rand.
 
 ![](/images/pasteisdenatastap11200.jpg)
