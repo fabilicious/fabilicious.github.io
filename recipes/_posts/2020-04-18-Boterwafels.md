@@ -26,7 +26,7 @@ De dooiers van het eiwit scheiden.
 De zachte boter samen met de dooiers kloppen, vervolgens de suiker, vanillesuiker, vanillepaste, bloem, bakpoeder en zout toevoegen. Alles goed mengen.
 Klop het eiwit op en meng voorzichtig onder het deeg.
 Verwarm het wafelijzer en bakken maar.
-Laat de wafeltjes op een rooster goed afkoelen en bewaar ze in en afgesloten doos.
+Laat de wafeltjes op een rooster goed afkoelen en bewaar ze in een afgesloten doos.
 De dag zelf vind ik ze het lekkerst, ze zijn dan heel krokant.
 De volgende dag kan je de wafels heel kort in het wafelijzer opnieuw bakken en laten afkoelen. Zo worden ze terug krokant.
 
