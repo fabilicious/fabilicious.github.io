@@ -8,7 +8,7 @@ recipe:
   servings: 9 stuks
   ingredients_markdown: |-
     * 1 rol bladerdeeg met echte boter    * 200g volle melk    * 50g room    * 150g water
-    * 125g suiker    * citroenschil van 1/2 gewassen citroen (liefst bio)    * 1/3 kaneelstokje    * 1/4 vanillestok, overlangs snijden en het merg eruit schrapen    * snuifje zout    * 20g bloem     * 10g vanillepoeder of bloem (vanillepoeder heeft nog wat extra smaak)    * 80g dooiers    
+    * 125g suiker    * citroenschil van 1/2 gewassen citroen (liefst bio)    * 1/3 kaneelstokje    * 1/4 vanillestok, overlangs snijden en het merg eruit schrapen    * snuifje zout    * 20g bloem     * 10g vanillepuddingpoeder of maizena of bloem    * 80g dooiers    
 ---
 Pasteis de nata of pasteis de Belem, wie kent dit Portugese gebakje niet?
 Knapperig bladerdeeg gevuld met een aromatische romige crème.
