@@ -18,7 +18,7 @@ recipe:
     * 40g (plantaardig) boter
     * 40g bloem
     * ca. 5 dl (plantaardige) melk
-    * 200g geraspte kaas naar keuze (emmentaler, cheddar, parmezaanse kaas) of vegan kaas (bv. Cheddar Violife)
+    * 200g geraspte kaas naar keuze (emmentaler, cheddar) of vegan kaas (bv. Cheddar Violife)
     * peper, zout en nootmuskaat
 
     * 400g vegetarisch gehakt van Greenway
