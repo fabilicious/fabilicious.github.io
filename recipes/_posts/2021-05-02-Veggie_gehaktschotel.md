@@ -21,6 +21,7 @@ recipe:
     * 200g geraspte kaas naar keuze (emmentaler, cheddar) of vegan kaas (bv. Cheddar Violife)
     * peper, zout en nootmuskaat
 
+    **Veggiegehakt:**
     * 400g vegetarisch gehakt van Greenway
     * peper en zout    * 1 theelepel gedroogde tijm
 ---
