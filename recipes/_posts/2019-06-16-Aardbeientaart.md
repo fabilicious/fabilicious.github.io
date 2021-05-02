@@ -49,9 +49,11 @@ Met een borsteltje de chocolade uitsmeren. Taart op een rooster laten afkoelen.
 
 **Crème-prise**
 
-Meng de dooiers met de suiker en de puddingpoeder. Giet een klein beetje melk erbij en meng alles goed.
-Voeg nu de rest van de melk en het merg van de vanillestok toe en breng aan de kook.
-Laat 1 minuut doorkoken. Los de geweekte gelatine op in de warme massa. Giet de pudding in een andere kom en dek af met plasticfolie.
+Klop enkele eetlepels melk met de eidooiers los. Voeg de suiker en puddingpoeder toe. Klop nog eens goed door.
+Breng de resterende melk en het merg van de vanillestok aan de kook.
+Giet een beetje kokende melk al roerend op het eimengsel en klop dit door de kokende melk. Breng het geheel op een zacht vuur al kloppend naar het kookpunt.
+Eenmaal ingedikt giet je de massa in een andere kom.
+Bedek met plasticfolie om velvorming te voorkomen.
 Laat afkoelen tot 25°C, klop de pudding nogmaals mooi glad en voeg er de opgeklopte room bij.
 Vul de taartbodem volledig met de crème-prise.
 
