@@ -5,14 +5,14 @@ categories:
   - taarten
 featured_image: /images/rabarbertaart1200.jpg
 recipe:
-  servings: 4 à 6 personen (taartring 16cm diameter)
+  servings: 4 à 6 personen (taartring 16cm diameter en 2,5 cm hoog)
   ingredients_markdown: |-
     **Zanddeeg:**
     * 100g boter    * 100g suiker    * 40g ei    * 200g gezeefde bloem    * een snuifje zout
 
     **Frangipane:**    * 35g suiker    * 35g boter (zachte)    * 35g amandelpoeder    * 35g ei    * 1 afgestreken eetlepel bloem    * facultatief 5g rum of amaretto
     **Afwerking**
-    * 1 rabarberstengel
+    * 2 rabarberstengels
     * 200ml water
     * 100g kristalsuiker
     * enkele eetlepels van [mijn rabarber-sinaasappelconfituur](https://fabilicious.be/recipes/confituurenchocopasta/2019/04/24/Rabarber_sinaasappelconfituur/) of andere confituur
