@@ -41,7 +41,7 @@ Op een rooster laten afkoelen.
 **Afwerking**
 
 De gewassen rabarberstengel in de lengte in zeer fijne plakjes snijden (ca.1mm dik). Makkelijk met een mandoline.
-Doe het water samen met de suiker in een kookpot. Zet op laag vuur en roer tot de suiker is opgelost. Breng de aan de kook, neem van het vuur en voeg de rabarber toe. Laat 10 minuten of langer staan, afhankelijk van de dikte, tot de lamellen zacht zijn. De textuur moet nog wel behouden blijven. Haal onmiddellijk uit de siroop en laat ze uitlekken.
+Doe het water samen met de suiker in een kookpot. Zet op laag vuur en roer tot de suiker is opgelost. Breng de siroop aan de kook, neem van het vuur en voeg de rabarber toe. Laat 10 minuten of langer staan, afhankelijk van de dikte, tot de lamellen zacht zijn. De textuur moet nog wel behouden blijven. Haal onmiddellijk uit de siroop en laat ze uitlekken.
 
 De confituur op de frangipane verdelen en mooi gladstrijken. 
 De rabarberlamellen dakpansgewijs er bovenop leggen. Al de rabarber die over de rand komt netjes met een schaar afsnijden.
