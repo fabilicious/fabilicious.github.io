@@ -16,11 +16,11 @@ recipe:
     * 2 eetlepels geroosterde pijnboompitten
     * 2 eetlepels balsamicoazijn
     * 4 eetlepels olijfolie
-    * 1 eetlepel platte peterselie fijngehakt
-    * 1 eetlepel fijngesneden basilicum    * Peper en zout
+    * 1 eetlepel platte peterselie, fijngehakt
+    * 1 eetlepel fijngesneden basilicum, fijngehakt    * Peper en zout
 
 ---
-Caponata van rode biet en rabarber heerlijk met geitenkaas al dan niet gegrild, blauwe schimmelkaas, burrata, blokjes feta,…
+Caponata van rode biet en rabarber. Heerlijk met geitenkaas, al dan niet gegrild, blauwe schimmelkaas, burrata, blokjes feta,…
 Een gezonde lunch als je er wat gemengde sla en een geroosterd sneetje brood bij geeft.
 Serveer de caponata het liefst op kamertemperatuur, de smaken komen dan het best tot hun recht.
 
