@@ -33,7 +33,7 @@ Zet ze op een bakplaat in de oven tot ze gaar zijn. Tussen de 40 en de 90 minute
 Laat afkoelen, schillen en in blokjes snijden.
 Verhoog de oven naar 210°C.
 Leg de stukjes rabarber op wat bakpapier en strooi er de suiker overheen.
-Rooster ongeveer 12 minuten. De rabarber moet zacht zijn, maar nog heel.
+Rooster ongeveer 8 à 12 minuten. De rabarber moet zacht zijn, maar nog heel.
 Laat afkoelen.
 Verhit de resterende olie en laat de uiringen zachtjes gaar worden.
 Voeg de rozijnen en de azijn toe en laat een 5-tal minuten inkoken.
