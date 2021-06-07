@@ -54,7 +54,7 @@ Verwarm de oven op 170°C en rooster de hazelnoten 10 minuten. Laten afkoelen en
 Meng de zachte boter, de maizena, de bloemsuiker, het aardappelzetmeel, de amandelpoeder, het zout en de gepofte quinoa.
 Verlaag de temperatuur van de oven naar 150°C. Spatel het mengsel op een met bakpapier beklede bakplaat en bak ongeveer 30 minuten. laten afkoelen.
 Smelt de chocolade in een bain-marie en meng de hazelnotenpraliné en de hazelnoten eronder. Laten afkoelen en in de koelkast bewaren.Ik heb de hoeveelheden van het krokantje verminderd, maar had nog wat over. Het is zeer lekker en  glutenvrij. Maar je kan dit ook vervangen door wat geroosterde hazelnoten.
-**Zanddeeg**Bloemsuiker en bloem zeven, deze mengen met de boter en het zout. Een ring van 18 cm diameter invetten en op een siliconen matje plaatsen. Het deeg er mooi instrijken. Bakken op 180° ongeveer 12 minuten.**Biscuit**Bloem en bakpoeder zeven. De eieren met de suiker en de zeste van citroen opkloppen tot het volume verdubbeld is. De zure room toevoegen. De bloem erbij doen en als laatste de zonnebloemolie.Giet op  het zanddeeg en bak verder 15 min op 180°C. 
+**Zanddeeg**Bloemsuiker en bloem zeven, deze mengen met de boter en het zout. Een ring van 18 cm diameter invetten en op een siliconen matje plaatsen. Het deeg er mooi instrijken. Bakken op 180° ongeveer 12 minuten.**Biscuit**Bloem en bakpoeder zeven. De eieren met de suiker en de zeste van citroen opkloppen tot het volume verdubbeld is. De zure room toevoegen. Bloem en bakpoeder er ondermengen en als laatste de zonnebloemolie toevoegen.Giet op  het zanddeeg en bak verder 15 min op 180°C. 
 **Citroenpunch**
 
 Het water samen met de suiker laten koken. De zeste van citroen en het citroensap toevoegen.
