@@ -37,7 +37,7 @@ recipe:
     * Eventueel nog wat gepocheerde rabarberstukjes of overschot van de lamellen.
      
 ---
-Fantastik Rhubarber vanille… de Marie uit ‘Michalak Masterbook’ staat al enkele jaren op mijn lijst. 
+Fantastik Rhubarbe vanille… de Marie uit ‘Michalak Masterbook’ staat al enkele jaren op mijn lijst. 
 Deze echte showstopper is waanzinnig lekker!!!
 
 Met de eerste aardbeien uit de tuin heb ik de rabarbercompote gepimpt en ook gebruikt  voor afwerking (in de plaats van frambozen).
@@ -94,7 +94,5 @@ Gebruik een heel scherp mes om op een gemakkelijke manier de taart aan te snijde
 Je kan de witte chocoladeroom ook vervangen door opgeklopte room lichtjes gezoet met poedersuiker.
 In het boek wordt het zanddeeg en de biscuit in een moule à manqué van 18cm diameter en 2cm hoog gemaakt.
 Deze kan je perfect vervangen door een ring van 20cm diameter!
-
-[Link : Michalak Masterbook](https://www.standaardboekhandel.be/seo/nl/boeken/kookboeken/9782841237371/christophe-michalak/michalak-masterbook)
 
 
