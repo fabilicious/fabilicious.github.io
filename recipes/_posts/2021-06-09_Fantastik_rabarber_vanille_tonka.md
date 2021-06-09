@@ -86,16 +86,14 @@ De avond  ervoor de room met het zout aan de kook brengen en op de callets giete
 Warm de neutrale gelei met wat kleurstof lichtjes op en giet over de bevroren vanille-tonkacrème.
 Verdeel de rabarber-aardbeiencompote over de biscuit en blijf 1 cm van de rand.
 Plaats de vanille-tonka in het midden op de compote.
-Werk af met dotjes witte chocoladeroom, aardbeien, eetbare bloempjes, groene blaadjes, gepocheerde rabarber,….
-
-![](/images/Fantastik_Marie_coupe1200.jpg)
+Werk af met dotjes witte chocoladeroom, aardbeien, eetbare bloempjes, groene blaadjes, gepocheerde rabarber,…
 
 <b>Tip: </b>
 
 Gebruik een heel scherp mes om op een gemakkelijke manier de taart aan te snijden.
 Je kan de witte chocoladeroom ook vervangen door opgeklopte room lichtjes gezoet met poedersuiker.
 In het boek wordt het zanddeeg en de biscuit in een moule à manqué van 18cm diameter en 2cm hoog gemaakt.
-Dit kan je perfect vervangen door een ring van 20cm diameter!
+Deze kan je perfect vervangen door een ring van 20cm diameter!
 
 [Link : Michalak Masterbook](https://www.standaardboekhandel.be/seo/nl/boeken/kookboeken/9782841237371/christophe-michalak/michalak-masterbook)
 
