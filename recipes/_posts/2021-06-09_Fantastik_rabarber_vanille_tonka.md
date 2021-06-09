@@ -50,7 +50,6 @@ Het zanddeeg en de biscuit worden in dezelfde vorm gebakken.
 Geniaal.
 Ook zin om aan de slag te gaan, maar liever iets eenvoudiger? Kijk dan zeker eens naar Aardbeien fantastik en passievruchten fantastik.
 
-
 <!--more-->
 
 **Rabarberlamellen**
