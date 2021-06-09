@@ -1,6 +1,6 @@
 ---
 date: 2021-06-09
-title: Fantastik rabarber/vanille/tonka
+title: Fantastik rabarber, vanille en tonka
 categories:
   - taarten
 featured_image: /images/Fantastik_Marie_keramiek800.jpg
