@@ -65,8 +65,7 @@ Plaats in de vriezer.
 
 Breng de room, melk, vanillemerg en geraspte tonka aan de kook.
 Meng de dooiers met de suiker en giet de kokende massa al roerend erbij.
-Plaats de pan opnieuw op het vuur en verwarm alles tot 85°C.
-Voeg de geweekte gelatine toe en mix tot een homogene crème.
+Plaats de pan opnieuw op het vuur en verwarm alles tot 85°C. Giet door een zeef, voeg de geweekte gelatine toe en mix tot een homogene crème.
 Laat enkele minuten afkoelen en giet op de ingevroren rabarberlamellen.
 Zet opnieuw in de vriezer tot de crème hard is. Minstens een uur. Deze kan gerust, afgedekt met plasticfolie, een week op voorhand gemaakt worden.
 
