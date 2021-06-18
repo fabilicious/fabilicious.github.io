@@ -15,8 +15,9 @@ recipe:
     * 1/2 merg van een vanillestok
     * 27g puddingpoeder of maizena
     * 60g suiker (of meer voor de zoetekauw)
-    * 3 eidooiers 
-    * 120g à 150g rozijnen    * 1 losgeklopt ei om te doreren
+    * 3 eidooiers
+
+    **Afwerking:**     * 120g à 150g rozijnen    * 1 losgeklopt ei om te doreren
     * 2 à 3 eetlepels abrikozenconfituur
     * enkele eetlepels fondantsuiker
 
