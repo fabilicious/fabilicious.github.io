@@ -21,10 +21,10 @@ recipe:
     * enkele eetlepels fondantsuiker
 
 ---
-De beste lange suissen ooit (ook wel Zwitserse brioche of brioche suisse genoemd), volgens onze zoon. Daar zit tenminste banketbakkersroom in.
-Ik moet toegeven voor één keer laat ik mijn perfectionistisch kantje achterwege en gebruik ik in tegenstelling tot de meeste recepten meer banketbakkersroom.
-Dus geen lange suisse strak in het pak, maar uitpuilend van de crème.
-Ben je zeker Bram dat je niet naar huis komt dit weekend?
+De beste lange suissen (ook wel Zwitserse brioche of brioche suisse genoemd) ooit, toch volgens onze zoon. 'Er zit tenminste genoeg banketbakkersroom in.'
+Ik moet toegeven dat ik voor één keer mijn perfectionistisch kantje achterwege laat en in tegenstelling tot de meeste recepten meer banketbakkersroom gebruik.
+Dus geen lange suissen strak in het pak, maar uitpuilend van de crème.
+Ben je zeker dat je dit weekend niet langskomt, Bram?
 
 
 
@@ -69,7 +69,7 @@ Bestrijk de brioches en eindig metbeen laagje fondantsuiker.
 Je kan de rozijnen vervangen door bakvaste chocoladedruppels.
 
 
-
+![](/images/langesuisseV21200.jpg)
 
 
 
