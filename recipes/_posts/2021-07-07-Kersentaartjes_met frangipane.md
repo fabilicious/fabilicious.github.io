@@ -32,10 +32,10 @@ chocoladeroom en uiteraard de kers(en) op de taart.
 
 **Witte chocoladeroom**
 
-De avond  ervoor de room met het zout aan de kook brengen en op de callets gieten. Met staafmixer alles goed mixen. Laten afkoelen, afdekken en 1 nacht in de koelkast bewaren. Opkloppen en in spuitzak doen. Opgelet dit gaat vrij vlug!
+De avond  ervoor de room met het zout aan de kook brengen en op de callets gieten. Met staafmixer alles goed mixen. Laten afkoelen, afdekken en 1 nacht in de koelkast bewaren. Opkloppen (opgelet dit gaat vrij vlug!) en in spuitzak met spuitmondje doen.
 **Zanddeeg**
 
-Doe al de ingrediënten in een kom, behalve het ei.
+Doe al de ingrediënten, behalve het ei, in een kom.
 Meng met de hand of keukenrobot tot een zanderige structuur.
 Voeg het ei toe en meng kort tot een homogeen deeg.
 Verpak in plasticfolie en leg 2 uur in de koelkast.
