@@ -12,7 +12,7 @@ recipe:
     **Zanddeeg:**
     * 45g bloemsuiker
     * 15g amandelmeel
-    * 125g bloem T 55 of patisseriebloem, gezeefd
+    * 125g bloem T55 of patisseriebloem, gezeefd
     * 1g zout
     * 55g zachte boter
     * 30g ei
@@ -44,7 +44,8 @@ De ringen met boter instrijken. Het deeg uitrollen tot een dikte van 2,5cm.
 Dit gaat gemakkelijker tussen 2 vellen bakpapier.
 Wordt het deeg bij het uitrollen te kleverig, stop dan opnieuw een 10-tal minuten in de koelkast.
 
-Leg het deeg in de ringen, druk mooi aan en plaats 2 uur in de vriezer of tenminste 12 uur in de koelkast.
+Duw met een uitsteekvorm 6 rondjes met diameter 12cm uit. Plaats opnieuw 10 minuten in de koelkast alvorens ze in de ringen te leggen en mooi aan te drukken.
+Zet 2 uur in de vriezer of tenminste 12 uur in de koelkast.
 
 **Frangipane**
 
@@ -63,7 +64,7 @@ Dit kan je de dag voordien gerust maken en in een goed afgesloten doos bewaren.
 Hou 6 kersen met de steel apart.
 Halveer en ontpit een deel van de kersen. Je zal ze waarschijnlijk niet allemaal nodig hebben.
 
-Strijk 1 eetlepel frambozenconfituur over de frangipane.
+Strijk 1 eetlepel [frambozenconfituur](https://fabilicious.be/recipes/confituurenchocopasta/2018/11/11/frambozenconfituur/) over de frangipane.
 Schik de kersen romdom, spuit in het midden de witte chocoladeroom en plaats een kers erop.
 
 <b>Tip: <b/>
