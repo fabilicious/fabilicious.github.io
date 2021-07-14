@@ -1,6 +1,6 @@
 ---
 date: 2021-07-14
-title: Vegan venkelpesto
+title: Vegan venkelloofpesto
 categories:
   - bijgerechten
 featured_image: /images/veganvenkelpestoV11200.jpg
