@@ -12,9 +12,10 @@ recipe:
     * 25g pijnboompitten
     * 10 eetlepels goeie olijfolie
     * 40g gemalen Violife Prosociano wedge (of Parmezaanse kaas voor de liefhebber)
-    * zout naar smaak
+    * zout naar smaak
+
 ---
-To good to go! We gooien het loof van de venkel niet weg maar maken er een heerlijke vegan  pesto van.
+Too good to go! We gooien het loof van de venkel niet weg maar maken er een heerlijke vegan  pesto van.
 
 <!--more-->
 
