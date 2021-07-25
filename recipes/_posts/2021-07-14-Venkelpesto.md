@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 date: 2021-07-14
 title: Vegan venkelloofpesto
