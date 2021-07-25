@@ -16,7 +16,7 @@ recipe:
     * 3 theelepels venkelzaad
     * 1 theelepel zwarte peperkorrels
     * 1 theelepel komijnzaad
-    * 5 eetlepels mayonaise
+    * 5 eetlepels (vegan) mayonaise 
     * 1 eetlepel witte wijnazijn    * 1/2 bosje dille
 ---
 In deze zomerse side dish zorgt de rode spitskool voor een zoete toets en een verrassende kleur.
