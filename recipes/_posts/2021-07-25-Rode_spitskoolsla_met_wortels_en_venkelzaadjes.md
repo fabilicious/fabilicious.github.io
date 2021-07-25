@@ -1,6 +1,6 @@
 ---
 date: 2021-07-25
-title: rode spitskool met wortels en venkelzaadjes
+title: Rode spitskool met wortels en venkelzaadjes
 categories:
   - salades
 featured_image: /images/spitskool-wortelsalade1200.jpg
