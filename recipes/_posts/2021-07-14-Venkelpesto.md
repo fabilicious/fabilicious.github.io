@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 date: 2021-07-14
 title: Vegan venkelloofpesto
@@ -26,6 +27,8 @@ Bewaar in de koelkast.
 
 
 =======
+=======
+>>>>>>> 73b5edb1f1ac49b5403dde2cb8cc83a2dd35165d
 =======
 >>>>>>> 73b5edb1f1ac49b5403dde2cb8cc83a2dd35165d
 =======
@@ -60,6 +63,9 @@ Bewaar in de koelkast.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 73b5edb1f1ac49b5403dde2cb8cc83a2dd35165d
+=======
 >>>>>>> 73b5edb1f1ac49b5403dde2cb8cc83a2dd35165d
 =======
 >>>>>>> 73b5edb1f1ac49b5403dde2cb8cc83a2dd35165d
