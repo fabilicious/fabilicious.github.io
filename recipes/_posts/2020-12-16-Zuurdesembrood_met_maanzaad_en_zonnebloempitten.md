@@ -41,7 +41,7 @@ Weeg stukken van 680g af en bol ze op.
 Geef 15 minuten bolrijs.
 
 Bol de broden herop en zet ze aan met maanzaad.
-Leg de broden op een de bakplaten. Ik leg ze op met silicone mat bedekte bakplaten.
+Leg de broden op met een silicone mat bedekte bakplaten.
 
 Geef narijs van 1 uur.
 
