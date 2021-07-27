@@ -23,7 +23,7 @@ recipe:
 ---
 De klassiek tinto de verano is naast de sangria het zomerdrankje van de Spanjaarden.
 Een frisse, goedkope wijn wordt aangelengd met Gaseosa (frisdrank). Bij ons niet altijd verkrijgbaar, maar kan door Fanta citroen vervangen worden.
-In Malasaña de hippe wijk van Madrid bevindt zich het trendy tapas restaurant ‘Ochenta Grados’.
+In Malasaña, een hippe wijk van Madrid, bevindt zich het trendy tapas restaurant ‘Ochenta Grados’.
 Hun tinto de verano wordt met een luchtige espuma van citroen geserveerd. Hemels!
 Na enkele pogingen en dankzij het recept van El Bulli voor de espuma ben ik super tevreden met het resultaat. Zomer of niet: het zal smaken.
 
