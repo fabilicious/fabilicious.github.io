@@ -21,7 +21,7 @@ recipe:
     
 
 ---
-De klassiek tinto de verano is naast de sangria het zomerdrankje van de Spanjaarden.
+De klassieke tinto de verano is naast de sangria het zomerdrankje van de Spanjaarden.
 Een frisse, goedkope wijn wordt aangelengd met Gaseosa (frisdrank). Bij ons niet altijd verkrijgbaar, maar kan door Fanta citroen vervangen worden.
 In Malasaña, een hippe wijk van Madrid, bevindt zich het trendy tapas restaurant ‘Ochenta Grados’.
 Hun tinto de verano wordt met een luchtige espuma van citroen geserveerd. Hemels!
