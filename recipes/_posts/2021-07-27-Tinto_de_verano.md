@@ -12,7 +12,7 @@ recipe:
     * 100g suikersiroop (50/50)
     * 100g water
     * 3g blaadjes gelatine, geweekt in koud water
-    * 30g procrema
+    * 30g pro espuma cold
 
     **Tinto de verano:**
     * 1 fles rode wijn (Spaanse, frisse goedkope wijn)
