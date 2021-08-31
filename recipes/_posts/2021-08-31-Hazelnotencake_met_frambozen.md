@@ -3,7 +3,7 @@ date: 2021-08-31
 title: Hazelnotencake met frambozen
 categories:
   - cake
-featured_image: /images/cake_hazelnoot_framboos1200.jpg
+featured_image: /images/cakehazelnootframboos1200.jpg
 recipe:
   servings: 1 cake van 350g
   ingredients_markdown: |-
