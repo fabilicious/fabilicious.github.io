@@ -31,7 +31,7 @@ Maak de vinaigrette door mosterd, heet water, olie en azijn te mengen.
 Giet een deel over de nog warme aardappelen, voeg de kappertjes erbij en meng voorzichtig. 
 Breng op smaak met peper en zout.
 Je zal waarschijnlijk nog wat vinaigrette over hebben, maar deze kan je in de koelkast bewaren.
-Doe de groene kruiden, radijzen en eventueel de olijven net voor het opdienen erbij. 
+Doe de groene kruiden en de radijzen net voor het opdienen erbij. 
 
 
 
