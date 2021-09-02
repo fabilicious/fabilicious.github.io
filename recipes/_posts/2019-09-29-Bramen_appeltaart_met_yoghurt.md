@@ -25,8 +25,7 @@ Het lijkt vandaag of de herfst zijn intrede heeft gedaan. Daarom deze passende b
 **Zanddeeg**
 
 Alle ingrediënten zeer kort mengen en in de koelkast  1 uur laten opstijven.Het deeg uitrollen en in de beboterde ring plaatsen. Met een vork inprikken, afdekken met plasticfolie en in de koelkast 20 min. laten rusten.
-Blind bakken op 180°C ongeveer 15 min.
-Je zal zeker deeg over hebben. Dat kan je invriezen of kleine zandkoekjes mee maken.**Vulling**
+Blind bakken op 180°C ongeveer 15 min.**Vulling**
 
 Meng yoghurt, suiker, bloem, eieren, vanille . Voeg de appels toe.
 
