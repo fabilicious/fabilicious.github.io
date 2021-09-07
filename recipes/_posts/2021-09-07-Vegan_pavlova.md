@@ -10,7 +10,7 @@ recipe:
     **Vegan meringues:**
     * 100ml kikkererwtenvocht (Het vocht van een blik kikkererwten van 400ml)    * 110g kristalsuiker
 
-    ** Afwerking:**
+    **Afwerking:**
     * 250 à 300g Flora Plantaardig 31% vet
     * verschillende rode vruchten naar keuze (frambozen, bosbessen, aardbeien,…)
 ---
