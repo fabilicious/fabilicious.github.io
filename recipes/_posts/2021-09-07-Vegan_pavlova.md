@@ -2,7 +2,7 @@
 date: 2021-09-07
 title: Vegan Pavlova met rode vruchten
 categories:
-  - koekjesEnKleingebak
+  - koekjesEnKleinGebak
 featured_image: /images/pavlova1200.jpg
 recipe:
   servings: 7 à 8 stuks
@@ -17,7 +17,7 @@ recipe:
 Het leek mij een leuke uitdaging om voor de vegan collega’s van manlief een dessert te maken ter gelegenheid van zijn verjaardag.
 Meringues maken van kikkererwtenvocht of aquafaba stond al een tijdje op de agenda en aangezien ik de Flora Plantaardige slagroom 31% (voorlopig enkel in de professionele groothandel te koop) wou uitproberen kwam ik al vlug op volgende recept.
 Vegan pavlova’s met opgeklopte plantbased room en rode vruchtjes.
-Het dessertje werd warm onthaald ook van de niet vegans onderons.
+Het dessertje werd warm onthaald ook door de niet-vegans onderons.
 
 Van nu af aan wordt er geen aquafaba meer weggegoten.
 Gebruik je ze niet meteen, dan kan je ze makkelijk invriezen.
