@@ -51,6 +51,6 @@ Spatel wat room op de meringues en verdeel er de rode vruchten over.
 
 <b>Tip: <b/>
 
-Lekker met wat frambozencoulis erbij en met een extra bolletje sorbet of ijs naar keuze maak je er een topdessert van.
+Lekker met wat frambozencoulis erbij. Met een extra bolletje sorbet of ijs naar keuze maak je er een topdessert van.
 
 
