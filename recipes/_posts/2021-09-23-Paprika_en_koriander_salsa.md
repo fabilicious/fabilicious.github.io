@@ -19,10 +19,10 @@ Verfrissend en vooral heel gezond!
 
 <!--more-->
 
-Doe al de ingrediënten in een keukenrobot en mix heel kort of gebruik liever de pulse knop.
+Doe al de ingrediënten in een keukenrobot en mix heel kort of gebruik liever de pulseknop.
 Het is de bedoeling dat de groenten in fijne stukjes zijn, zodat je nog voldoende beet hebt.
 Bewaar in de koelkast.
 
 <b>Tip: </b>
-Deze salsa kan je ook als bijgerecht op een zomerse barbecue.
+Deze salsa kan ook als bijgerecht op een zomerse barbecue.
 
