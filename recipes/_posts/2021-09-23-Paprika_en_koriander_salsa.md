@@ -1,6 +1,6 @@
 ---
 date: 2021-09-23
-title: Paprika en koriander salsa
+title: Paprika en koriandersalsa
 categories:
   - bijgerechten
 featured_image: /images/Relish1200.jpg
