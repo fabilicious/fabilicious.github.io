@@ -1722,7 +1722,7 @@
    * @returns {lunr.Index~Result[]}
    */
   lunr.Index.prototype.search = function (queryString) {
-    queryString = '*'+queryString+'*'
+    queryString = queryString + '~1' + ' ' + queryString + '*'   /*'*'+queryString+'*' */
     return this.query(function (query) {
       var parser = new lunr.QueryParser(queryString, query)
       parser.parse()
