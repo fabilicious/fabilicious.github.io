@@ -20,7 +20,8 @@ Het is een wispelturig deeg en heb verschillende recepten uitgeprobeerd om uitei
 
 <!--more-->
 
-375g melk met het  merg van de vanillestok  en de boter opwarmen, tot de boter volledig gesmolten is.Pan van het vuur nemen en de rest van de melk toevoegen. Botermengsel  beetje per beetje bij de bloem toevoegen.Eieren loskloppen en de rhum toevoegen. Dit bij het deeg gieten en voorzichtig mengen.In de koelkast 1 nacht afgedekt bewaren. Het beslag wordt dikker met in de koelkast te staan. De siliconen vormpjes met de gesmolten cacaoboter instrijken. Deze vullen tot net onder de rand. Bakken op 180° gedurende  40 à 50 minuten.Je laat ze best afkoelen in de vorm. 
+375g melk met het  merg van de vanillestok  en de boter opwarmen, tot de boter volledig gesmolten is.Pan van het vuur nemen en de rest van de melk toevoegen. Botermengsel  beetje per beetje bij de bloem toevoegen.Eieren loskloppen en de rhum toevoegen. Dit bij het deeg gieten en voorzichtig mengen.In de koelkast 1 nacht afgedekt bewaren. Het beslag wordt dikker met in de koelkast te staan.
+Oven en bakplaat voorverwarmen op 200°C. De siliconen vormpjes met de gesmolten cacaoboter instrijken. Deze vullen tot net onder de rand. Bakken op 180° gedurende 40 à 50 minuten.Je laat ze best afkoelen in de vorm. 
 Zijn ze na het ontvormen nog te bleek dan kan je ze, zonder de vorm, in de oven nog wat langer bakken.
 
 <b>Tip: </b>
