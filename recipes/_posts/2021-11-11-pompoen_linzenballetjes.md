@@ -5,7 +5,7 @@ categories:
   - vegetarisch
 featured_image: /images/pompoen_linzenballetjesV21200.jpg
 recipe:
-  servings: ca.30stuks
+  servings: ca.30 stuks
   ingredients_markdown: |-
     * 250g rode linzen
     * 200g Butternutpompoen, grof geraspt
@@ -15,7 +15,7 @@ recipe:
     * 140g gemalen emmentaler kaas
     * 1 theelepel komijnpoeder
     * zwarte peper en zout
-    * 1/2 tot 1 afgestreken eetlepel rozenharissa of andere harissa     * 120g poleneta
+    * 1/2 tot 1 afgestreken eetlepel rozenharissa of andere harissa     * 120g polenta
 ---
 Bij het schrijven van dit recept had ik er al een goed gevoel bij, maar was toch nog ongelooflijk verbaasd hoeveel smaak er in deze kleine balletjes zaten.
 Een gezond aperitiefhapje of een volwaardige vegetarische maaltijd als je er een couscoussalade bij serveert! 
