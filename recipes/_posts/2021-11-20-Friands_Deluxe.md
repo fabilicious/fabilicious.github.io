@@ -11,12 +11,12 @@ recipe:
 ---
 Friands zijn volgens mij de beste amandelcakejes die ik ken.
 Ze blijven in een afgesloten doos lang goed en drogen niet snel uit.
-Friends Deluxe is nog een level hoger!
-voorzien van een laagje chocolade en bestrooid met amandelschilfers is dit de max!
+Friands Deluxe is nog een level hoger!
+Voorzien van een laagje chocolade en bestrooid met amandelschilfers is dit de max!
 
 <!--more-->
 
-De droge ingrediënten mengen, het vloeibare eiwit toevoegen en daarna de gesmolten boter.In een spuitzak laten opstijven in de koelkast.In de vormpjes spuiten, bestrooien met amandelschilfers en afbakken op 200°C (10 à 12 minuten) Op een rooster laten afkoelen.De bodem van de friands in de gesmolten chocolade dippen.Wat laten afdruipen  en op bakpapier laten hard worden.
+De droge ingrediënten mengen, het vloeibare eiwit toevoegen en daarna de gesmolten boter.In een spuitzak laten opstijven in de koelkast.In de vormpjes spuiten, bestrooien met amandelschilfers en afbakken op 200°C (10 à 12 minuten). Op een rooster laten afkoelen.De bodem van de friands in de gesmolten chocolade dippen, afdruipen en op bakpapier laten hard worden.
 
 
 
