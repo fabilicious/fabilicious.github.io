@@ -7,7 +7,7 @@ featured_image: /images/Suikerbrood_thumb.jpg
 recipe:
   servings: 2 suikerbroodjes
   ingredients_markdown: |-
-    <b>Binnendeeg:</b>
+    <b>Buitendeeg:</b>
     * 300 g tarwebloem
     * 125 g volle melk
     * 75 g ei
@@ -15,7 +15,7 @@ recipe:
     * 6 g zout
     * 5 g suiker
 
-    <b>Buitendeeg:</b>
+    <b>Binnendeeg:</b>
     * 85 g tarwebloem
     * 85 g boter (zacht)
     * 30 g suiker
