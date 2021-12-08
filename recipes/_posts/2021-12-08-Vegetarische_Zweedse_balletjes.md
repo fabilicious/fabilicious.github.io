@@ -1,5 +1,5 @@
 ---
-date: 2020-12-08
+date: 2021-12-08
 title: Vegetarische Zweedse balletjes met geroosterde boerenkool en duindoornvinaigrette
 categories:
   - vegetarisch
