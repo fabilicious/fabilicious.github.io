@@ -64,5 +64,4 @@ Verdeel de boerenkool en de balletjes over de borden, besprenkel met de dressing
 <b>Tip: </b>
 
 Ik heb altijd een bokaaltje lingonberrycompote van Ikea staan, maar je kan ook zelf aan de slag.
-Ik heb 100g arboriorijst in 200ml groentebouillon gekookt gedurende 15 à 18 minuten.
-En dan 200g afgewogen.
+Voor de rijst: 100g arboriorijst in 200ml groentebouillon koken gedurende 15 à 18 minuten. 200g afwegen.
