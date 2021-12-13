@@ -11,14 +11,14 @@ recipe:
     * 340g room 35% vet
     * zeste van 2 limoenen
     * 4g gelatine, in koud water geweekt
-    * 70g ( 60g)limoensap (2 à 3 limoenen)
+    * 70g ( 60g) limoensap (2 à 3 limoenen)
     * 40g citroensap (1 à 2)
     * 90g witte chocolade, in kleine stukjes (Ivoir blanc van Valrhona of een ander merk)
     * 6g cacaoboter of witte chocolade
 
     **Japanse biscuit:**
     * 100g volle melk
-    * 1OOg bloem T55 of patisseriebloem 
+    * 100g patisseriebloem 
     * 70g boter
     * 70g eieren
     * 140g eiwitten
@@ -47,7 +47,7 @@ Meng met een houten lepel.
 Plaats opnieuw op een zacht vuur en laat het deeg 2 à 3 minuten drogen.
 Het deeg zal een bal vormen en wat aanbakken aan de bodem.
 Haal van het vuur en stort het deeg in een andere kom. Klop enkele minuten verder tot het wat is afgekoeld.
-Doe nu beetje per beetje de volledige eieren toe en één voor één de dooiers.
+Voeg nu beetje per beetje de volledige eieren toe en daarna één voor één de dooiers.
 Als het ei in het deeg is opgenomen pas dan meng je er de volgende dooier onder.
 
 Eiwitten stijf opkloppen en de suiker beetje per beetje toevoegen.
@@ -71,3 +71,5 @@ het hoeft echt niet veel te zijn.
 Laat enkele uren in de koelkast opstijven.
 Rol voor het opdienen de taart door de nootjes.
 De dag erna is de biscuitrol nog altijd lekker, misschien zelfs nog beter.
+
+![](/images/biscuitrol_citroen_pralinéV31200.jpg)
