@@ -3,7 +3,7 @@ date: 2021-12-13
 title: Biscuitrol citroen-praliné
 categories:
   - taarten
-featured_image: /images/biscuitrol_citroen_pralinéV21200BW.jpg
+featured_image: /images/biscuitrol1200BW.jpg
 recipe:
   servings: 10 personen
   ingredients_markdown: |-
