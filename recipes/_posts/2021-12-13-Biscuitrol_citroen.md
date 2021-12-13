@@ -72,4 +72,4 @@ Laat enkele uren in de koelkast opstijven.
 Rol voor het opdienen de taart door de nootjes.
 De dag erna is de biscuitrol nog altijd lekker, misschien zelfs nog beter.
 
-![](/images/biscuitrol_citroen_pralinéV31200.jpg)
+![](/images/biscuitrol1200BW.jpg)
