@@ -62,7 +62,7 @@ Laat volledig afkoelen. Snijd de randjes mooi af zodat je een strakke rechthoek 
 
 **Afwerken**
 
-Klop de citroenganache op. Dit kan een tijdje duren.
+Klop de citroenganache op.
 
 Smeer de pralinépasta gelijkmatig over het deeg, vervolgens de citroenganache.
 Hou 2 eetlepels ganache over voor later.
