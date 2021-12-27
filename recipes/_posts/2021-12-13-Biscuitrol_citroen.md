@@ -66,10 +66,8 @@ Klop de citroenganache op.
 
 Smeer de pralinépasta gelijkmatig over het deeg, vervolgens de citroenganache.
 Hou 2 eetlepels ganache over voor later.
-Rol de biscuit op en strijk de overige ganache aan de buitenkant dun uit.
-het hoeft echt niet veel te zijn.
-Laat enkele uren in de koelkast opstijven.
-Rol voor het opdienen de taart door de nootjes.
+Rol de biscuit op, laat enkele uren in de koelkast opstijven. 
+Bestrijk de rol voor het opdienen met een dun laag ganache en rol door de nootjes.
 De dag erna is de biscuitrol nog altijd lekker, misschien zelfs nog beter.
 
 ![](/images/biscuitrol_citroen_praliné800.jpg)
