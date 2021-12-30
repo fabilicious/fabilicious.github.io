@@ -5,7 +5,7 @@ categories:
   - voorgerechten
 featured_image: /images/gerooktezalmtartaar1200.jpg
 recipe:
-  servings: 4 peronen
+  servings: 4 personen
   ingredients_markdown: |-
     * 100g gerookte zalm, fijngesneden
     * 100g rauwe zalm, in fijn gesneden
@@ -29,7 +29,7 @@ De gerookte zalm en de rauwe zalm mengen met de bleekselderij.
 Op smaak brengen met peper en zout.
 Dresseer 50g zalm met behulp van een dresseerring op een bord.
 Leg de radijzen dakpansgewijs op de zalm.
-Decoreer met luzerngescheuten en werk af met dopjes platte kaas of zure room.
+Decoreer met luzernescheuten en werk af met dopjes platte kaas of zure room.
 Bestrooi met de sesamzaadjes.
 
 
