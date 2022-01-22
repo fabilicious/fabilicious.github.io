@@ -15,8 +15,18 @@ De meeste broden die ik vandaag bak zijn op basis van zuurdesem.Een jaar gelede
 <!--more-->
 
 Doe desem, bloemsoorten en het water in een keukenrobot en kneed tot alles goed is gemengd (ongeveer 4 minuten).Laat het deeg afgedekt 20 à 30 minuten rusten.Voeg het zout en de droge gist toe en kneed tot een soepel deeg (6 à 10 minuten).Neem een kom en smeer die lichtjes in met zonnebloemolie. Doe het deeg hierin en draai 1keer om zodat alle kanten met de olie bedekt zijn.Kom afdekken en 1 uur op kamertemperatuur laten rijzen.Stort het deeg op een siliconen mat. Vouw het deeg 2 keer zoals een brief in drieën. Het deeg opnieuw afgedekt in de kom 1 uur laten rijzen.Verdeel het deeg in 3 gelijke stukken en bol lichtjes op. Afgedekt 20 min laten liggen.Vervolgens de broden mooi en stevig opbollen.Heb je zoals ik geen rijsmanden dan leg je de broden met de naden naar beneden op een met siliconen mat bedekte bakplaat. In het originele recept worden de broden 8 à 12 uur in de koelkast gestopt. Dan 1 à 4 uur op kamertemperatuur verder laten rijzen, om dan te bakken. De smaak zou hierdoor nog meer evolueren (iets zuurder). Ik merkte eigenlijk niet zoveel verschil.
-Ik sla deze stap over. Na het opbollen laat ik de broden 60 à 90 minuten verder rijzen of tot ze 2/3 in volume zijn toegenomen.Oven voorverwarmen op 235° en bakken op 220° 25 à 35 minuten.
+Ik sla deze stap over. Na het opbollen laat ik de broden 60 à 90 minuten verder rijzen of tot ze 2/3 in volume zijn toegenomen.
 
+Verwarm de oven op 235°C minstens een half uur voor.
+Zet de laatste 10 minuten een lege hittebestendige schaal onderaan in de oven.
+ 
+Verwarm in de microgolf een kopje met water.
+
+Doe de broden in de oven en giet het opgewarmde water in de hittebestendige schaal.
+Sluit onmiddellijk de deur.
+Verlaag de temperatuur tot 220°C en laat 25 à 35 minuten bakken.
+
+Haal de broden uit de oven en laat op een rooster afkoelen.
 <b>Tip: </b>
 
 Deze broden kan je heel gemakkelijk invriezen. Ik bak ze dan 5 à 10 minuten minder lang dan de aangegeven tijden.Haal het brood uit de vriezer en laat ontdooien.Bak 5 à 10 min. Dan heb je telkens een super krokant broodjeHet recept  heb ik gevonden op de blog [Uit de keuken van Levine](https://uitdekeukenvanarden.blogspot.com/2012/04/hoe-maak-je-zuurdesem.html), maar het oorspronkelijke recept komt uit het boek van de [Bourke street Bakery](https://bourkestreetbakery.com.au).Heb het recept lichtjes aangepast.
