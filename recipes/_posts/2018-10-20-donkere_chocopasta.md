@@ -11,7 +11,7 @@ recipe:
     * 125g room
     * 70g acaciahoning
     * 150g donkere chocolade callets (gebruik meestal callebout 811)
-    * merg van een vanillestok
+    * merg van een vanillestok (facultatief)
     
 ---
 Chocopasta wordt bij ons nooit gekocht, maar in onze keukenkast staat wel altijd een lekkere homemade choco te lonken.

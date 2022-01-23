@@ -2,7 +2,7 @@
 date: 2020-07-29
 title: Zomerse mocktail met Crodino en frambozen.
 categories:
-  - bijgerechten
+  - divers
 featured_image: /images/Mocktail_framboos_crodino1200.jpg
 recipe:
   servings: Per persoon
