@@ -12,7 +12,7 @@ recipe:
     * 8 eieren gesplitst (8 dooiers en 8 eiwitten) 
     * 300g zelfrijzend bakmeel
     * 200g patisseriebloem
-    * 1 kg appels geschild en in stukken gesneden  
+    * 1 kg appels, schillen en in stukken snijden
     * Facultatief 150g frambozen
 ---
 Tijdens het plukken van de o zo mooie rode appels van mijn halfstammig appelboompje dacht ik terug aan mijn kinderjaren. 
