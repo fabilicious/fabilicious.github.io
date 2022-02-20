@@ -18,8 +18,7 @@ Met dit pronkstuk kan je bij je gasten alleen maar punten scoren en een glimlach
 Pain Couronne Bordelaise is gemaakt met 8 of 9 bollen in de vorm van een cirkel.
 De meeste broden zijn veel groter. Maar ik vond het fijn om er kleinere versies van te maken.
 
-<!--more-->.
-
+<!--more-->
 Meng bloem en water en laat één uur rusten. (Autolyse)
 Voeg daarna zout, desem en eventueel de gist toe.
 Kneed het deeg met keukenrobot of met de hand.
