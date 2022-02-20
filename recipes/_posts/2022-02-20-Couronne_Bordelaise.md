@@ -48,6 +48,8 @@ De bollen van 130g ga je met een deegrol uitrollen tot een ronde schijf en in he
 De rand met een beetje olijfolie instrijken.
 De andere 16 bol je mooi op en leg je in de mand met de naad naar boven.
 
+![](/images/Couronnewerkwijze2.jpg)
+
 
 Snij het midden in en leg het losgekomen deel over elke bol.
 
