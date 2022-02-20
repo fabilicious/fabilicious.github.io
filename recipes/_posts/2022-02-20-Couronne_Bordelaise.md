@@ -44,11 +44,13 @@ Bol lichtjes op en laat 15 minuten rusten.
 
 De bollen van 130g ga je met een deegrol uitrollen tot een ronde schijf en in het midden van een rijstmand over het verhoogde deel leggen.
 
+![](/images/Couronnewerkwijze2.jpg)
+
 
 De rand met een beetje olijfolie instrijken.
 De andere 16 bol je mooi op en leg je in de mand met de naad naar boven.
 
-![](/images/Couronnewerkwijze2.jpg)
+![](/images/Couronnewerkwijze3.jpg)
 
 
 Snij het midden in en leg het losgekomen deel over elke bol.
