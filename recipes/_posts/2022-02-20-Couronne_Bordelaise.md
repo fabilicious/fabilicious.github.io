@@ -7,7 +7,7 @@ featured_image: /images/couronne_bordelaisV1.jpg
 recipe:
   servings: 2 kronen
   ingredients_markdown: |-
-    * 645g tarwebloem T65 (Ik gebruik graag T65-baguette van de 'Molens van Oudenaarde')    * 20g roggemeel
+    * 645g tarwebloem T65 (Ik gebruik graag T65 - super baguette van de 'Molens van Oudenaarde')    * 20g roggemeel
     * 12g zout
     * 410 water 
     * 135g actieve desem
@@ -19,10 +19,10 @@ Pain Couronne Bordelaise is gemaakt met 8 of 9 bollen in de vorm van een cirkel.
 De meeste broden zijn veel groter. Maar ik vond het fijn om er kleinere versies van te maken.
 
 <!--more-->
-Meng bloem en water en laat één uur rusten. (Autolyse)
-Voeg daarna zout, desem en eventueel de gist toe.
+Meng bloem en water en laat één uur rusten (autolyse).
+Voeg daarna zout, desem en de gist toe.
 Kneed het deeg met keukenrobot of met de hand.
-Voeg op het einde van het kneden het water beetje per beetje toe. ( Bijwassen ).
+Voeg op het einde van het kneden het water beetje per beetje toe (bijwassen).
 Dit zorgt voor sterkte in het deeg.
 
 Doe het deeg in een met olie bestreken plastieken kom.
@@ -32,23 +32,23 @@ Het deeg dichtvouwen en opnieuw 1 uur afgedekt laten rusten.
 Opnieuw het deeg dichtvouwen.
 Doe het deeg terug in de plastieken kom en plaats afgedekt 12 à 14 uur in de koelkast. 
 
-Haal de volgende dag het deeg uit de kom op een met bloem bestoven werkvlak.
+Haal het deeg de volgende dag uit de kom en leg op een met bloem bestoven werkvlak.
 
-Neem 2 rijstmanden met linnen en een verhoog in het midden, bestrooien met bloem.
-Als je geen rijstmanden hebt dan kan je 2 taartvormen gebruiken ( ca. 22-24 doorsnede ) en plaats een ramequin in het midden. Plaats er een keukenhand over en bestrooi met wat bloem.
+Neem 2 rijsmanden met linnen en een verhoog in het midden, bestrooi met bloem.
+Als je geen rijsmanden hebt dan kan je 2 taartvormen gebruiken (ca. 22-24 doorsnede) en plaats een ramequin in het midden. Plaats er een keukenhanddoek over en bestrooi met wat bloem.
 
 ![](/images/Couronnewerkwijze1.jpg)
 
-Weeg 16 stukken deeg af van 60g af en 2 van ca. 130g.
+Weeg 16 stukken deeg af van 60g af en 2 van 130g.
 Bol lichtjes op en laat 15 minuten rusten.
 
-De bollen van 130g ga je met een deegrol uitrollen tot een ronde schijf en in het midden van een rijstmand over het verhoogde deel leggen.
+De bollen van 130g ga je met een deegrol uitrollen tot een ronde schijf en in het midden van elke rijsmand over het verhoogde deel leggen.
 
 ![](/images/Couronnewerkwijze2.jpg)
 
 
 De rand met een beetje olijfolie instrijken.
-De andere 16 bol je mooi op en leg je in de mand met de naad naar boven.
+De andere 16 bol je mooi op en leg telkens 8 per mand met de naad naar boven.
 
 ![](/images/Couronnewerkwijze3.jpg)
 
