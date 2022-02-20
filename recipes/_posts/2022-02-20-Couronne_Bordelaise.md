@@ -1,5 +1,5 @@
 ---
-date: 2022-02-22
+date: 2022-02-20
 title: Couronne Bordelaise
 categories:
   - broodEnOntbijtgranen
