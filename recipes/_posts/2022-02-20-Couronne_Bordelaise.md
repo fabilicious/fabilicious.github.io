@@ -45,16 +45,12 @@ Bol lichtjes op en laat 15 minuten rusten.
 
 De bollen van 130g ga je met een deegrol uitrollen tot een ronde schijf en in het midden van een rijstmand over het verhoogde deel leggen.
 
-![](/images/Couronne_werkwijze2.jpg)
 
 De rand met een beetje olijfolie instrijken.
 De andere 16 bol je mooi op en leg je in de mand met de naad naar boven.
 
-![](/images/Couronne_werkwijze3.jpg)
 
 Snij het midden in en leg het losgekomen deel over elke bol.
-
-![](/images/Couronne_werkwijze4.jpg)
 
 Bestrooi lichtjes met bloem en laat 45 minuten afgedekt rijzen.
 
