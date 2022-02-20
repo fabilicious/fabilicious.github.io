@@ -55,6 +55,8 @@ De andere 16 bol je mooi op en leg je in de mand met de naad naar boven.
 
 Snij het midden in en leg het losgekomen deel over elke bol.
 
+![](/images/Couronnewerkwijze4.jpg)
+
 Bestrooi lichtjes met bloem en laat 45 minuten afgedekt rijzen.
 
 Het deeg op bakpapier storten en het overtollige deeg voorzichtig met borstel verwijderen.
