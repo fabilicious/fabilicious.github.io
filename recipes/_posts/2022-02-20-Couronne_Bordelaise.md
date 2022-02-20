@@ -35,14 +35,14 @@ Doe het deeg terug in de plastieken kom en plaats afgedekt 12 à 14 uur in de ko
 Haal het deeg de volgende dag uit de kom en leg op een met bloem bestoven werkvlak.
 
 Neem 2 rijsmanden met linnen en een verhoog in het midden, bestrooi met bloem.
-Als je geen rijsmanden hebt dan kan je 2 taartvormen gebruiken (ca. 22-24 doorsnede) en plaats een ramequin in het midden. Plaats er een keukenhanddoek over en bestrooi met wat bloem.
+Als je geen rijsmanden hebt dan kan je 2 taartvormen gebruiken (ca. 22-24 doorsnede) en plaats een ramequin in het midden. Leg er een keukenhanddoek over en bestrooi met wat bloem.
 
 ![](/images/Couronnewerkwijze1.jpg)
 
-Weeg 16 stukken deeg af van 60g af en 2 van 130g.
+Weeg 16 stukken deeg van 60g af en 2 van 130g.
 Bol lichtjes op en laat 15 minuten rusten.
 
-De bollen van 130g ga je met een deegrol uitrollen tot een ronde schijf en in het midden van elke rijsmand over het verhoogde deel leggen.
+De bollen van 130g rol je met een deegrol uit tot een ronde schijf en leg je in het midden van elke rijsmand over het verhoogde deel.
 
 ![](/images/Couronnewerkwijze2.jpg)
 
@@ -59,16 +59,14 @@ Snij het midden in en leg het losgekomen deel over elke bol.
 
 Bestrooi lichtjes met bloem en laat 45 minuten afgedekt rijzen.
 
-Het deeg op bakpapier storten en het overtollige deeg voorzichtig met borstel verwijderen.
+Het deeg op bakpapier storten en de overtollige bloem voorzichtig met een borstel verwijderen.
 
 Verwarm de oven op 250°C minstens een half uur voor.
 Zet de laatste 10 minuten een lege hittebestendige schaal onderaan in de oven.
- 
-Verwarm in de microgolf een kopje met water.
 
-Doe de broden in de oven en giet het opgewarmde water in de hittebestendige schaal.
+Doe de broden in de oven en giet een beetje water in de hittebestendige schaal.
 Sluit onmiddellijk de deur. 
-Bak 20 minuten op 230°C. Deur van de oven eens openen om het nog aanwezige vocht te verwijderen. Bak 10 minuten verder op 215°C. 
+Bak 20 minuten op 230°C. Open daarna de deur van de oven kort om het nog aanwezige vocht te verwijderen. Bak 10 minuten verder op 215°C. 
 Temperatuur en tijd is steeds een indicatie. Iedere oven is verschillend!
 
 Haal de broden uit de oven en laat op een rooster afkoelen.
