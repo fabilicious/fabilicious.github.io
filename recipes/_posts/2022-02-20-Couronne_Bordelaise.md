@@ -37,7 +37,7 @@ Haal de volgende dag het deeg uit de kom op een met bloem bestoven werkvlak.
 Neem 2 rijstmanden met linnen en een verhoog in het midden, bestrooien met bloem.
 Als je geen rijstmanden hebt dan kan je 2 taartvormen gebruiken ( ca. 22-24 doorsnede ) en plaats een ramequin in het midden. Plaats er een keukenhand over en bestrooi met wat bloem.
 
-![](/images/Couronne_werkwijze1.jpg)
+![](/images/Couronnewerkwijze1.jpg)
 
 Weeg 16 stukken deeg af van 60g af en 2 van ca. 130g.
 Bol lichtjes op en laat 15 minuten rusten.
