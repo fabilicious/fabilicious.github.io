@@ -39,7 +39,7 @@ Als je geen rijsmanden hebt dan kan je 2 taartvormen gebruiken (ca. 22-24 doorsn
 
 ![](/images/Couronnewerkwijze1.jpg)
 
-Weeg 16 stukken deeg van 60g af en 2 van 130g.
+Weeg 16 stukken deeg van ca. 60g af en 2 van 130g.
 Bol lichtjes op en laat 15 minuten rusten.
 
 De bollen van 130g rol je met een deegrol uit tot een ronde schijf en leg je in het midden van elke rijsmand over het verhoogde deel.
