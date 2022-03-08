@@ -9,7 +9,7 @@ recipe:
   ingredients_markdown: |-
     * 645g tarwebloem T65 (Ik gebruik graag T65 - super baguette van de 'Molens van Oudenaarde')    * 20g roggemeel
     * 12g zout
-    * 410 water 
+    * 410g water 
     * 135g actieve desem
     * 25g water voor bijwassen
     * 1,3g verse gist    
