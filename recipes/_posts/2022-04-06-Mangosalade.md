@@ -10,8 +10,8 @@ recipe:
     * 2 halfrijpe mango's, geschild en in partjes gesneden
     * 2 rode uien, in fijne ringen gesneden
     * 1 pakje Berloumi, in blokjes van 1,5 cm 
-    * ca.1 afgestreken koffielepel tamarindepasta (verschilt van merk tot merk)
-    * 150g gemengd sla
+    * ca.1 afgestreken koffielepel tamarindepasta (let op: smaak en sterkte verschillen van merk tot merk)
+    * 150g gemengd sla, jonge blaadjes spinazie
     * 1/2 bussel verse koriander
     * wat verse munt, fijngehakt
     * 1 groene chilipeper, fijngesnipperd
@@ -25,15 +25,15 @@ Een frisse mangosalade met knapperig gebakken Berloumi en een heerlijke pittige 
 
 <!--more-->
 
-Verwarm 3 à 4eetlepels koolzaadolie in een pan en laat de uien op een middelhoog vuur zacht worden.
+Verwarm 3 à 4 eetlepels koolzaadolie in een pan en laat de uien op een middelhoog vuur zacht worden.
 Haal de uien uit de pan en zet apart.
-Doe de Berloumi in de pan en bak tot ze goudbruin en knapperig zijn.
+Doe de Berloumiblokjes in de pan en bak tot ze goudbruin en knapperig zijn.
 Voeg de tamarindepasta naar smaak toe en de rode uien en roerbak nog 1 à 2 minuten verder. 
 
 Meng voor de dressing gember, chilipeper, limoensap, 4 eetlepels koolzaadolie en honing
 samen. Breng zo nodig op smaak.
 Neem een schaal en verdeel er de sla, koriander, munt en mango over.
-Leg er de stukjes berloumi op en werk af met dressing.
+Leg er de stukjes Berloumi op en werk af met dressing.
 Hussel alles net voor het opdienen door elkaar.
 Werk af met zwarte sesamzaadjes.
 
