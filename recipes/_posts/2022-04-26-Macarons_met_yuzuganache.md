@@ -2,7 +2,7 @@
 date: 2022-04-26
 title: Macarons met yuzuganache 
 categories:
-  - koekjesEn KleinGebak
+  - koekjesEnKleinGebak
 featured_image: /images/macaron_yuzuganache1200.jpg
 recipe:
   servings: 35 à 40 stuks
@@ -59,7 +59,11 @@ Breng de room aan de kook en giet over de chocolade.
 Roer mooi glad, voeg de yuzu toe en als laatste de stukjes zachte boter.
 Laat afkoelen.
 
+Vul de macarons met een laagje ganache.
 
-Vul de macarons met een laagje ganache
+<b>Tip: </b>
+
+Nog extra tips:[macarons met gouden tips](https://fabilicious.be/recipes/koekjesenkleingebak/2020/12/05/Macarons/)
+
 
 
