@@ -63,7 +63,7 @@ Vul de macarons met een laagje ganache.
 
 <b>Tip: </b>
 
-Nog extra tips:[macarons met gouden tips](https://fabilicious.be/recipes/koekjesenkleingebak/2020/12/05/Macarons/)
+Nog extra tips: [Macarons met gouden tips](https://fabilicious.be/recipes/koekjesenkleingebak/2020/12/05/Macarons/)
 
 
 
