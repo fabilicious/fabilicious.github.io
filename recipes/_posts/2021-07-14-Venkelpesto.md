@@ -19,7 +19,7 @@ Too good to go! We gooien het loof van de venkel niet weg maar maken er een heer
 <!--more-->
 
 De pijnboompitten, look, venkelloof en olijfolie in een blender fijnhakken.
-Meng de gemalen kaas eronder en voeg naar smaak wat zout.
+Meng de gemalen kaas eronder en voeg naar smaak wat zout toe.
 Doe de pesto in een glazen bokaal en giet er een beetje olijfolie over.
 Bewaar in de koelkast.
 
