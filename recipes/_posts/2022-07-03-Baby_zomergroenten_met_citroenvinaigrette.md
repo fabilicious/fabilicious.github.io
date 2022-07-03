@@ -12,7 +12,7 @@ recipe:
     * 110g verse gedopte erwtjes (ongeveer 350g bruto), of diepvries    * 5 lente-uitjes, enkel wit gedeelte of diepvries zilveruitjes
 
     ** Citroenvinaigrette:**
-    * 1,5 eetlepels citroensap
+    * 1,5 eetlepel citroensap
     * zeste van 1/2 citroen
     * 1 eetlepel witte wijnazijn
     * 4 eetlepels goede olijfolie, met een niet al te uitgesproken smaak
