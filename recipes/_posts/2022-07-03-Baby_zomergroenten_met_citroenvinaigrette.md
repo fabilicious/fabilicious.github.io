@@ -14,10 +14,9 @@ recipe:
     ** Citroenvinaigrette:**
     * 1,5 eetlepels citroensap
     * zeste van 1/2 citroen
-    * 1 eetlepels witte wijnazijn
+    * 1 eetlepel witte wijnazijn
     * 4 eetlepels goede olijfolie, met een niet al te uitgesproken smaak
-    * 1 theelepels mosterd of volgens het recept mosterdpoeder
-    
+    * 1 theelepel mosterd of volgens het recept mosterdpoeder
     * 1 eetlepel fijngesneden groene kruiden ( koriander, bieslook, peterselie, het groen van de lente-uitjes…)
 ---
 Dit vegetarische bijgerecht met jonge vroege zomergroenten, overgoten met een een friszure citroenvinaigrette, kan je zowel koud als warm serveren.
