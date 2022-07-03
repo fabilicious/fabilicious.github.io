@@ -15,8 +15,8 @@ recipe:
     * 1,5 eetlepel citroensap
     * zeste van 1/2 citroen
     * 1 eetlepel witte wijnazijn
-    * 4 eetlepels goede olijfolie (met een niet al te uitgesproken smaak)
     * 1 theelepel mosterd of volgens het recept mosterdpoeder
+    * 4 eetlepels goede olijfolie (met een niet al te uitgesproken smaak)
 
     * 1 eetlepel fijngesneden groene kruiden ( koriander, bieslook, peterselie, het groen van de lente-uitjes…)
 ---
