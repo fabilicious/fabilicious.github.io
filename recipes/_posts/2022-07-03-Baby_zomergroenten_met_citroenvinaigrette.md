@@ -18,6 +18,7 @@ recipe:
     * 1 theelepel mosterd of volgens het recept mosterdpoeder
     * 4 eetlepels goede olijfolie (met een niet al te uitgesproken smaak)
 
+    **Afwerking:**
     * 1 eetlepel fijngesneden groene kruiden ( koriander, bieslook, peterselie, het groen van de lente-uitjes…)
 ---
 Dit vegetarische bijgerecht met jonge vroege zomergroenten, overgoten met een een friszure citroenvinaigrette, kan je zowel koud als warm serveren.
