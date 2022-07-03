@@ -11,7 +11,7 @@ recipe:
     * 110g fijne baby worteltjes of wortelen in fijnere repen gesneden
     * 110g verse gedopte erwtjes (ongeveer 350g bruto), of diepvries    * 5 lente-uitjes, enkel wit gedeelte of diepvries zilveruitjes
 
-    ** Citroenvinaigrette:**
+    **Citroenvinaigrette:**
     * 1,5 eetlepel citroensap
     * zeste van 1/2 citroen
     * 1 eetlepel witte wijnazijn
