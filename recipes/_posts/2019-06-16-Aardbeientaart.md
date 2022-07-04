@@ -5,7 +5,7 @@ categories:
   - taarten
 featured_image: /images/aarbeientaart1200.jpg
 recipe:
-  servings: 4 à 6 personen
+  servings: 4 à 6 personen (taartring van 18 cm diameter en 2,5 cm hoog)
   ingredients_markdown: |-
     **Zanddeeg:**
     * 100g patisseriebloem gezeefd

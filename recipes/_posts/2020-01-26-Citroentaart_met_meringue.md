@@ -30,7 +30,7 @@ recipe:
     * 10g suiker
 
     **Benodigdheden:**
-    * Taartring van 18cm diameter en een hoogte van 2,5cm hoogte
+    * Taartring van 18cm diameter en 2,5cm hoog
 ---
 Lemoncurd! Lang gezocht naar de ideale balans tussen zoet, zuur en vet.
 Heb je een thermomix dan is deze lemoncurd in een wip klaar. Met een beetje meer geduld kan het ook op de klassieke manier. 
