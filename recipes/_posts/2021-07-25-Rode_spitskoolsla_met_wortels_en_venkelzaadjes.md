@@ -26,8 +26,8 @@ In deze zomerse side dish zorgt de rode spitskool voor een zoete toets en een ve
 **Dressing**
 
 Rooster de venkelzaadjes, zwarte peperkorrels en komijnzaad in een anti-bakpan op een matig vuur. Gebruik geen vetstof!
-Laat afkoelen.
-Meng de mayonaise met de wijazijn mooi glad en voeg de geroosterde zaadjes en de dille toe.
+Laat afkoelen. Stamp de zaden en de peper fijn in een vijzel of keukenrobot.
+Meng de mayonaise met de wijnazijn mooi glad en voeg de geroosterde zaadjes en de dille toe.
 
 
 **Koolsla**
