@@ -16,7 +16,7 @@ recipe:
 ---
 De vegetarische Beyond burger moet niet meer geïntroduceerd worden, deze is bij ons al voldoende ’ingeburgerd’. 
 Maar kennen jullie de Greenway burger al? Won de prijs van beste product van het jaar.
-Lokaal gemaakt van erwtenproteïne en 100% CO2-neutraal. Super lekker!
+Lokaal gemaakt van erwtenproteïne en 100% CO2-neutraal. Superlekker!
 
 
 <!--more-->
