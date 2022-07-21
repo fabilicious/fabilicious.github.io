@@ -17,14 +17,10 @@ recipe:
     * 4 eidooiers 
 
 ---
-Hier word ik terug gekatapulteerd in de tijd waar verkopers, gekleed in witte uniformen met bijhorende pet, aan onze Belgische kust door het zand zwoegden om hun Berlijse bollen aan de man te brengen.
-
 Een Berlijnse bol smullen op het strand dit roept jeugdherinneringen op.
 Een halve eeuw geleden enkel verkrijgbaar tijdens de zomermaanden op de dijk en op het strand. In de bakkerijen zag je ze nauwelijks of niet.
 Verkopers zwoegend door het zand, gekleed in witte uniformen met bijhorende pet, hoorde al in de verte brullen ‘Boules de Berlin of Boules de l’Yser'. 
-Wat heb ik vaak aan mama’s oren gezeurd dit gefrituurd gebak gevuld met abrikozenconfituur of banketbakkersroom. 
-Als ik na lang zeuren toch één mocht verorberen had ik als klein meisje na enkele happen genoeg.
-Als klein meisje begon ik altijd vol enthousiasme aan de gigantische boule, maar kon ze nooit de baas. 
+Als ik na lang zeuren toch zo'n gefrituurd gebak gevuld met abrikozenconfituur of banketbakkersroom mocht verorberen had ik als klein meisje na enkele happen genoeg. 
 Vandaar mijn voorkeur voor de mini Boules de Berlin.
 
 <!--more-->
