@@ -27,7 +27,7 @@ Vandaar mijn voorkeur voor de mini Boules de Berlin.
 
 **Briochedeeg**
 
-Bloem in de keukenrobot plaatsen met het zout. Verkruimel de gist en roer glad met de melk en de dooier. Voeg de suiker toe en giet bij de bloem.Kneed 3 minuten op een lage snelheid.Voeg de boter toe en kneed 3 minuten verder op een lage snelheid. Zet de snelheid iets hogere kneed 5 à 10 minuten to je een elastisch deeg bekomt. Het deeg mag niet meer kleven.Laat onder plasticfolie 30 minuten rijzen op kamertemperatuur.
+Bloem in de keukenrobot plaatsen met het zout. Verkruimel de gist en roer glad met de melk en de dooier. Voeg de suiker toe en giet bij de bloem.Kneed 3 minuten op een lage snelheid.Voeg de boter toe en kneed 3 minuten verder. Zet de snelheid iets hoger en kneed 5 à 10 minuten tot je een elastisch deeg bekomt. Het deeg mag niet meer kleven.Laat onder plasticfolie 30 minuten rijzen op kamertemperatuur.
 Duw voorzichtig de lucht uit het deeg en verdeel in stukjes van 35g of 50g voor een gewone  Berlijnse bol.
 Bol elk stukje deeg op en laat op een met bakpapier of siliconen mat bedekte bakplaat afgedekt rusten gedurende 60 minuten.
 
