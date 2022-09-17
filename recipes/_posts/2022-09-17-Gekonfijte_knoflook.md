@@ -11,7 +11,7 @@ recipe:
     * enkele takjes rozemarijn of tijm
     * zwarte peper en zout
 ---
-Gekonfijte look heb ik altijd bij de hand in de koelkast.
+Gekonfijte look heb ik altijd in de koelkast staan.
 Handig in gebruik en verfijnder van smaak dan de verse en gedroogde tenen look.
 
 <!--more-->
