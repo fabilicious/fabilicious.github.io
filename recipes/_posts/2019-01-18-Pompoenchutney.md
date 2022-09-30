@@ -26,7 +26,7 @@ Zet een zeef op een kom en doe de stukken gesneden pompoen hierin, bestrooi met 
 ’s Anderdaags de pompoen spoelen met koud water en opnieuw laten uitlekken.
 Verhit 1 eetlepel neutrale olie.
 Stoof de rode ui, paprika en gember aan.
-Voeg de appel, de rozijnen, het rietsuiker en de witte wijnazijn toe.
+Voeg pompoen, appel, rozijnen, rietsuiker en witte wijnazijn toe.
 Laat alles op een zacht vuur indikken. Kruiden met zout, peper, kardemom en kurkuma. Vul de gesteriliseerde potten.
 
 
