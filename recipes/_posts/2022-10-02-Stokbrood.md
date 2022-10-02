@@ -12,11 +12,10 @@ recipe:
     * 500g - 520g water 
     * 165g actieve desem
     * 35g water voor bijwassen
-    * 1,6g verse gist    
-    * een klein kopje water om in de oven te stomen
+    * 1,6g verse gist    * een klein kopje water om in de oven te stomen
 ---
 De queeste naar het ultieme zuurdesem stokbrood heeft mij een winter lang aan de slag gehouden.
-Na het uitproberen van menig recept, verschillende methodes voor het vormen van de broden en diverse bloemsoorten ben ik er uiteindelijk in geslaagd de eenkoppige jury te overtuigen met grootste onderscheiding. Mijn wederhelft is fanatiek liefhebber van de echte 'baguette au levain.
+Na het uitproberen van menig recept, verschillende methodes voor het vormen van de broden en diverse bloemsoorten ben ik er uiteindelijk in geslaagd de eenkoppige jury te overtuigen met grootste onderscheiding. Mijn wederhelft is fanatiek liefhebber van de echte 'baguette au levain'.
 
 <!--more-->
 
@@ -46,21 +45,14 @@ Bestuif een linnendoek met bloem en leg de stokbroden met de naad naar boven.
 Dek af en laat 60 minuten of langer rijzen tot de broden bijna verdubbeld zijn.
 
 Verwarm de oven op 250°C.
-Zet de laatste 10 minuten een lege hittebestendige schaal onderaan in de oven.
- 
+Zet de laatste 10 minuten een lege hittebestendige schaal onderaan in de oven. 
 Baguettes voorzichtig op een bakplaat leggen, lichtjes met bloem bestuiven en inkerven.
-
 Doe de broden in de oven en giet het water in de hittebestendige schaal.
 Sluit onmiddellijk de deur.
 Verlaag de temperatuur tot 230°C.
 Bak ca. 20 minuten op 230C.
 Haal de broden uit de oven en laat op een rooster afkoelen.
 
-
-
-
-Rofco 
-Voorverwarmen op 230°C, stomen en 7 à 10 minuten bakken, dampsleutel openen en naar 50°C 8 minuten bakken. Misschien halverwege boven en onderkant wisselen ( na 13 minuten )
 
 
  
