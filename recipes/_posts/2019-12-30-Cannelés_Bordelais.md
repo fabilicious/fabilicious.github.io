@@ -20,7 +20,7 @@ Het is een wispelturig deeg en heb verschillende recepten uitgeprobeerd om uitei
 
 <!--more-->
 
-375g melk met het merg van de vanillestok  en de boter opwarmen, tot de boter volledig gesmolten is.Pan van het vuur nemen en de rest van de melk toevoegen.
+Warm 375g melk samen met het merg van de vanillestok en de boter op tot de boter volledig gesmolten is.Pan van het vuur nemen en de rest van de melk toevoegen.
 Bloem en suiker mengen. Botermengsel beetje per beetje bij de bloem toevoegen.Eieren loskloppen en de rhum toevoegen. Dit bij het deeg gieten en voorzichtig mengen.In de koelkast 1 nacht afgedekt bewaren. Het beslag wordt dikker met in de koelkast te staan.
 
 Voor de mini-cannelés in siliconen vormpjes:
