@@ -50,7 +50,7 @@ Baguettes voorzichtig op een bakplaat leggen, lichtjes met bloem bestuiven en in
 Doe de broden in de oven en giet het water in de hittebestendige schaal.
 Sluit onmiddellijk de deur.
 Verlaag de temperatuur tot 230°C.
-Bak ca. 20 minuten op 230C.
+Bak ca. 20 minuten op 230°C.
 Haal de broden uit de oven en laat op een rooster afkoelen.
 
 
