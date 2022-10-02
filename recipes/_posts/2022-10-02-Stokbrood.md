@@ -15,7 +15,7 @@ recipe:
     * 1,6g verse gist    * een klein kopje water om in de oven te stomen
 ---
 De queeste naar het ultieme zuurdesem stokbrood heeft mij een winter lang aan de slag gehouden.
-Na het uitproberen van menig recept, verschillende methodes voor het vormen van de broden en diverse bloemsoorten ben ik er uiteindelijk in geslaagd de eenkoppige jury te overtuigen met grootste onderscheiding. Mijn wederhelft is fanatiek liefhebber van de echte 'baguette au levain'.
+Na het uitproberen van menig recept, verschillende methodes voor het vormen van de broden en diverse soorten bloem ben ik er uiteindelijk in geslaagd de éénkoppige jury te overtuigen met grootste onderscheiding. Mijn wederhelft is fanatiek liefhebber van de echte 'baguette au levain'.
 
 <!--more-->
 
