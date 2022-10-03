@@ -23,7 +23,7 @@ We werken volgens de Franse methode, waarbij we zorgen dat de optelsom van de be
 Als bijvoorbeeld de bloem 20°c heeft en de desem 22°c heeft, dan voegen we water van 14°c toe.
 
 Meng bloem en water en laat één uur rusten (autolyse).
-Voeg daarna zout, desem en eventueel de gist toe.
+Voeg daarna zout, desem en gist toe.
 Kneed het deeg met de keukenrobot of met de hand.
 Voeg op het einde van het kneden het water beetje per beetje toe (bijwassen).
 Dit zorgt voor sterkte in het deeg.
@@ -38,7 +38,7 @@ Doe het deeg terug in de plastieken kom en plaats afgedekt 12 à 14 uur in de ko
 Haal de volgende dag het deeg uit de kom en leg deze op een met bloem bestoven werkvlak.
 Verdeel in stukken van 250g, bol lichtjes op en laat een 10-tal minuten rusten.
 Maak van elke bol een platte ovale vorm, vouw de uiteinden naar binnen en maak een rolletje van ca. 20 cm.
-Laat 10 à 15 minuten rusten en rol het deeg met de handen uit tot je een stokbrood hebt dat bijna zolang is als de bakplaat.
+Laat 10 à 15 minuten rusten en vorm het deeg tot een definitief stokbrood dat bijna zo lang is als de bakplaat.
 Voor het vormen van stokbroden bestaan er verschillende technieken, maar voor mij werkt de bovenstaande [methode van Patrick Ryan](https://www.youtube.com/watch?v=n0U8RdRdFDU) het best. 
 
 Bestuif een linnendoek met bloem en leg de stokbroden met de naad naar boven.
