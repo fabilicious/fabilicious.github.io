@@ -25,8 +25,8 @@ Als bijvoorbeeld de bloem 20°c heeft en de desem 22°c heeft, dan voegen we wat
 Meng bloem en water en laat één uur rusten (autolyse).
 Voeg daarna zout, desem en gist toe.
 Kneed het deeg met de keukenrobot of met de hand.
-Voeg op het einde van het kneden het water beetje per beetje toe (bijwassen). Soms heb je het water niet volledig nodig.
-Dit zorgt voor sterkte in het deeg.
+Voeg op het einde van het kneden het water beetje per beetje toe (bijwassen). Soms heb je de hoeveelheid water niet volledig nodig.
+Het bijwassen zorgt voor sterkte in het deeg.
 
 Doe het deeg in een met olie bestreken plastieken kom.
 Laat 1 uur afgedekt rusten.
