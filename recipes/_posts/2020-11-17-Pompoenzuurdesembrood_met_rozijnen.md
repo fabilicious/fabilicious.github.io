@@ -43,9 +43,9 @@ Rol elk stuk tot 25 à 30 cm lang en druk de bovenkant wat platter.
 
 Bekleed twee bakplaten met een siliconen mat en bestuif royaal met bloem.
 Leg de stukken deeg op de bakplaten. Stuif de bovenkant met wat bloem en bedek met plasticfolie of een theedoek.
-Laat 4 uur rijzen tot het deeg in volume verdubbeld is.
+Laat rijzen tot het deeg in volume verdubbeld is (2 à 4 uur )
 Verwarm de oven op 210°C.
-Besproei de bovenkant met water en bak 20 à 25 minuten tot de korst goudbruin is en de broden licht aanvoelen.
+Besproei de bovenkant met water en bak 20 à 35 minuten tot de korst goudbruin is en de broden licht aanvoelen.
 Laat ze op een rooster afkoelen.
 
 <b>Tip: </b>
