@@ -9,7 +9,7 @@ recipe:
   ingredients_markdown: |-
     * 300g pompoenpuree 
     * 275g actieve zuurdesem
-    * 160-190g lauw water (30 à 37°C)
+    * 150-160g lauw water (30 à 37°C)
     * 1 theelepel honing
     * 600g bloem Type 65
     * 9g zout
