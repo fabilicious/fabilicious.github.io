@@ -20,7 +20,7 @@ Na het uitproberen van menig recept, verschillende methodes voor het vormen van 
 <!--more-->
 
 We werken volgens de Franse methode, waarbij we zorgen dat de optelsom van de begintemperatuur van bloem, water en desem samen 56°C is.
-Als bijvoorbeeld de bloem 20°c heeft en de desem 22°c heeft, dan voegen we water van 14°c toe.
+Als bijvoorbeeld de bloem 20°C heeft en de desem 22°C heeft, dan voegen we water van 14°C toe.
 
 Meng bloem en water en laat één uur rusten (autolyse).
 Voeg daarna zout, desem en gist toe.
