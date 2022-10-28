@@ -36,7 +36,7 @@ Kneden tot een soepel deeg. Ongeveer 5 à 8 minuten met de keukenrobot of circa 
 Onder plasticfolie 30 minuten laten rijzen.
 De pompoenpitten en de stukjes abrikozen onder kneden.
 Het deeg in twee verdelen. Opbollen en in 2 ingevette vormen leggen (een bolle vorm). De bovenkant van het deeg ook lichtjes instrijken met olie. Onder plasticfolie 30 minuten laten rusten.
-Het deeg voorzichtig uit de vorm halen en op een met siliconemat bedekte bakplaat leggen. Mooie bolle kant onderaan leggen. 
+Het deeg voorzichtig uit de vorm halen en op een met siliconen mat bedekte bakplaat leggen. Mooie bolle kant onderaan leggen. 
 Met een stomp voorwerp een putje in het midden van de bol duwen om een pompoen na te bootsen. 
 Nog 30 minuten verder laten rijzen op maximum 26°C.
 Bestuiven met bloem.
