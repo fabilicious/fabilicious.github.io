@@ -2,7 +2,7 @@
 date: 2022-11-06
 title: Gebrande wortel met misomayo en panko
 categories:
-  - aperitiefhapje
+  - aperitiefhapjes
 featured_image: /images/gebrandewortelenmisoV21200.jpg
 recipe:
   servings: 4 personen
