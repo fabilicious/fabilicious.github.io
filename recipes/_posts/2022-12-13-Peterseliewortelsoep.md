@@ -8,7 +8,8 @@ recipe:
   servings: 2l
   ingredients_markdown: |-
     * 400g peterseliewortel, geschild en in grove stukken gesneden
-    * 200g prei, grof gesneden
+    * 200g wit van prei, grof gesneden
+    * klontje plantaardige boter
     * 40g rijst    * 1,5 l kippen - of groentebouillon
     * enkele blaadjes van de peterseliewortel of gewoon wat peterselie, fijngesneden
     * facultatief geroosterde uitjes (kant en klaar)
@@ -21,10 +22,12 @@ Het groene blad kan je gebruiken om de soep te garneren, deze heeft alleen minde
 
 <!--more-->
 
-Doe de peterseliewortel, prei, rijst en bouillon in een kookpot en laat 20 à 25 minuten zachtjes koken.
+Verhit een klontje plantaardige boter in een kookpot en stoof peterseliewortel en prei kort aan. Voeg rijst en bouillon toe en laat 20 à 25 minuten zachtjes koken.
 Mix de soep fijn en breng op smaak met peper en eventueel wat zout.
 Verdeel de soep in kommetjes, strooi er een beetje peterselie over en als extra kan je er geroosterde uitjes bij serveren.
 
+<b>Tip: </b>
 
+Vervang voor een feestelijke afwerking de geroosterde uitjes door snippers gerookte zalm.
 
 
