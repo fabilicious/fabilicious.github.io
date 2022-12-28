@@ -5,7 +5,7 @@ categories:
   - vegetarisch
 featured_image: /images/gevulde pompoen1200.jpg
 recipe:
-  servings: 6
+  servings: 6 pers.
   ingredients_markdown: |-
     * 6 kleine sweet dumpling pompoenen    * 300g vegan fijngehakt van Greenway (Diepvries in Delhaize)
     * 1 blik kidneybonen (van 400g bruto)
@@ -42,7 +42,7 @@ Voeg rode paprika en selder toe en stoof enkele minuten verder.
 Doe de passata, tomatenstukjes erbij en kruid met kaneel, komijn en gerookte paprika.
 Laat 20 minuten sudderen of tot de saus wat is ingedikt.
 Voeg de uitgelekte bonen en maïskorrels bij de saus en laat nog 10 minuten op een zacht vuur doorwarmen.
-Voeg het vegarisch fijngehakt toe en warm het geheel nogmaals goed door.
+Voeg het vegetarisch fijngehakt toe en warm het geheel nogmaals goed door.
 Breng op smaak met peper en zout.
 Vul de warme pompoenen met de chili sin carne en dien op.
 Serveer met zure room of yoghurt, koriander en eventueel fijngesneden rode uiringen.
