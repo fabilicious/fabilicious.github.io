@@ -16,16 +16,17 @@ recipe:
     * een beetje gedroogde tijm
     * olijfolie
 
+    **Knolselder:**
     * 500g knolselder in reepjes van 0,5 cm
 
     **Puree:**
-    * 8OOg bloemige aardappelen, schillen en in stukken snijden
+    * 800g bloemige aardappelen, schillen en in stukken snijden
     * 2 à 3dl (plantaardig) melk
     * 60g (plantaardige) boter
     * muskaatnoot
     * peper, zout, cayennepeper
     
-    * Afwerking:**    * 80g geraspte kaas (emmental, gruyère,...)
+    **Afwerking:**    * 80g geraspte kaas (emmental, gruyère,...)
     * 50g broodkruim
 
 ---
@@ -47,8 +48,8 @@ Breng op smaak met peper, zout, tijm en een beetje cayennepeper.
 **Puree**
 
 Kook of stoom de aardappelen.
-Draai ze daarna tot puree samen met de boter en de melk tot je een smeuïge puree bekomt. Breng op smaak met zout, peper en nootmuskaat.
-Neem een ruime ovenschaal of individuele en bestrijk met olijfolie.
+Draai ze daarna samen met de boter en de melk tot je een smeuïge puree bekomt. Breng op smaak met zout, peper en nootmuskaat.
+Neem een ruime ovenschaal en bestrijk met olijfolie.
 Verdeel het gehakt, daarop komt de knolselder en vervolgens de aardappelpuree.
 Strooi er de kaas en tot slot het broodkruim over.
 Verwarm de oven op 200°C en bak de Parmentier ongeveer een 30 minuten tot hij aan de bovenkant goudbruin is en bubbelt.
