@@ -10,7 +10,7 @@ recipe:
     **Vegetarisch gehakt:**
     * 1 grote ui, fijngesneden
     * 2 teentjes look, fijngesneden
-    * 350g Greenway Fijngehakt of een ander gebakken vegetarisch gehakt
+    * 350g Greenway Fijngehakt (diepvries bij Delhaize)
     * 70g geconcentreerde tomatenpuree
     * ca. 80ml water
     * een beetje gedroogde tijm
