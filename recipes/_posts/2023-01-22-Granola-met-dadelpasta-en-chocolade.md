@@ -5,7 +5,7 @@ categories:
   - broodEnOntbijtgranen
 featured_image: /images/Granola_met dadelpasta en chocolade1200.jpg
 recipe:
-  servings: X
+  servings: 
   ingredients_markdown: |-
     **Dadelpasta:**
     * 150g dadels (natuur en ontpit)    * 80ml water    * 1 eetlepels kokosolie of arachideolie    * 1 snuifje zout    * 7g cacaopoeder    * Eventueel 3 druppels amandelessence
