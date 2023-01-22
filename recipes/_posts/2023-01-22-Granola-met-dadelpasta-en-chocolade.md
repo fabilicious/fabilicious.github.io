@@ -3,7 +3,7 @@ date: 2023-01-22
 title: Granola met dadelpasta en chocolade
 categories:
   - broodEnOntbijtgranen
-featured_image: /images/Granola met dadelpasta en chocolade1200.jpg
+featured_image: /images/Granola_met dadelpasta en chocolade1200.jpg
 recipe:
   servings: X
   ingredients_markdown: |-
