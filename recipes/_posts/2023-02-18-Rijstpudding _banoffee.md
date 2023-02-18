@@ -20,7 +20,7 @@ recipe:
     * 25ml rum
     * Sap en zeste van 2 limoenen
 
-    ** Afwerking:**
+    **Afwerking:**
     * 10g geraspte chocolade
 
 ---
@@ -33,12 +33,12 @@ De combinatie van banaan en rum met de rijstpudding is gewoon top!
 **Geflambeerde bananen met limoen**
 
 Pel de bananen en snij overlangs.
-In een pan laat je de suiker karameliseren. Na het bekomen van een mooie kleur,voeg je de boter en het limoensap voorzichtig toe.
+In een pan laat je de suiker karameliseren. Na het bekomen van een mooie kleur, voeg je de boter en het limoensap voorzichtig toe.
 Opgepast voor kokendhete spatten.
 Voeg de bananen toe en meng zodat de bananen overal met de saus bedekt zijn.
 Warm opnieuw heel eventjes op en giet de rum over de bananen en flambeer.
 Doe alles in een schaal en dek af met plasticfolie en laat afkoelen.
-Eens de bananen afgekoeld zijn, plet je ze grof met een vork en meng je de zeste van limoen eronder. Bewaar in de koelkast.
+Eens de bananen afgekoeld zijn, plet je ze grof met een vork en meng je de zeste van limoen er onder. Bewaar in de koelkast.
 
 **Rijstpudding**
 
@@ -49,14 +49,14 @@ Ik maak mijn rijstpudding altijd in de steamer, maar je kan ze ook traditioneel 
 Meng de rijst, de suiker, het merg van de vanille en de melk. Giet alles in een niet-geperforeerde stoomovenpan van 6 cm. Stoom 1 uur op 100°.
 
 Dek af met plasticfolie en laat afkoelen.
-Wanneer de rijstpudding afgekoeld is klop dan de room op.
+Wanneer de rijstpudding is afgekoeld, klop dan de room op.
 Klop de room zeker niet heel vast op, maar zo’n 50 à 60%.
 Meng de opgeklopte room met een spatel onder de rijstpudding.
 
 **Fornuis**
 
 Meng in een kookpan de rijst, merg van vanille en melk en breng al roerend naar het kookpunt.
-Verlaag de temperatuur een laat een 20 à 30 minuten zachtjes pruttelen tot de rijst beetgaar is.
+Verlaag de temperatuur een laat een 20 à 30 minuten zachtjes pruttelen tot de rijst beetgaar is. Voeg 5 minuten voor tijd de suiker toe.
 
 Dek af met plasticfolie en laat afkoelen.
 Wanneer de rijstpudding afgekoeld is klop dan de room op.
