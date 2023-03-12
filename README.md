@@ -37,8 +37,7 @@ Treat is already optimised for adding, updating and removing recipes, navigation
 
 ### Contact Form
 
-* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
-* Sends email to the address listed in company details.
+[FormSpree](https://formspree.io/)
 
 ### Navigation
 
