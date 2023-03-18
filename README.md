@@ -1,32 +1,13 @@
-# Treat
-
-Food/baking blog template for Jekyll. Browse through a [live demo](https://spring-bat.cloudvent.net/).
-
-![Treat template screenshot](images/_screenshot.png)
-
-Treat was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+# README
 
 ## Features
 
-* Contact form
+* Contact form (formspree)
 * Pre-built pages
 * Pre-styled components
 * Blog with pagination
-* Disqus comments for posts
-* Configurable sidebar
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
 * SEO tags
-* Google Analytics
-
-## Setup
-
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics, Disqus and MailChimp keys to `_config.yml`.
-3. Add your details to `_data/sidebar.yml`
-4. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+* goatcounter analytics
 
 ## Develop
 
@@ -56,8 +37,7 @@ Treat is already optimised for adding, updating and removing recipes, navigation
 
 ### Contact Form
 
-* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
-* Sends email to the address listed in company details.
+[FormSpree](https://formspree.io/)
 
 ### Navigation
 
