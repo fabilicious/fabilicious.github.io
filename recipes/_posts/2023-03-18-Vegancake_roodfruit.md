@@ -13,7 +13,7 @@ recipe:
     * 50g rietsuiker
     * snuifje zout
     * 2 koffielepels water
-    ** Cake:**
+    **Cake:**
     * 90g rietsuiker
     * 400g compote van peren (zelfgemaakt of gekocht)
     * zeste van 1/2 citroen
