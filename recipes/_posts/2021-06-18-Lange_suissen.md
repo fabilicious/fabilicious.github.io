@@ -19,7 +19,7 @@ recipe:
 
     **Afwerking:**     * 120g à 150g rozijnen    * 1 losgeklopt ei om te doreren
     * 2 à 3 eetlepels abrikozenconfituur
-    * enkele eetlepels fondantsuiker
+    * enkele eetlepels fondantsuiker (lichtjes opgewarmd)
 
 ---
 De beste lange suissen (ook wel Zwitserse brioche of brioche suisse genoemd) ooit, toch volgens onze zoon. 'Er zit tenminste genoeg banketbakkersroom in.'
@@ -46,7 +46,7 @@ Voor gebruik de crème met een klopper mooi glad maken.
 
 **Briochedeeg**
 
-Bloem in de keukenrobot plaatsen met het zout. Verkruimel de gist en roer glad met de melk en het ei. Voeg de suiker toe en giet bij de bloem.Kneed 3 minuten op een lage snelheid.Voeg de boter toe en kneed 3 minuten op een lage snelheid en 4 minuten op een iets hogere snelheid. Het deeg mag niet meer kleven. Voeg desnoods een klein beetje bloem toe.Laat onder plasticfolie 30 minuten rijzen op kamertemperatuur. Dit noemt men een voorrijs.
+Bloem in de keukenrobot plaatsen met het zout. Verkruimel de gist en roer glad met de melk en het ei. Voeg de suiker toe en giet bij de bloem.Kneed 3 minuten op een lage snelheid.Voeg de boter toe en kneed 3 minuten op een lage snelheid. Zet de snelheid iets hoger en kneed 5 tot 10 minuten tot je een elastisch deeg bekomt. Het deeg mag niet meer kleven. Voeg desnoods een klein beetje bloem toe.Laat onder plasticfolie 30 minuten rijzen op kamertemperatuur. Dit noemt men een voorrijs.
 
 Bestrooi het werkvlak lichtjes met bloem.
 Rol elke deel uit tot een rechthoek met dikte van 3mm en een breedte van 30 cm de lengte mag variëren.
@@ -62,7 +62,7 @@ Bedek met plasticfolie en laat 1 uur rijzen.
 
 Strijk de brioches in met losgeklopt ei en bak ongeveer 12 minuten op 190°C.
 De abrikozenconfituur met een heel klein beetje water verwarmen.
-Bestrijk de brioches en eindig metbeen laagje fondantsuiker.
+Bestrijk de brioches en eindig met een laagje fondantsuiker.
 
 
 <b>Tip: </b>
