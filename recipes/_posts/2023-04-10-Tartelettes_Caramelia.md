@@ -22,6 +22,7 @@ recipe:
     * 185g room, minstens 35% vet
     * 61g zachte boter
     * 2g zeezout (liefst fleur de sel) 
+    * Of koop een klaargemaakte, kwalitatieve 'caramel beurre salé'.
 
     **Ganache Caramelia:**
     * 150g volle room
@@ -55,6 +56,7 @@ Op een rooster laten afkoelen.
 Maak in een steelpan een droge karamel met de suiker en de glucosestroop. Laat koken tot 185°C. Beschik je over geen thermometer kijk dan tot je een mooie kleur krijgt.
 Verwarm ondertussen de room met het zout. Zodra de karamel 185°C heeft bereikt, neem je de pan van het vuur en voeg je de warme room heel voorzichtig toe !!!.
 Als de karamel tot 60°C is afgekoeld doe je de boter erbij en mix met een staafmixer het geheel. Laat afkoelen op kamertemperatuur en doe in een spuitzak.
+
 
 **Ganache Caramelia**
 
