@@ -29,7 +29,7 @@ recipe:
     * 240g Caramelia van Valrhona 36% cacao of een andere melkchocolade liefst met karamelsmaak)
     * 20g zachte boter
 
-    ** Afwerking:**
+    **Afwerking:**
     * Wat geraspte Caramelia of andere melkchocolade.
 ---
 Gepassioneerd door de patisserie besloot Aurélien Cohen er zijn job van te maken.
