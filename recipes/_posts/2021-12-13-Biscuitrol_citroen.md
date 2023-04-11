@@ -25,7 +25,7 @@ recipe:
     * 120g dooiers
     * 85g suiker
 
-    ** Afwerken:**
+    **Afwerken:**
     * 180g pralinépasta (Callebaut)
     * enkele volle eetlepels brésiliennenootjes    
 ---

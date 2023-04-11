@@ -45,7 +45,7 @@ Meng met de hand of keukenrobot tot een zanderige structuur.
 Voeg het ei toe en meng kort tot een homogeen deeg.
 Verpak in plasticfolie en leg 2 uur in de koelkast.
  
-De vormpjes met boter instrijken. Het deeg uitrollen tot een dikte van 2,5cm. In de vormen leggen, mooi aandrukken en plaats 2 uur in de vriezer of tenminste 12 uur in de koelkast.
+De vormpjes met boter instrijken. Het deeg uitrollen tot een dikte van 2,5cm. Duw met een uitsteekvorm 6 rondjes met diameter 10 cm uit. In de vormen leggen, mooi aandrukken en plaats 2 uur in de vriezer of tenminste 12 uur in de koelkast.
 
 De taartvormen op 160°C gedurende 20 minuten blind bakken.
 Na 20 minuten de taartjes ontvormen en nog 10 minuten verder in de oven bakken.
