@@ -36,7 +36,7 @@ Kortom Fabilicious meets Van Damme meets Michalak.
 
 Begin de dag ervoor met deze mousse.
 Breng de room aan de kook en giet over de in stukken gehakte chocolade.
-Meng grondig met een klopper.
+Alles goed mixen met een staafmixer.
 Laat afkoelen en bewaar een nacht (of minstens 6 uur) in de koelkast.
 
 **Glutenvrije chocoladecake**
