@@ -18,7 +18,7 @@ recipe:
     * 500g bloem (Type 55 of gewone tarwebloem)    * 225g volle melk (20°à 24°C)    * 1 ei    * 50g kristalsuiker    * 50g verse gist    * 7,5g zout    * 100g zachte boter (op kamertemperatuur)    * 1 losgeklopt ei om te doreren
 
     **Afwerking:**    * 200g rabarber (netto gewicht)
-    * 2 eet. abrikozenconfituur met een klein beetje water lichtjes opgewarmd (facultatief)
+    * 2 eetl. abrikozenconfituur met een klein beetje water lichtjes opgewarmd (facultatief)
     * bloemsuiker
 ---
 Feestelijke broodjes gevuld met banketbakkersroom en stukjes gepocheerde rabarber.
@@ -31,6 +31,7 @@ Ik gebruik de fijngesneden rabarberstukjes die ik na het zeven van mijn rabarber
 Je kan ook verse fijngesneden rabarber op een met bakpapier bedekte bakplaat leggen.
 Bestrooien met 20g suiker en in de oven 2 minuten op 200°C garen.
 Laten afkoelen.
+
 **Banketbakkersroom**
 
 Klop enkele eetlepels melk met de eidooiers los. Voeg de suiker en puddingpoeder toe. Klop nog eens goed door.
