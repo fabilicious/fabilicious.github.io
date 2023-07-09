@@ -17,7 +17,7 @@ recipe:
     * peper en zout
     
 ---
-Een zomers soepje, zacht van smaak door de gele courgettes. De dragon zorgt voor dat klein tikkeltje extra. Het griesmeel die we als bindmiddel gebruiken geeft een aangename structuur aan de soep. 
+Een zomers soepje, zacht van smaak door de gele courgettes. De dragon zorgt voor dat klein tikkeltje extra. Het griesmeel dat we als bindmiddel gebruiken geeft een aangename structuur aan de soep. 
 Deze heerlijke soep eten we meestal warm, maar koud kan het ook.
 
 <!--more-->
