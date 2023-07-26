@@ -12,7 +12,7 @@ recipe:
     * 120g dooiers (ongeveer 6 dooiers)
     * 75g suiker
     * 1 vanillestok, overlangs gesneden en merg eruit schrapen
-    * Rietsuiker voor de gebrande karamelkorst
+    * Rietsuiker voor de gebrande karamelkorst
 ---
 Ook fan van een heerlijke crème brulée? Heb je een stoomoven dan is dit een fluitje van een cent.
 Maar het kan ook op de klassieke manier in de oven au bain-marie.
