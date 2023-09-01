@@ -15,6 +15,7 @@ servings: 3 à 4 personen
     * 5 eetlepels olijfolie
     * peper en zout
     * facultatief enkele olijven in ringen gesneden
+    
 ---
 Deze zomerse vinaigrette is verrassend lekker met een stukje vis, artisjokken of gebakken Berloumi.
 Dit is mijn versie van een sauce vierge.
