@@ -17,7 +17,7 @@ servings: 3 à 4 personen
     * facultatief enkele olijven in ringen gesneden
 ---
 Deze zomerse vinaigrette is verrassend lekker met een stukje vis, artisjokken of gebakken Berloumi (halloumi).
-Dit is mijn versie van een ’sauce vierge’.
+Dit is mijn versie van een sauce vierge.
 Zorg voor heerlijk rijpe tomaten of verschillende kerstomaten gehalveerd.
 De keuze van groene kruiden kan je naar jouw smaak perfect invullen.
 
