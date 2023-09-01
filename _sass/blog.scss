@@ -240,3 +240,16 @@ div .image>img.home {
 	color: #222;
 	font-style: italic;
 }
+
+form {
+	input[type=checkbox]#privacyPolicyCheck{
+		width:28px;
+		height: 28px;
+		position: relative;
+		top:8px;
+	}
+	input[type=submit][disabled]{
+		pointer-events: none;
+		opacity:0.4;
+	}
+}

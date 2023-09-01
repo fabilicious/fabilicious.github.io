@@ -35,8 +35,29 @@ title: Contact
 		</div>-->
 	</div>
 
+	
 	<label for="message">Bericht</label>
 	<textarea name="message" id="message"></textarea>
 	<div class="g-recaptcha" data-sitekey="6Lftg6YiAAAAAG5QJibhyvUSZ4VklD-TVJfmdRV1"></div>
-	<input type="submit" value="Zend bericht" />
+	
+	<div>
+		<input id="privacyPolicyCheck" type="checkbox"> 
+		<p style="display: inline-block;">Ik verklaar dat ik de <a target="_blank" href="https://docs.google.com/document/d/e/2PACX-1vRPR6Xtjkz_04K9mikisJcPPt1-h97n-XTY3MhJVKf-nccSj91m2tZA0y296N1GVJxjBzy4gofMh532/pub">privacy policy</a> heb gelezen en goedgekeurd.</p>
+	</div>
+	<div>
+		<input id="submitButton" type="submit" value="Zend bericht" disabled/>
+	</div>
 </form>
+
+<script>
+	const checkbox = document.getElementById("privacyPolicyCheck");
+	const submitButton = document.getElementById("submitButton");
+
+	checkbox.addEventListener('change', function () {
+			if (checkbox.checked) {
+					submitButton.removeAttribute('disabled');
+			} else {
+					submitButton.setAttribute('disabled', 'true');
+			}
+	});
+</script>
