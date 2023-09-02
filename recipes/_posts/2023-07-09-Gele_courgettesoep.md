@@ -10,7 +10,7 @@ recipe:
     * 750g gele courgette of groene (3-tal courgetten niet geschild)
     * 1 grote sjalot of ui, fijngesneden
     * 1 liter kippenbouillon
-    * 1 takje dragon, de blaadjes van de steel halen en fijnsnijden
+    * 1 à 2 takjes dragon, de blaadjes van de steel halen en fijnsnijden
     * 1 koffielepel witte wijnazijn
     * 2 afgestreken eetlepels griesmeel
     * een scheutje olijfolie
