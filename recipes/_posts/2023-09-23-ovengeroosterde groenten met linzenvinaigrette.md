@@ -10,7 +10,7 @@ recipe:
     **Linzenvinaigrette:**
     * 100g  gedroogde linzen van Puy (ongeveer 220g gekookt)
     * 1 rode ui, fijngesneden
-    * 1/2 of 1 rode chilipeper,fijngesneden
+    * 1/2 of 1 rode chilipeper, fijngesneden
     * 70ml olijfolie (kwaliteitsvolle)
     * 70ml balsamico-azijn
     * 1 teentje look, fijngesneden
@@ -21,7 +21,8 @@ recipe:
     * 75g babyspinazie
     * peper en zout
     **Geroosterde groenten:**
-    * 300g geschilde pompoen,in blokjes van 1,5cm gesneden (butternut of hokkaido) of aubergines 1 grote aubergine
+    * 300g geschilde pompoen,in blokjes van 1,5cm gesneden (butternut of hokkaido) of 300g aubergines 
+ in blokjes gesneden
     * 1 venkel, in repen van 1cm gesneden
     * 200g kerstomaten
     * 1 courgette, in blokje van 1,5cm gesneden
