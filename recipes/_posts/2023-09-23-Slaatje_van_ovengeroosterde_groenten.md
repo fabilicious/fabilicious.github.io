@@ -22,8 +22,7 @@ recipe:
     * peper en zout
 
     **Geroosterde groenten:**
-    * 300g geschilde pompoen,in blokjes van 1,5cm gesneden (butternut of hokkaido) of 300g aubergines 
- in blokjes gesneden
+    * 300g geschilde pompoen,in blokjes van 1,5cm gesneden (butternut of hokkaido)
     * 1 venkel, in repen van 1cm gesneden
     * 200g kerstomaten
     * 1 courgette, in blokje van 1,5cm gesneden
