@@ -7,7 +7,7 @@ featured_image: /images/ovengeroosterdegroeten_linzenvinaigretteV21200.jpg
 recipe:
   servings: 4 personen of 6 à 8 personen als bijgerecht
   ingredients_markdown: |-
-    **Linzenslaatje:**
+    **Linzenvinaigrette:**
     * 100g  gedroogde linzen van Puy (ongeveer 220g gekookt)
     * 1 rode ui, fijngesneden
     * 1/2 of 1 rode chilipeper,fijngesneden
