@@ -11,11 +11,11 @@ recipe:
     * 100g  gedroogde linzen van Puy (ongeveer 220g gekookt)
     * 1 rode ui, fijngesneden
     * 1/2 of 1 rode chilipeper, fijngesneden
-    * 70ml olijfolie (kwaliteitsvolle)
-    * 70ml balsamico-azijn
+    * 35ml olijfolie (kwaliteitsvolle)
+    * 35ml balsamico-azijn
     * 1 teentje look, fijngesneden
-    * 2 eetlepels donkerbruine suiker
-    * 35g geconcentreerde tomatenpuree
+    * 1 eetlepels donkerbruine suiker
+    * 20g geconcentreerde tomatenpuree
     * 1 eetlepel venkelzaadjes, geroosterd en lichtjes geplet
     * 1 bussel platte peterselie, grof gehakt
     * 75g babyspinazie
@@ -31,7 +31,7 @@ recipe:
 ---
 Ontdek dit fantastisch slaatje van ovengeroosterde groenten met een linzenvinaigrette.
 Het kan warm of op kamertemperatuur geserveerd worden.
-Wij eten het als hoofdgerecht met een couscoussalade. Gecombineerd met een lekker geitenkaasje wordt het helemaal top.
+Wij eten het als hoofdgerecht met couscous. Gecombineerd met een lekker geitenkaasje wordt het helemaal top.
 
 <!--more-->
 
@@ -52,4 +52,5 @@ Breng op smaak met peper en zout.
 Laat een beetje afkoelen.
 Meng de geroosterde groenten met de linzen en de platte peterselie. 
 
-
+<b>Tip: </b>
+De pompoen kan perfect vervangen worden door aubergine. Werkwijze blijft dezelfde.
