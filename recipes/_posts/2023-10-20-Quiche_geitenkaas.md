@@ -7,15 +7,16 @@ featured_image: /images/Quiche_geitenkaas1200.jpg
 recipe:
   servings: 4 personen
   ingredients_markdown: |-
-    * 1rol bladerdeeg
+    * 1 rol bladerdeeg
     * 250g uitgelekte spinazie (vers geblancheerd of diepvries zonder room)
-    * 2 tomaten, in blokjes gesneden
+    * 2 tomaten, in blokjes gesneden of 10 kerstomaatjes
     * 150g zachte geitenkaas (type Chavroux)
     * 200ml room
     * 3 eieren
     * 10 bieslook, fijngesneden
     * 100g gerookte kalkoenblokjes (facultatief)
-    * 1  kleine rode ui, in fijne ringen gesneden    * zout, peper, nootmuskaat
+    * 1  kleine rode ui, in fijne ringen gesneden
+    * zout, peper, nootmuskaat
 ---
 Het aankomende herfstweer smeekt om een hartige quiche. Veggie of met gerookte kalkoenblokjes.
 
@@ -23,7 +24,7 @@ Het aankomende herfstweer smeekt om een hartige quiche. Veggie of met gerookte k
 
 Verwarm de oven op 180°C.
 Leg het deeg in een vorm ( 28cm doorsnede, 3,5cm hoog ) en bedek bodem en randen.
-Prik het deeg in met een vorm.
+Prik het deeg in met een vork.
 Leg bakpapier op het deeg, doe er bakbonen in en bak 8 minuten.
 Verwijder het bakpapier en de bonen en bak nog 2 minuten verder.
 
