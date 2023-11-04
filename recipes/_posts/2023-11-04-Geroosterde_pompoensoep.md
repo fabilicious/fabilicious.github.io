@@ -7,7 +7,7 @@ featured_image: /images/geroosterde pompoensoepV21200.jpg
 recipe:
   servings: 8 personen
   ingredients_markdown: |-
-    * 1 butternut, niet geschild, zaden verwijderd en in blokjes gesneden van 3 cm
+    * 1 butternut, niet geschild, zaden verwijderd en in blokjes van 3 cm gesneden
     * 2 sjalotten, fijngesneden
     * 1/2 tot 1 chilipeper, fijngesneden
     * 3-5cm gember, geschild en geraspt
