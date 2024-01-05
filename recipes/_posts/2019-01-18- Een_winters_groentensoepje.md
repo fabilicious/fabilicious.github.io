@@ -1,6 +1,6 @@
 ---
 date: 2019-01-18
-title: Een winters groentensoepje
+title: Een winters groentesoepje
 categories:
   - soep
 featured_image: /images/Winters soepje V2 1200.jpg
