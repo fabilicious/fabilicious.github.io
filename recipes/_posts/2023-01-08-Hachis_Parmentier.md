@@ -1,6 +1,6 @@
 ---
 date: 2023-01-08
-title: Hachis Parmentier met knolselder en fijngehakt van Greenway
+title: Hachis Parmentier met knolselder en vegan gehakt van Greenway
 categories:
   - vegetarisch
 featured_image: /images/hachisparmentier800.jpg
@@ -10,7 +10,7 @@ recipe:
     **Vegetarisch gehakt:**
     * 1 grote ui, fijngesneden
     * 2 teentjes look, fijngesneden
-    * 350g Greenway Fijngehakt (diepvries bij Delhaize)
+    * 400g Greenway gehakt rauw vegan (Delhaize)
     * 70g geconcentreerde tomatenpuree
     * ca. 80ml water
     * een beetje gedroogde tijm
@@ -30,8 +30,7 @@ recipe:
     * 50g broodkruim
 
 ---
-Zoek je inspiratie voor een vegetarisch gerecht waar ook de fervente vleeseter met volle teugen kan meegenieten? Dan is deze hartverwarmende Franse klassieker 'Hachis Parmentier' een voltreffer. Het 'Fijngehakt' van Greenway is niet alleen lekker, maar ook heel handig in gebruik.
-Je hoeft het product niet te ontdooien en ook niet aan te bakken.
+Zoek je inspiratie voor een vegetarisch gerecht waar ook de fervente vleeseter met volle teugen kan meegenieten? Dan is deze hartverwarmende Franse klassieker 'Hachis Parmentier' een voltreffer. Het gehakt van Greenway is erg lekker en je verwerkt het zoals gewoon gehakt.
 Liever geen knolselder? Vervang die dan door geblancheerde spinazie of gestoomde bloemkoolroosjes.
 
 <!--more-->
@@ -41,8 +40,7 @@ Opgelet de knolselder moet nog beetgaar zijn.
 
 **Vegetarisch gehakt:**
 
-Fruit de ui en de look in een beetje olijfolie tot ze glazig zien. Voeg tomatenpuree en water toe en laat het geheel enkele minuten sudderen tot je een dikke saus bekomt.
-Meng het Greenway fijngehakt (niet nodig om deze eerst te ontdooien) onder de saus.
+Fruit de ui en de look in een beetje olijfolie tot ze glazig zien. Voeg het gehakt toe en bak het tot het mooi bruin en gaar is. Voeg nadien tomatenpuree en water toe en laat het geheel enkele minuten sudderen tot je een dikke saus bekomt.
 Breng op smaak met peper, zout, tijm en een beetje cayennepeper.
 
 **Puree**
