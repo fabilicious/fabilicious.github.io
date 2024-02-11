@@ -1,9 +1,9 @@
 ---
 date: 2024-02-11
-title: vegetarische witloofrolletjes
+title: Vegetarische witloofrolletjes
 categories:
   - vegetarisch
-featured_image: /images/veggie_witloofrolletjeshalfwitV21200.jpg
+featured_image: /images/veggie_witloofrolletjesklaar1200.jpg
 recipe:
   servings: 4 personen
   ingredients_markdown: |-
@@ -42,4 +42,4 @@ Op het laatste kan je de ovenschotel nog heel kort onder de grill plaatsen.
 
 Wij eten de watermeloenradijs graag beetgaar. Heb je het liever iets zachter dan kan je de plakken ( afhankelijk van de dikte ) maximum 1 minuut in kokend water laten zachter worden en dan goed uitlekken alvorens er rolletjes van te maken.
 
-![](/images/veggie_witloofrolletjesklaar1200.jpg)
+![](/images/veggie_witloofrolletjeshalfwitV21200.jpg)
