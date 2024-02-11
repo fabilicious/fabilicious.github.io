@@ -41,5 +41,6 @@ Op het laatste kan je de ovenschotel nog heel kort onder de grill plaatsen.
 <b>Tip: </b>
 
 Wij eten de watermeloenradijs graag beetgaar. Heb je het liever iets zachter dan kan je de plakken ( afhankelijk van de dikte ) maximum 1 minuut in kokend water laten zachter worden en dan goed uitlekken alvorens er rolletjes van te maken.
+Alternatief voor watermeloenradijs: knolselder of koolrabi.
 
 ![](/images/veggie_witloofrolletjeshalfwitV21200.jpg)
