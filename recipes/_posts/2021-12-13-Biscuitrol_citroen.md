@@ -11,7 +11,7 @@ recipe:
     * 340g room 35% vet
     * zeste van 2 limoenen
     * 4g gelatine, in koud water geweekt
-    * 70g ( 60g) limoensap (2 à 3 limoenen)
+    * 60g limoensap (2 à 3 limoenen)
     * 40g citroensap (1 à 2)
     * 90g witte chocolade, in kleine stukjes (Ivoir blanc van Valrhona of een ander merk)
     * 6g cacaoboter of witte chocolade
