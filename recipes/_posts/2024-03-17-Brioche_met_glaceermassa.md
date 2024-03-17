@@ -22,7 +22,6 @@ recipe:
     * 60g hazelnootpoeder ( amandelpoeder kan ook )
     * 48g eiwit
     * 36g suiker
-  
     * wat poedersuiker
 ---
 Dit luxe ontbijtbrood met een krokant hazelnootkorstje is top!
