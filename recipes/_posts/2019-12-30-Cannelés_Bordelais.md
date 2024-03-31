@@ -14,7 +14,7 @@ Ze horen gekarameliseerd te zijn aan de buitenkant en moelleux aan de binnenkant
 Meestal worden ze heel donker gebakken, zelfs een beetje verbrand. Al heb ik hier mijn bedenkingen bij.
 De vormen voor cannelés zijn oorspronkelijk gemaakt van koper (duur in aankoop) en worden ingevet met bijenwas.
 Tegenwoordig heb je ook de siliconen vormen. Gewoon formaat of mini. 
-Vet ze lichtjes in met cacaoboter of bakspray. Dit bevordert het karameliseren.
+Vet ze in met cacaoboter of bakspray. Dit bevordert het karameliseren.
 Het is een wispelturig deeg en heb verschillende recepten uitgeprobeerd om uiteindelijk tot een mooi en lekker resultaat te komen.
 
 
