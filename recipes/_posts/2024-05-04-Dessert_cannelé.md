@@ -23,6 +23,8 @@ Klop de koude op room op.
 Plaats één cannelé op een bord, verdeel het fruit en leg er een lepel opgeklopte room bij.
 Besprenkel de room met wat acaciahoning en strooi wat pistachenoten of limoenzeste over het dessert.
 
+[Hier](https://fabilicious.be/recipes/koekjesenkleingebak/2024/03/31/Cannelé/) vind je het recept van mijn cannelé.
+
 
 
 
