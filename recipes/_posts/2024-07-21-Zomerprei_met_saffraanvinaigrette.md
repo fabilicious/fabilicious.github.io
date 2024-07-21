@@ -57,6 +57,6 @@ Leg de prei op een serveerschaal en sprenkel er wat vinaigrette over.
 Laat afkoelen tot kamertemperatuur.
 Verdeel het broodkruim over de prei.
 
-<c>Tip:</b>
+<b>Tip:</b>
 
 Geen rozenharissa in huis dan kan je ze vervangen door gewone harissa of wat gedroogde rode chilivlokken. Hoeveelheid is afhankelijk van de sterkte van de pepers.
