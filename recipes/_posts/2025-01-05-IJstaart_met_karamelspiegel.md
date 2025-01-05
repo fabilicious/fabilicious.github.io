@@ -44,7 +44,7 @@ Ontvorm en plaats opnieuw in de vriezer.
 
 **Gesuikerde room**
 
-Klop de room met de poedersuiker op tot een dikke,lopende crème.
+Klop de room met de poedersuiker op tot een dikke, lopende crème.
 
 
 **Afwerken**
