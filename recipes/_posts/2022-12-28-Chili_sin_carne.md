@@ -7,7 +7,7 @@ featured_image: /images/gevulde pompoen1200.jpg
 recipe:
   servings: 6 pers.
   ingredients_markdown: |-
-    * 6 kleine sweet dumpling pompoenen    * 300g vegan fijngehakt van Greenway (diepvries bij Delhaize)
+    * 6 kleine sweet dumpling pompoenen    * 300g vegan fijngehakt van Greenway (diepvries bij Colruyt)
     * 1 blik kidneybonen (van 400g bruto)
     * 1 blik zwarte bonen
     * 2 grote rode paprika’s, zaadjes verwijderd en in stukken gesneden
