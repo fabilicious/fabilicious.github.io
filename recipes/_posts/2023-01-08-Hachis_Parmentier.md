@@ -10,11 +10,12 @@ recipe:
     **Vegetarisch gehakt:**
     * 1 grote ui, fijngesneden
     * 2 teentjes look, fijngesneden
-    * 400g Greenway gehakt rauw vegan (Delhaize)
+    * 400g Greenway gehakt rauw vegan (Delhaize/Colruyt)
     * 70g geconcentreerde tomatenpuree
     * ca. 80ml water
     * een beetje gedroogde tijm
     * olijfolie
+    * cayennepeper
 
     **Knolselder:**
     * 500g knolselder in reepjes van 0,5 cm
@@ -24,7 +25,7 @@ recipe:
     * 2 à 3dl (plantaardig) melk
     * 60g (plantaardige) boter
     * muskaatnoot
-    * peper, zout, cayennepeper
+    * peper en zout
     
     **Afwerking:**    * 80g geraspte kaas (emmental, gruyère,...)
     * 50g broodkruim
@@ -52,4 +53,6 @@ Verdeel het gehakt, daarop komt de knolselder en vervolgens de aardappelpuree.
 Strooi er de kaas en tot slot het broodkruim over.
 Verwarm de oven op 200°C en bak de Parmentier ongeveer een 30 minuten tot hij aan de bovenkant goudbruin is en bubbelt.
 
+<b>Tip: </b>
 
+Kan ook met Greenway Fijngehakt diepvries ( nu bij Colruyt ). Hiervan is 300g voldoende. Dit gehakt moet je niet meebakken, enkel op het laatste toevoegen aan de saus.
