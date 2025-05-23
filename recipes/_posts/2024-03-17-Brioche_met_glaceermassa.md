@@ -31,7 +31,7 @@ Nooit gedacht dat ik na het suikerbrood, de kramiek, de zuurdesembrioche, de bab
 
 **Glaceermassa**
 
-Meng al de ingrediënten samen en zet in de koelkast.
+Meng al de ingrediënten, behalve de poedersuiker, samen en zet in de koelkast.
 
 
 **Briochedeeg**
