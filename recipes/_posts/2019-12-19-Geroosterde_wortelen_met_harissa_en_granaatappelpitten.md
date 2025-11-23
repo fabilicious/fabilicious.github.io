@@ -9,7 +9,7 @@ recipe:
   ingredients_markdown: |-
     * 800g lange,dunne jonge wortelen (of gewone wortelen,in lange smalle repen van 10cm op 1,5cm), geschraapt en steeltjes ingekort)
     * 60g granaatappelpitten (ca 1/2 granaatappel)
-    * 2 theelepels komijnzaad (ik gebruik 1 eetlepel komijnzaad en 1 eetlepel komijnpoeder)
+    * 2 theelepels komijnzaad (ik gebruik 1 grote theelepel komijnzaad en 1 theelepel komijnpoeder)
     * 2 theelepels honing (voor mij 4 theelepels)
     * 20g boter, gesmolten (voor mij 40g)
     * 1 eetlepels olijfolie (voor mij 2 eetlepels)
