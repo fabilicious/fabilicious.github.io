@@ -11,8 +11,8 @@ recipe:
     * 1 grote ui, fijngesneden
     * 2 teentjes look, fijngesneden
     * 400g Greenway gehakt rauw vegan (Delhaize/Colruyt)
-    * 70g geconcentreerde tomatenpuree
-    * ca. 80ml water
+    * 1 koffielepel geconcentreerde tomatenpuree
+    * 1 blik 400g tomaten in stukjes
     * een beetje gedroogde tijm
     * olijfolie
     * cayennepeper
@@ -41,7 +41,7 @@ Opgelet de knolselder moet nog beetgaar zijn.
 
 **Vegetarisch gehakt:**
 
-Fruit de ui en de look in een beetje olijfolie tot ze glazig zien. Voeg het gehakt toe en bak het tot het mooi bruin en gaar is. Voeg nadien tomatenpuree en water toe en laat het geheel enkele minuten sudderen tot je een dikke saus bekomt.
+Fruit de ui en de look in een beetje olijfolie tot ze glazig zien. Voeg het gehakt toe en bak het tot het mooi bruin en gaar is. Doe de stukjes tomaat en tomatenpuree erbij en laat het geheel enkele minuten sudderen tot je een dikke saus bekomt.
 Breng op smaak met peper, zout, tijm en een beetje cayennepeper.
 
 **Puree**
